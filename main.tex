@@ -1,6 +1,21 @@
-\documentclass{book}
+\documentclass[12pt, a5paper, twoside]{book}
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
+\usepackage[margin=2.5cm]{geometry} % Easier control over the margins
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries}{}{0pt}{\Huge}
+
+\newcommand\Chapter[2]{\chapter
+  [#1\hfil\hbox{}\protect\linebreak{\itshape#2}]%
+  {#1\\[2ex]\Large\itshape#2}%
+  \markboth{\MakeUppercase{\chaptername\ \thechapter.\ #1}}{}%
+}
+
+\renewcommand{\familydefault}{cmss}
+\newcommand{\smaller}{\small}
+\raggedright 
 
 \title{Beekeeping Notes}
 \author{Joe J Collins}
@@ -9,7 +24,80 @@
 \begin{document}
  
 \maketitle
+
+
  
-\section{April}
+\Chapter{April}{Two colonies to begin the season}
+
+\section{1st inspection - 6 April}
+
+\begin{enumerate}
+	\item{Queen present and laying}
+\end{enumerate}
+
+\section{Marking and Clipping Queens}
+
+\section{Select for cull or sale}
+
+
+
+\Chapter{May}{Increase to 4 colonies}
+
+\section{Swarm inspections}
+
+5 day interval
+
+
+
+\section{Artificial Swarm - Remove the Brood}
+
+\section{Artificial Swarm - Remove the Queen}
+
+\section{Artificial Swarm - Combo}
+
+
+
+\Chapter{June}{Handle production and Unintended Swarming}
+
+\section{Inhibit Swarming - Brood Removal}
+
+\section{Inhibit Swarming - Moving Flying Bees}
+
+\section{Swarming - Clipped Queen}
+
+\section{Swarming - Unclipped Queen}
+
+\section{Introducing a Queen}
+ 
+ \begin{enumerate}
+	\item{Best acceptance between 6 hours and 12 hours queenless or after 9 days.}
+\end{enumerate}
+ 
+ 
+ 
+\Chapter{July}{Honey Production}
+
+
+ 
+\Chapter{August}{Honey Crop and Varroa Treatment}
+
+Taking off the honey.
+
+Marking and Clipping Queens
+
+
+\Chapter{September}{Three colonies for winter}
+
+\section{Cull and Merge}
+
+
+\Chapter{December}{Varroa Treatment and Candy}
+
+\section{Make Candy}
+
+
+
+
+\Chapter{March}{Starvation Risk}
  
 \end{document}
