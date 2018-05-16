@@ -11,10 +11,52 @@
 \section{Keeping Bees}
 
 Doctrine of planned action.
- 
+
+Minimal equipment
+
+
+
+\section{January - Oxalic Acid and Candy}
+
+\begin{apiary}{Add candy to provide and indicator}
+    \path (4,6) pic{roof=candy};
+    \path (4,4) pic{brood=8F};
+    \path (4,2) pic{brood=8F};
+    \path (4,0) pic{stand};
+
+    \path (12,6) pic{roof=candy};
+    \path (12,4) pic{brood=8F};
+    \path (12,2) pic{brood=8F};
+    \path (12,0) pic{stand};
+
+    \path (20,6) pic{roof=candy};
+    \path (20,4) pic{brood=8F};
+    \path (20,2) pic{brood=8F};
+    \path (20,0) pic{stand};
+\end{apiary}
+
+\section{March - Feeding (Maybe)}
+
+\begin{apiary}{Rapid feed if necessary}
+    \path (4,6) pic{roof=feeder};
+    \path (4,4) pic{brood=8F};
+    \path (4,2) pic{brood=8F};
+    \path (4,0) pic{stand};
+
+    \path (12,6) pic{roof=feeder};
+    \path (12,4) pic{brood=8F};
+    \path (12,2) pic{brood=8F};
+    \path (12,0) pic{stand};
+
+    \path (20,6) pic{roof=feeder};
+    \path (20,4) pic{brood=8F};
+    \path (20,2) pic{brood=8F};
+    \path (20,0) pic{stand};
+\end{apiary}
+
 \section{April - Two colonies to begin the season}
 
-\subsection{1st inspection - 6 April}
+\subsection{1st Inspection - Select for Sale}
 
 \begin{enumerate}
 	\item{Confirm queen present and laying}
@@ -25,39 +67,47 @@ Doctrine of planned action.
 \end{enumerate}
 
 
-\begin{tikzpicture}[x=5mm,y=5mm]
-    \draw[ultra thick] (-1,0) -- (28,0);
-    \path (0,7.5) pic{roof=feeder};
-    \path (0,6)  pic{super=super};
-    \path (0,4)  pic{brood=8F};
-    \path (0,2)  pic{brood=8F};
-    \path (0,0)  pic{stand};
+\begin{apiary}{Select of removal}
+    \path (4,6) pic{roof=feeder};
+    \path (4,4) pic{brood=8F};
+    \path (4,2) pic{brood=8F};
+    \path (4,0) pic{stand};
+
+    \node at (13.5,8) {Selected};
+    \path (12,6) pic{roof=feeder};
+    \path (12,4) pic{brood=8F};
+    \path (12,2) pic{brood=8F};
+    \path (12,0) pic{stand};
+
+    \path (20,6) pic{roof=feeder};
+    \path (20,4) pic{brood=8F};
+    \path (20,2) pic{brood=8F};
+    \path (20,0) pic{stand};
+\end{apiary}
+
+Shuffle for sale or give away.
+
+
+\begin{apiary}{Stuff}
+
+    \path (4,6) pic{roof};
+    \path (4,4) pic{brood=9F};
+    \path (4,2) pic{brood=9F};
+    \path (4,0) pic{stand};
+
+    \node at (13.5,6) {Remove or Sell};
+    \path (12,4) pic{roof};
+    \path (12,2) pic{brood=11F};
+    \path (12,0) pic{stand};
+
+
+    \path (20,6) pic{roof};
+    \path (20,4) pic{brood=9F};
+    \path (20,2) pic{brood=9F};
+    \path (20,0) pic{stand};
     
-    \path (4,5.5) pic{roof=candy};
-    \path (4,4)  pic{super=super};
-    \path (4,2)  pic{brood=8F};
-    \path (4,0)  pic{brood=8F};
 
-    \path (8,4)  pic{super=super};
-    \path (8,2)  pic{brood=8F};
-    \path (8,0)  pic{brood=8F};
-
-    \path (12,4)  pic{super=super};
-    \path (12,2)  pic{brood=8F};
-    \path (12,0)  pic{brood=8F};
-
-    \path (16,4)  pic{super=super};
-    \path (16,2)  pic{brood=8F};
-    \path (16,0)  pic{brood=8F};
-
-    \path (20,4)  pic{super=super};
-    \path (20,2)  pic{brood=8F};
-    \path (20,0)  pic{brood=8F};
-    
-    \path (24,4)  pic{super=super};
-    \path (24,2)  pic{brood=8F};
-    \path (24,0)  pic{brood=8F};
-\end{tikzpicture}
+\end{apiary}
 
 The colony selected for sale has 16 frames (8F x 8F).
 Select 11 of the frames for sale.
@@ -65,9 +115,31 @@ And put in one box.
 Shake off the other 5 frames and put 4 them in the other two colonies so the are now 18 frames (9F x 9F) each.
 Stash or trash the 5 th frame.
 
+
+
 \section{May - Increase to 4 colonies}
 
 At this point both colonies are on double brood of 18 frames (9F x 9F)
+
+
+\begin{apiary}{Stuff}
+    \path (4,6) pic{roof};
+    \path (4,4)  pic{brood=8F};
+    \path (4,2)  pic{brood=8F};
+    \path (4,0)  pic{stand};
+
+    \path (12,6) pic{roof};
+    \path (12,4)  pic{brood=8F};
+    \path (12,2)  pic{brood=8F};
+    \path (12,0)  pic{stand};
+
+    \path (20,6) pic{roof};
+    \path (20,4)  pic{brood=8F};
+    \path (20,2)  pic{brood=8F};
+    \path (20,0)  pic{stand};
+\end{apiary}
+
+
 
 \subsection{Swarm inspections}
 
@@ -182,5 +254,50 @@ Marking and Clipping Queens
 
 
 \section{March}{Starvation Risk}
+
+
+\begin{apiary}{Stuff}
+    \path (0,7.5) pic{roof=feeder};
+    \path (0,6)  pic{super=super};
+    \path (0,4)  pic{brood=8F};
+    \path (0,2)  pic{brood=8F};
+    \path (0,0)  pic{stand};
+    
+    \path (4,7.5) pic{roof=candy};
+    \path (4,6)  pic{super=super};
+    \path (4,4)  pic{brood=8F};
+    \path (4,2)  pic{brood=8F};
+    \path (4,0)  pic{stand};
+
+    \path (8,7.5) pic{roof=candy};
+    \path (8,6)  pic{super=super};
+    \path (8,4)  pic{brood=8F};
+    \path (8,2)  pic{brood=8F};
+    \path (8,0)  pic{stand};
+
+    \path (12,7.5) pic{roof=candy};
+    \path (12,6)  pic{super=super};
+    \path (12,4)  pic{brood=8F};
+    \path (12,2)  pic{brood=8F};
+    \path (12,0)  pic{stand};
+
+    \path (16,7.5) pic{roof=candy};
+    \path (16,6)  pic{super=super};
+    \path (16,4)  pic{brood=8F};
+    \path (16,2)  pic{brood=8F};
+    \path (16,0)  pic{stand};
+
+    \path (20,7.5) pic{roof=candy};
+    \path (20,6)  pic{super=super};
+    \path (20,4)  pic{brood=8F};
+    \path (20,2)  pic{brood=8F};
+    \path (20,0)  pic{stand};
+    
+    \path (24,7.5) pic{roof=candy};
+    \path (24,6)  pic{super=super};
+    \path (24,4)  pic{brood=8F};
+    \path (24,2)  pic{brood=8F};
+    \path (24,0)  pic{stand};
+\end{apiary}
  
 \end{document}
