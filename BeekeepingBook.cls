@@ -21,6 +21,8 @@
 \usetikzlibrary{arrows}
 \RequirePackage{datetime2}
 \RequirePackage{float}
+\RequirePackage{multirow}
+\RequirePackage{bigdelim}
 
 %% 
 % Set the font and adjust a few sizes

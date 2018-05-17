@@ -18,7 +18,7 @@ Minimal equipment
 
 \section{January - Oxalic Acid and Candy}
 
-\begin{apiary}{Add candy to provide and indicator}
+\begin{apiary}{Add candy block indicator}
     \path (4,6) pic{roof=candy};
     \path (4,4) pic{brood=8F};
     \path (4,2) pic{brood=8F};
@@ -35,9 +35,11 @@ Minimal equipment
     \path (20,0) pic{stand};
 \end{apiary}
 
-\section{March - Feeding (Maybe)}
+\section{March - Feeding}
 
-\begin{apiary}{Rapid feed if necessary}
+The most common reason is starvation.
+
+\begin{apiary}{Feed if necessary}
     \path (4,6) pic{roof=feeder};
     \path (4,4) pic{brood=8F};
     \path (4,2) pic{brood=8F};
@@ -66,14 +68,13 @@ Minimal equipment
 	One of the colonies has to go.}
 \end{enumerate}
 
-
 \begin{apiary}{Select of removal}
     \path (4,6) pic{roof=feeder};
     \path (4,4) pic{brood=8F};
     \path (4,2) pic{brood=8F};
     \path (4,0) pic{stand};
 
-    \node at (13.5,8) {Selected};
+    \node at (13.5,8) {Selected for Removal};
     \path (12,6) pic{roof=feeder};
     \path (12,4) pic{brood=8F};
     \path (12,2) pic{brood=8F};
@@ -105,8 +106,6 @@ Shuffle for sale or give away.
     \path (20,4) pic{brood=9F};
     \path (20,2) pic{brood=9F};
     \path (20,0) pic{stand};
-    
-
 \end{apiary}
 
 The colony selected for sale has 16 frames (8F x 8F).
@@ -161,7 +160,46 @@ When you do an artificial swarm transfer a single frame of brood.
 Not to “keep her there” but so you can confirm that the queen is still present because she will most likely be on this frame.
 
 
-\subsection{Artificial Swarm - Remove the Queen}
+\subsection{Swarm Control - Remove the Queen}
+
+\begin{table}[H]%
+\begin{center}
+\begin{tabular}{lll}
+{\bf Day} & {\bf Queen} & {\bf Beekeeper} \\
+1 & \rdelim\}{3}{3mm}[Egg] & $\leftarrow$ First day to remove queen \tabularnewline
+2 \tabularnewline
+3 & \multirow{2}{*}{\quad $\leftarrow$ Hatching} &  \tabularnewline
+\cline{1-1}
+4 & \rdelim\}{5}{3mm}[Larva] \tabularnewline
+5 &  & \\
+6 &  & \\
+7 &  & \\
+8 & \multirow{2}{*}{\quad $\leftarrow$ Sealed} & $\leftarrow$ Last day to remove queen \\
+\cline{1-1}
+7 & \rdelim\}{8}{3mm}[Pupa] & $\leftarrow$ First day to cull queen cells \\
+8 &  & \\
+9 &  & \\
+10 &  & \\
+11 &  & \\
+12 &  & \\
+13 &  & $\leftarrow$ Last day to cull queen cells \\
+16 & \multirow{2}{*}{\quad $\leftarrow$ Emerging}  & \\
+\cline{1-1}
+15 &  \rdelim\}{7}{3mm}[Maturing] \\
+16 &  & \\
+17 &  & \\
+18 &  & \\
+19 &  & \\
+20 &  & \\
+21 &  & \\
+22 &  & \\
+23 &  & \\
+\hline
+24 & Mating & Hope for warm weather \\
+\end{tabular}
+\caption{Queen Development}%
+\end{center}
+\end{table}
 
 Take out the queen to one side along with 7 of the least brood laden frames.  
 Put in a brood box with two dummy boards.
@@ -210,7 +248,7 @@ Notes from Celia Davis : SBKA Meeting March 12th 2008
 
 
 
-\section{June - Handle production and Unintended Swarming}
+\section{June - Production and Swarming}
 
 \subsection{Inhibit Swarming - Brood Removal}
 
