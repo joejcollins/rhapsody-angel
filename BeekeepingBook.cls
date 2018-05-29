@@ -27,7 +27,8 @@
 %% 
 % Set the font and adjust a few sizes
 %%
-\renewcommand{\familydefault}{cmss}
+
+\renewcommand{\familydefault}{\sfdefault}
 \newcommand{\smaller}{\small}
 \raggedright 
 
