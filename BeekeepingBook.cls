@@ -23,6 +23,8 @@
 \RequirePackage{float}
 \RequirePackage{multirow}
 \RequirePackage{bigdelim}
+\RequirePackage{xcolor}
+\RequirePackage[labelformat=empty]{caption}
 
 %% 
 % Set the font and adjust a few sizes
