@@ -9,7 +9,7 @@
 % No options.  This class is based on the book.cls
 % and the options are loaded at this point.
 %%
-\LoadClass[12pt, a4paper, twoside, british]{article}
+\LoadClass[12pt, a4paper, twoside, british]{book}
 
 %% 
 % Packages

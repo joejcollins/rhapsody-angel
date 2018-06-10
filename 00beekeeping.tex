@@ -1,121 +1,57 @@
 \documentclass{./BeekeepingBook}
 
-\title{324 Apriary Management}
+\title{Beekeeping Notes}
 \author{Joe J Collins}
 \date{\DTMnow}
 
 \begin{document}
  
 \maketitle
+\tableofcontents
 
-\section{Keeping Bees}
+\chapter{Overview}
 
-\subsection{Recommendations}
+\section*{Keeping Bees}
+
+\subsection*{Recommendations}
 
 \begin{description}
   \item[Replace some frames each year]
   \item[Treat with oxalic acid mid winter]
   \item[Begin ApiGuard before the middle of August]
   \item[Always have second hive to fix the first]
-  
 \end{description}
 
-\subsection{Response}
+\subsection*{Response}
 
 Doctrine of planned action.
 
 Minimal equipment
 
-\section{January - Oxalic Acid and Candy}
-
-\begin{apiary}{Add candy block indicator}
-    \path (4,6) pic{roof=candy};
-    \path (4,4) pic{brood=8F};
-    \path (4,2) pic{brood=8F};
-    \path (4,0) pic{stand};
-
-    \path (12,6) pic{roof=candy};
-    \path (12,4) pic{brood=8F};
-    \path (12,2) pic{brood=8F};
-    \path (12,0) pic{stand};
-
-    \path (20,6) pic{roof=candy};
-    \path (20,4) pic{brood=8F};
-    \path (20,2) pic{brood=8F};
-    \path (20,0) pic{stand};
-\end{apiary}
-
-\section{March - Feeding}
-
-The most common reason is starvation.
-
-\begin{apiary}{Feed if necessary}
-    \path (4,6) pic{roof=feeder};
-    \path (4,4) pic{brood=8F};
-    \path (4,2) pic{brood=8F};
-    \path (4,0) pic{stand};
-
-    \path (12,6) pic{roof=feeder};
-    \path (12,4) pic{brood=8F};
-    \path (12,2) pic{brood=8F};
-    \path (12,0) pic{stand};
-
-    \path (20,6) pic{roof=feeder};
-    \path (20,4) pic{brood=8F};
-    \path (20,2) pic{brood=8F};
-    \path (20,0) pic{stand};
-\end{apiary}
-
-
+\chapter{Preparation: Avoid Starvation and Queen Selection}
+\include{03March}
 \include{04April}
+
+\chapter{Production: Queens and Honey}
 \include{05May}
-
-\section{June - Production and Swarming}
-
-\subsection{Inhibit Swarming - Brood Removal}
-
-\subsection{Inhibit Swarming - Moving Flying Bees}
-
-\subsection{Swarming - Clipped Queen}
-
-\subsection{Swarming - Unclipped Queen}
-
-\subsection{Introducing a Queen}
+\include{06June}
+\include{07July}
  
- \begin{enumerate}
-	\item{Best acceptance between 6 hours and 12 hours queenless or after 9 days.}
-\end{enumerate}
- 
- 
- 
-\section{July - Honey Production}
+\chapter{Protection: Varroa and Feeding}
+\include{08August}
+\include{09September}
+\include{10October}
+
+\chapter{Preservation: Varroa and Hardware}
+\include{11November}
+\include{12December}
+\include{01January}
+\include{02February}
 
 
- 
-\section{August - Honey Crop and Varroa Treatment}
-
-Taking off the honey.
-
-Marking and Clipping Queens
-
-
-\section{September - Three colonies for winter}
-
-\subsection{Cull and Unite}
-
-
-\subsection{Sale}
-
-\section{December - Varroa Treatment and Candy}
-
-\subsection{Make Candy}
-
-
-
-
-\section{March}{Starvation Risk}
-
-
+\appendix
+\chapter{Appendix}
+\section{Complete Apriary}
 \begin{apiary}{Stuff}
     \path (0,7.5) pic{roof=feeder};
     \path (0,6)  pic{super=super};
@@ -159,5 +95,9 @@ Marking and Clipping Queens
     \path (24,2)  pic{brood=8F};
     \path (24,0)  pic{stand};
 \end{apiary}
+
+\section{Inventory of Equipment}
+
+\section{Inventory of Consumeables}
  
 \end{document}
