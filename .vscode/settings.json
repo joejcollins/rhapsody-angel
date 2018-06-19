@@ -36,23 +36,5 @@
             ]
           }
     ],
-    "latex-workshop.view.pdf.viewer": "external",
-    "latex-workshop.view.pdf.external.command": {
-        "command": "C:\\Program Files\\SumatraPDF\\SumatraPDF.exe",
-        "args": [
-            "-forward-search",
-            "%DOC%.tex",
-            "%LINE%",
-            "%PDF%"
-        ]
-    },
-    "latex-workshop.view.pdf.external.synctex": {
-        "command": "C:\\Program Files\\SumatraPDF\\SumatraPDF.exe",
-        "args": [
-            "-forward-search",
-            "%DOC%.tex",
-            "%LINE%",
-            "%PDF%"
-        ]
-    }
+    "editor.minimap.enabled": false
 }
