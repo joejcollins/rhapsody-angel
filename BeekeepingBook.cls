@@ -33,6 +33,7 @@
 \renewcommand{\familydefault}{\sfdefault}
 \newcommand{\smaller}{\small}
 \raggedright 
+\raggedbottom
 
 \tikzset{
     stand/.pic={code={
