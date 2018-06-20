@@ -11,11 +11,11 @@
              "-synctex=1",
              "-interaction=nonstopmode",
              "-file-line-error",
-             "00beekeeping.tex"
+             "00Main.tex"
          ]}, {
          "taskName": "Build BibTex",
          "command": "bibtex",
          "isTestCommand": true,
-         "args": ["00beekeeping.aux"]
+         "args": ["00Main.aux"]
          }]
 }
