@@ -2,7 +2,7 @@
 % Class Identification
 %%
 \NeedsTeXFormat{LaTeX2e}[1995/06/01]
-\ProvidesClass{beekeepingbook}
+\ProvidesClass{./BeekeepingBook}
               [2018/05/01 v1.0 BeekeepingBook]
 
 %% 
