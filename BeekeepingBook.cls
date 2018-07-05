@@ -2,7 +2,7 @@
 % Class Identification
 %%
 \NeedsTeXFormat{LaTeX2e}[1995/06/01]
-\ProvidesClass{beekeepingbook}
+\ProvidesClass{./BeekeepingBook}
               [2018/05/01 v1.0 BeekeepingBook]
 
 %% 
@@ -25,6 +25,7 @@
 \RequirePackage{bigdelim}
 \RequirePackage{xcolor}
 \RequirePackage[labelformat=empty]{caption}
+\RequirePackage[bottom]{footmisc}
 
 %% 
 % Set the font and adjust a few sizes
@@ -32,8 +33,9 @@
 
 \renewcommand{\familydefault}{\sfdefault}
 \newcommand{\smaller}{\small}
-\raggedright 
+%\raggedright 
 \raggedbottom
+
 
 \tikzset{
     stand/.pic={code={
