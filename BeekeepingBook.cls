@@ -26,6 +26,7 @@
 \RequirePackage{xcolor}
 \RequirePackage[labelformat=empty]{caption}
 \RequirePackage[bottom]{footmisc}
+\RequirePackage{array} % for the counter in the tables
 
 %% 
 % Set the font and adjust a few sizes
@@ -64,7 +65,7 @@
 }
 
 %% 
-% Apiary
+% Apiary Diagram
 %%
 \newcommand{\temporaryCaption}{}% register to store caption
 \newenvironment{apiary}[1]%

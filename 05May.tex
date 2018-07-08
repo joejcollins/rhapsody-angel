@@ -94,60 +94,67 @@ So a queen cell containing an egg is sufficient to indicate
 that the colony is ready and able to raise a queen.}
 Four step approach.
 
+
+
+\newcounter{rowno}
+\setcounter{rowno}{0}
+
+
 \begin{table}[H]%
+
 \begin{center}
-\begin{tabular}{lllcc}
-\textbf{Day} & \textbf{Queen} & \textbf{Early Beekeeper} & \textbf{Late Beekeeper} \\
-1 & \rdelim\}{3}{3mm}[\textsf{Egg}] & $\leftarrow$ 1. \textbf{Remove queen} \\
-2 & & \\
-3 & \multirow{2}{*}{\quad $\leftarrow$ Hatching} & \\
+\begin{tabular}{>{\stepcounter{rowno}\therowno}lllcc}
+\multicolumn{1}{r}{\textbf{Day}}  & \textbf{Queen} & \textbf{Early Beekeeper} & \textbf{Late Beekeeper} \\
+ & \rdelim\}{3}{3mm}[\textsf{Egg}] & $\leftarrow$ 1. \textbf{Remove queen} \\
+\\
+ & \multirow{2}{*}{\quad $\leftarrow$ Hatching} & \\
+ \cline{1-1}
+ & \rdelim\}{5}{3mm}[\textsf{Larva}] &  \\
+ \\
+ \\
+ \\
+ & \multirow{2}{*}{\quad $\leftarrow$ Sealing} & $\leftarrow$ 2. \textbf{Cull queen cells} & $\leftarrow$ 1. \textbf{Remove queen} \\
 \cline{1-1}
-4 & \rdelim\}{5}{3mm}[\textsf{Larva}] &  \\
-5 \\
-6 \\
-7 \\
-8 & \multirow{2}{*}{\quad $\leftarrow$ Sealing} & $\leftarrow$ 2. \textbf{Cull queen cells} & $\leftarrow$ 1. \textbf{Remove queen} \\
+ & \rdelim\}{8}{3mm}[\textsf{Pupa}] &  \\
+ \\
+ \\
+ \\
+ \\
+ \\
+ & & & $\leftarrow$ 2. \textbf{Cull queen cells} \\
+ & \multirow{2}{*}{\quad $\leftarrow$ Emerging} \\
 \cline{1-1}
-9 & \rdelim\}{8}{3mm}[\textsf{Pupa}] &  \\
-10 \\
-11 \\
-12 \\
-13 \\
-14 \\
-15 & & & $\leftarrow$ 2. \textbf{Cull queen cells} \\
-16 & \multirow{2}{*}{\quad $\leftarrow$ Emerging} \\
+ & \rdelim\}{5}{3mm}[\textsf{Maturing}] \\
+ \\
+ \\
+ \\
+ \\
 \cline{1-1}
-17 & \rdelim\}{5}{3mm}[\textsf{Maturing}] \\
-18 \\
-19 \\
-20 \\
-21 \\
+ & \rdelim\}{4}{3mm}[\textsf{Mating (typical)}] \\
+ \\
+ \\
+ \\
 \cline{1-1}
-22 & \rdelim\}{4}{3mm}[\textsf{Mating (typical)}] \\
-23 \\
-24 \\
-25 \\
+ & \rdelim\}{2}{3mm}[\textsf{Sperm Transfer}] \\
+ \\
 \cline{1-1}
-26 & \rdelim\}{2}{3mm}[\textsf{Sperm Transfer}] \\
-27 \\
-\cline{1-1}
-28 & \rdelim\}{17}{3mm}[\textsf{Laying (typical)}] \\
-29 \\
-30 \\
-31 \\
-32 \\
-33 \\
-34 \\
-35 \\
-36 \\
-37 & & \multicolumn{2}{l}{$\leftarrow$  3. \textbf{Add eggs from original queen}} \\
-38 \\
-39 \\
-40 \\
-41 \\
-42 \\
-43 \\
-44 & & \multicolumn{2}{l}{$\leftarrow$  4. \textbf{Check}} \\
+ & \rdelim\}{17}{3mm}[\textsf{Laying (typical)}] \\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+ & & \multicolumn{2}{l}{$\leftarrow$  3. \textbf{Add eggs from original queen}} \\
+\\
+\\
+\\
+\\
+\\
+\\
+ & & \multicolumn{2}{l}{$\leftarrow$  4. \textbf{Check}} \\
 \end{tabular}
 \caption{Swarm Control and Queen Raising}%
 \end{center}
@@ -196,7 +203,6 @@ Close up the frames in the brood box and till the remaining space with frames of
  
 \subsubsection*{Step 2: Cull queen cells}
 
-
 \begin{quotation}
 7 days after the queen was removed.
 \begin{description}
@@ -210,6 +216,8 @@ Close up the frames in the brood box and till the remaining space with frames of
 	or to unite back with the colony.
   \item[Add four frames for old queen] The old colony should be building up, add 4 more frames and remove the dummy boards to bring it up to 11 frames.
   \item[Move the old queens colony] to the other side to bleed off bees into the new queens colony.
+  \item[Leave for three weeks] looking isn't informative, adding eggs will reset and promote swarming.
+
 \end{description}
 \end{quotation}
 
@@ -222,26 +230,35 @@ The nucleus is available to use for other procedures later, or can be united bac
 
 \subsubsection*{Step 3: Add eggs from original queen (optional)}
 
+
+\begin{quotation}
+21 days after the queen has emerged.
+Should have mated and be laying.
+
+\begin{description}
+  \item[Transfer 2 frames between] Brood and eggs to keep strong and to check for, chance that it will trigger swarm.
+  \item[Restack Supers] so the heavy ones are on top.
+  \item[Swap Original hive] to the other side.
+\end{description}
+\end{quotation}
+
+Compromise since attempting to inhibit drone layer.
 Some authorities suggest that i
 Queen isn't mated and there is increased risk you will squish her or interfere with the mating fly.
 However it is an opportunity to keep the number of young bees up.
 and will give early warning if the queen was injured.
 
-\begin{description}
-  \item[Confirm queen has emerged] look for chewed open (may be informative).
-  \item[Transfer 2 frames between] Brood and eggs to keep strong and to check for
-  \item[Restack Supers] so the heavy ones are on top.
-  \item[Swap Original hive] to the other side.
-\end{description}
-
 \subsubsection*{Step 4: Check and add eggs from original queen}
 
+\begin{quotation}
+Confirm the queen is present and laying,
+if not assume queenless.
+This might not be the case but proceed anyway.
 \begin{description}
   \item[Check transfered frame] look for emergency cells.
   \item[Check queen is laying] 
   \item[Add more eggs and brood] to check queen and if need to deplete origin
 \end{description}
-
-
+\end{quotation}
 
 
