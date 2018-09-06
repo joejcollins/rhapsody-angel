@@ -1,0 +1,55 @@
+\documentclass{beamer}
+%\setbeameroption{show only notes}
+\usepackage{graphicx}
+\setlength\parindent{0.25in}
+
+\newcommand{\bigpicture}[1]{% 
+  \begin{list}{}{% 
+    \vspace*{-0.58cm}% Top to nothing
+    \setlength{\topsep}{-0pt}% Doesn't matter
+    \setlength{\leftmargin}{-1.3cm}% RHS to nothing
+    \setlength{\rightmargin}{0pt}% Doesn't matter
+    \setlength{\listparindent}{\parindent}% 
+    \setlength{\itemindent}{\parindent}% 
+    \setlength{\parsep}{\parskip}% 
+  }%   
+  \item[]%
+  \vspace*{\fill}
+    \includegraphics[width=5.04ins, height=3.78ins]{#1}% values taken from the PDF
+  \vspace*{\fill}
+  \end{list}%
+}%
+
+%Information to be included in the title page:
+\title{3 to 4 Hives} 
+\author{Joe J Collins\newline\href{https://twitter.com/joejcollins}{@joejcollins}}
+\institute{Shropshire Beekeepers Association} 
+\date{1 September 2018} 
+
+\begin{document}
+
+
+\begin{frame}
+\bigpicture{../Assets/BbcTestCard.jpg}
+\end{frame}
+
+\frame{\titlepage}
+
+\begin{frame}
+\frametitle{Joe J Collins}
+\framesubtitle{joejcollins$@$gmail.com}
+
+\note{}
+\end{frame}
+
+\begin{frame}
+\frametitle{Beekeeping}
+\framesubtitle{What is the cost?}
+\begin{center}
+
+\end{center}
+\note{Stuff}
+\end{frame}
+
+\end{document}
+
