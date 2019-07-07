@@ -1,21 +1,22 @@
 {
- "version": "0.1.0",
- "isShellCommand": true,
- "suppressTaskName": true,
- "showOutput": "always",
- "tasks": [{
-         "taskName": "Build PDF",
-         "command": "pdflatex",
-         "isBuildCommand": true,
-         "args": [
-             "-synctex=1",
-             "-interaction=nonstopmode",
-             "-file-line-error",
-             "00Main.tex"
-         ]}, {
-         "taskName": "Build BibTex",
-         "command": "bibtex",
-         "isTestCommand": true,
-         "args": ["00Main.aux"]
-         }]
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build PDF",
+            "type": "shell",
+            "command": "pdflatex",
+            "args": [
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "-file-line-error",
+                "00Main.tex"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
 }
