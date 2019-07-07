@@ -218,3 +218,10 @@ TSWLatexianTemp*
 
 # expex forward references with \gathertags
 *-tags.tex
+
+# Jekyll
+
+_site/
+.sass-cache/
+.jekyll-metadata
+Gemfile.lock

@@ -1,4 +1,24 @@
 {
     "latex-workshop.view.pdf.viewer": "tab",
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "latex-workshop.latex.recipes": [{
+        "name": "Build PDF",
+        "tools": [
+          "pdfLaTeX"
+        ]
+      }],
+      "latex-workshop.latex.tools": [{
+        "name": "pdfLaTeX",
+        "command": "pdflatex",
+        "args": [
+          "-synctex=1",
+          "-interaction=nonstopmode",
+          "-file-line-error",
+          "-output-directory=book",
+          "./00Book.tex"
+        ],
+          "env": {}
+      }
+    ],
+    "latex-workshop.latex.autoBuild.run": "never"
 }

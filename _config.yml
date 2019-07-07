@@ -14,4 +14,6 @@ timezone: GMT
 # Permalinks
 permalink: pretty
 
-include: ["_queens"]
+
+exclude: ["book", "presentation", "*.synctex.gz"]
+include: ["queens"]

@@ -11,7 +11,8 @@
                 "-synctex=1",
                 "-interaction=nonstopmode",
                 "-file-line-error",
-                "00Main.tex"
+                "-output-directory=book",
+                "./book/00Book.tex"
             ],
             "group": {
                 "kind": "build",
