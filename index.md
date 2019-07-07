@@ -8,11 +8,11 @@ title: Queens
 * Sonja (8 x 8 F - 2018 Queen)
 
 
-* Grace (10 F - 2019 Queen)
+* [Grace]({{ site.baseurl }}/queens/grace/) (10 F - 2019 Queen)
 
 
 * [Kate]({{ site.baseurl }}/queens/kate/) (9F - Queen Cells)
-* Georgia (10 F - 2018 Queen)
+* [Georgia]({{ site.baseurl }}/queens/georgia/) (10 F - 2018 Queen)
 
-* Ruth 2 (11F - 2019 Queen)
+* [Ruth2]({{ site.baseurl }}/queens/ruth2/) (11F - 2019 Queen)
 
