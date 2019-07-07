@@ -4,15 +4,18 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Build PDF",
+            "label": "Build Book",
             "type": "shell",
             "command": "pdflatex",
+            "options": {
+				"cwd": "${workspaceRoot}/book"
+			},
             "args": [
                 "-synctex=1",
                 "-interaction=nonstopmode",
                 "-file-line-error",
-                "-output-directory=book",
-                "./book/00Book.tex"
+                "-output-directory=${workspaceRoot}/book/",
+                "${workspaceRoot}/book/00Book.tex"
             ],
             "group": {
                 "kind": "build",

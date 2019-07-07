@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Apiary
+title: Queens
 ---
 # {{ page.title }}
 
@@ -11,7 +11,7 @@ title: Apiary
 * Grace (10 F - 2019 Queen)
 
 
-*  [Kate]({{ site.baseurl }}/queens/kate/) (9F - Queen Cells)
+* [Kate]({{ site.baseurl }}/queens/kate/) (9F - Queen Cells)
 * Georgia (10 F - 2018 Queen)
 
 * Ruth 2 (11F - 2019 Queen)

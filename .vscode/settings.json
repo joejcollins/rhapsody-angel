@@ -14,11 +14,11 @@
           "-synctex=1",
           "-interaction=nonstopmode",
           "-file-line-error",
-          "-output-directory=book",
-          "./00Book.tex"
-        ],
+          "%DOC%.tex"
+      ],
           "env": {}
       }
     ],
-    "latex-workshop.latex.autoBuild.run": "never"
+    "latex-workshop.latex.autoClean.run": "onBuilt",
+    "latex-workshop.synctex.afterBuild.enabled": true
 }
