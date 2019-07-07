@@ -1,8 +1,4 @@
----
-layout: default
-title: Georgia
----
-# {{ page.title }}
+# Georgia
 ## 10F + 2S
 ## Queen Cell
 

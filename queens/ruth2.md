@@ -1,8 +1,4 @@
----
-layout: default
-title: Ruth2
----
-# {{ page.title }}
+# Ruth2
 ## 11 F + Crystallized Super
 ## 2018 Queen (Marked Yellow)
 

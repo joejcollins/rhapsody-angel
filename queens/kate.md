@@ -1,8 +1,4 @@
----
-layout: default
-title: Kate
----
-# {{ page.title }}
+# Kate
 ## 9 F 
 ## 2018 Queen
 

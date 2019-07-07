@@ -1,8 +1,4 @@
----
-layout: default
-title: Grace
----
-# {{ page.title }}
+# Grace
 ## 11F + 2S
 ## 2019 Queen Marked
 
