@@ -1,0 +1,17 @@
+# Conversion
+markdown:         kramdown
+highlighter:      rouge
+
+# Markdown Processor
+kramdown:
+  auto_ids: true
+  input: GFM
+  hard_wrap: false
+
+url: https://bees.bagbatch.co.uk
+timezone: GMT
+
+# Permalinks
+permalink: pretty
+
+include: ["_queens"]
