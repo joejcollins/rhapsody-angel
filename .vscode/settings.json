@@ -20,5 +20,8 @@
       }
     ],
     "latex-workshop.latex.autoClean.run": "onBuilt",
-    "latex-workshop.synctex.afterBuild.enabled": true
+    "latex-workshop.synctex.afterBuild.enabled": true,
+    "files.associations": {
+      "Vagrantfile": "ruby"
+  }
 }
