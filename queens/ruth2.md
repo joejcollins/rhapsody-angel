@@ -2,7 +2,7 @@
 ## 11 F + Crystallized Super
 ## 2018 Queen (Marked Yellow)
 
-2019-06-14 
+2019-06-13 They aren't really clearing off the crystallized honey in the super.  However there is loads of young brood and bees on all the frames.
 
 2019-06-07 Put on a crystallized super to get them to eat the crystals.
 

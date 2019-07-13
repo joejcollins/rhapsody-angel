@@ -2,6 +2,8 @@
 ## 11F + 2S
 ## 2019 Queen Marked
 
+2019-06-13 
+
 2019-07-06 Saw the queen and marked her yellow.  A bit of paint got on her wing.  No signs of swarming.
 
 2019-06-28 Saw brood and eggs.  Had a good hunt for the queen but didn’t see her.

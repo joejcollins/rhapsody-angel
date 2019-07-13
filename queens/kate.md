@@ -1,6 +1,8 @@
 # Kate
-## 9 F 
-## 2018 Queen
+## 11 F 
+## 2018 Queen (unmarked)
+
+2019-06-13 Pissed off, but plenty of eggs and brood.  Didn't see the queen.  They need more space so I added 2 brood frames.
 
 2019-07-06 Found charged queen cells so took the queen and moved her to one side.  The charged queen cells are on the original site ([Georgia]({{ site.baseurl }}/queens/georgia/)).
 
