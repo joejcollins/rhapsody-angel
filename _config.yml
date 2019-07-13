@@ -22,5 +22,5 @@ timezone: GMT
 permalink: pretty
 
 
-exclude: ["book", "presentation", "*.synctex.gz"]
+exclude: ["book", "presentation", "*.synctex.gz", "*.sh", "Vagrantfile"]
 include: ["queens"]

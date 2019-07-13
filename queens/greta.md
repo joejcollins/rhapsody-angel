@@ -1,8 +1,10 @@
 # Greta
+## 11F + 1S
+## Queenless
 
-## 11F + 2S
+2019-06-14 Placed on top of [Kate]({{ site.baseurl }}/queens/kate/) with a view to merging them at some point.
 
-## Queen Cell - Production hive
+2019-06-13 No signs of a laying queen.  Assumed to be queenless, will put on top of [Kate]({{ site.baseurl }}/queens/kate/) with a Snelgrove board.
 
 2019-07-06 No signs of a laying queen.  The queen cell on the South side of the cull frame looks opened now but that has been there for at least a month so I don’t think it is relevant.
 

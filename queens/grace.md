@@ -2,7 +2,9 @@
 ## 11F + 2S
 ## 2019 Queen Marked
 
-2019-06-13 
+*Next inspection - cull the drone brood*
+
+2019-06-13 Saw the queen, saw eggs.  No signs of swarming.
 
 2019-07-06 Saw the queen and marked her yellow.  A bit of paint got on her wing.  No signs of swarming.
 

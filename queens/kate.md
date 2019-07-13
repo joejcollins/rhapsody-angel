@@ -2,7 +2,9 @@
 ## 11 F 
 ## 2018 Queen (unmarked)
 
-2019-06-13 Pissed off, but plenty of eggs and brood.  Didn't see the queen.  They need more space so I added 2 brood frames.
+2019-06-14 Put [Greta]({{ site.baseurl }}/queens/greta/) on top with a view to merging them at some point.
+
+2019-06-13 Pissed off, but plenty of eggs and brood.  Didn't see the queen.  They need more space so I added 2 brood frames.  Put on a crystallized super to get them to eat the crystals.
 
 2019-07-06 Found charged queen cells so took the queen and moved her to one side.  The charged queen cells are on the original site ([Georgia]({{ site.baseurl }}/queens/georgia/)).
 
