@@ -1,5 +1,5 @@
 # Ruth2
-## 11 F + Crystallized Super
+## 11 F + 2 Crystallized Supers
 ## 2018 Queen (Marked Yellow)
 
 2019-06-13 They aren't really clearing off the crystallized honey in the super.  However there is loads of young brood and bees on all the frames.
