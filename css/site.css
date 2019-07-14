@@ -1,0 +1,13 @@
+.container {
+    margin:0;
+}
+.apiary {
+    float:left;
+    width:40%;
+    overflow:hidden;
+}
+.queen {
+    float:left;
+    width:60%;
+    overflow:hidden;
+}

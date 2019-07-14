@@ -4,10 +4,16 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/css/site.css">
 </head>
 <body>
-    {% capture my_include %}{% include apiary.md %}{% endcapture %}
-    {{ my_include | markdownify }}
-
-    {{ content }}
+    <section class="container">
+        <div class="apiary">
+          {% capture my_include %}{% include apiary.md %}{% endcapture %}
+          {{ my_include | markdownify }}
+        </div>
+        <div class="queen">
+          {{ content }}
+        </div>
+    </section>
 </body>
