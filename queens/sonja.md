@@ -1,5 +1,5 @@
 # Sonja
-## 9 x 9 F + 3S
+## 11 x 11 F + 3S
 ## 2018 Queen Marked
 
 2019-06-14 Added two brood frames bring them up to 20.
@@ -10,7 +10,7 @@
 
 2019-07-06 Looked for the queen but couldn’t find her.  No signs of swarming but lots of bees, needs another super and a couple more brood frames.
 
-2019-06-30 Took of the shit brood frames that had drones laid in them and distributed them to the other hives.
+2019-06-30 Took off the shit brood frames that had drones laid in them and distributed them to the other hives.
 
 2019-06-28 Saw brood and eggs.  There are rubbish brood frames that had drone laying workers on them.
 

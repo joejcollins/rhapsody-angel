@@ -2,6 +2,8 @@
 ## 11F + 1S
 ## Queenless
 
+*Confirm queenless and remove Snelgrove around 21 July*
+
 2019-06-14 Placed on top of [Kate]({{ site.baseurl }}/queens/kate/) with a view to merging them at some point.
 
 2019-06-13 No signs of a laying queen.  Assumed to be queenless, will put on top of [Kate]({{ site.baseurl }}/queens/kate/) with a Snelgrove board.

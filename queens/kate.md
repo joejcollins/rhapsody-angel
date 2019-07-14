@@ -2,7 +2,9 @@
 ## 11 F 
 ## 2018 Queen (unmarked)
 
-2019-06-14 Put [Greta]({{ site.baseurl }}/queens/greta/) on top with a view to merging them at some point.
+*Open lower door on Snelgrove around 18 July*
+
+2019-06-14 Put [Greta]({{ site.baseurl }}/queens/greta/) on top with a Snelgrove board between with a view to merging them at some point.
 
 2019-06-13 Pissed off, but plenty of eggs and brood.  Didn't see the queen.  They need more space so I added 2 brood frames.  Put on a crystallized super to get them to eat the crystals.
 
