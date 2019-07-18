@@ -2,7 +2,7 @@
 ## 11 F 
 ## 2018 Queen (unmarked)
 
-*Open lower door on Snelgrove around 18 July*
+2019-06-18 Open lower door on Snelgrove.
 
 2019-06-14 Saw the queen and marked her, she is kind of small.  Put [Greta]({{ site.baseurl }}/queens/greta/) on top with a Snelgrove board between with a view to merging them at some point.
 

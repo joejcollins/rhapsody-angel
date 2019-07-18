@@ -2,7 +2,7 @@
 ## 11F + 2S
 ## 2019 Queen Marked
 
-*Next inspection - cull the drone brood*
+2019-06-18 Culled the drone brood. Saw the queen, saw eggs.  No signs of swarming.
 
 2019-06-13 Saw the queen, saw eggs.  No signs of swarming.
 

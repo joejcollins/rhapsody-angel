@@ -2,6 +2,8 @@
 ## 11 x 11 F + 3S
 ## 2018 Queen Marked
 
+2019-06-18 No signs of swarming.  Saw eggs but not the queen.
+
 2019-06-14 Added two brood frames bring them up to 20.
 
 2019-06-13  Saw the queen and marked her yellow. No signs of swarming.  Need more space, there are a lot of bees in there.
