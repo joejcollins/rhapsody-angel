@@ -2,7 +2,7 @@
 ## 11F + 1S
 ## Queenless
 
-*Confirm queenless and remove Snelgrove around 21 July*
+2019-06-22 United with [Kate]({{ site.baseurl }}/queens/kate/).
 
 2019-06-14 Placed on top of [Kate]({{ site.baseurl }}/queens/kate/) with a view to merging them at some point.
 

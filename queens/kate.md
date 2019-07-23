@@ -1,6 +1,8 @@
 # Kate
-## 11 F 
-## 2018 Queen (unmarked)
+## 11 x 11 F 
+## 2018 Queen (Marked)
+
+2019-06-22 Saw the queen and eggs.  Added another brood box from [Greta]({{ site.baseurl }}/queens/greta/) which was queenless.
 
 2019-06-18 Open lower door on Snelgrove.
 
