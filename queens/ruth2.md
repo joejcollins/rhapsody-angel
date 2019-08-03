@@ -1,6 +1,8 @@
 # Ruth2
 ## 11 F + 2 Crystallized Supers
-## 2019 Supersedure
+## 2019 Supersedure or swarmed?
+
+2019-08-03 No queen, no brood, and a bit pissed off.  Might be a good time to treat with oxalic acid.  It will be interesting to see if the queen will mate.  I think she might if we have a bit of an indian summer.
 
 2019-07-29 No grubs or eggs but I found three opened queen cells close together on the 7th from from the South.  I am guessing a supersedure might be going on.  No idea why but the queen always seemed a bit unproductive.  I will just leave them to it. 
 

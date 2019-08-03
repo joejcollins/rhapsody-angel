@@ -1,14 +1,16 @@
 # Kate
-## 11 x 11 F 
+## 9 x 9 F 
 ## 2018 Queen (Marked)
 
-2019-06-22 Saw the queen and eggs.  Added another brood box from [Greta]({{ site.baseurl }}/queens/greta/) which was queenless.
+2019-08-03 Saw the queen laying nicely, tidy brood pattern.  No signs of swarming.  They weren't using all the brood frames so I reduced them to 9 x 9.  Started the Apiguard treatment.
 
-2019-06-18 Open lower door on Snelgrove.
+2019-07-22 Saw the queen and eggs.  Added another brood box from [Greta]({{ site.baseurl }}/queens/greta/) which was queenless.
 
-2019-06-14 Saw the queen and marked her, she is kind of small.  Put [Greta]({{ site.baseurl }}/queens/greta/) on top with a Snelgrove board between with a view to merging them at some point.
+2019-07-18 Open lower door on Snelgrove.
 
-2019-06-13 Pissed off, but plenty of eggs and brood.  Didn't see the queen.  They need more space so I added 2 brood frames.  Put on a crystallized super to get them to eat the crystals.
+2019-07-14 Saw the queen and marked her, she is kind of small.  Put [Greta]({{ site.baseurl }}/queens/greta/) on top with a Snelgrove board between with a view to merging them at some point.
+
+2019-07-13 Pissed off, but plenty of eggs and brood.  Didn't see the queen.  They need more space so I added 2 brood frames.  Put on a crystallized super to get them to eat the crystals.
 
 2019-07-06 Found charged queen cells so took the queen and moved her to one side.  The charged queen cells are on the original site ([Georgia]({{ site.baseurl }}/queens/georgia/)).
 

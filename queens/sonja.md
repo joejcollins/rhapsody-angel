@@ -1,12 +1,14 @@
 # Sonja
-## 11 x 11 F + 3S
+## 9 x 9 F + 3S
 ## 2018 Queen Marked
 
-2019-06-18 No signs of swarming.  Saw eggs but not the queen.
+2019-08-03 Found a few sealed queen cells and the queen.  We haven't got the equipment for an artificial swarm, so took down the queen cells and reversed the brood boxes.  It is late in the season and I am hoping this my stop the process.  Probably good to take a look in a few days time.  They weren't using all the brood frames so I reduced them to 9 x 9.  Put on a super with frames that had crystalized comb cut out of them, so they have some space and something to work on.
 
-2019-06-14 Added two brood frames bring them up to 20.
+2019-07-18 No signs of swarming.  Saw eggs but not the queen.
 
-2019-06-13  Saw the queen and marked her yellow. No signs of swarming.  Need more space, there are a lot of bees in there.
+2019-07-14 Added two brood frames bring them up to 20.
+
+2019-07-13  Saw the queen and marked her yellow. No signs of swarming.  Need more space, there are a lot of bees in there.
 
 2019-07-07 Put on another empty super to give them something to work on.  Added two brood frames to bring them up to 18 frames.
 
