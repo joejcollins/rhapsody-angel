@@ -1,6 +1,8 @@
 # Georgia
 ## 10F + 2S
-## Queen Cell
+## Unmarked 2019 Queen
+
+2019-08002 Queen laying nicely.
 
 2019-07-29 Found a few cells with eggs in, the bees seem calmer.
 
