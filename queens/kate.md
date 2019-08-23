@@ -2,6 +2,8 @@
 ## 9 x 9 F 
 ## 2018 Queen (Marked)
 
+2019-08-15 Added second Apiguard treatment. 
+
 2019-08-03 Saw the queen laying nicely, tidy brood pattern.  No signs of swarming.  They weren't using all the brood frames so I reduced them to 9 x 9.  Started the Apiguard treatment.
 
 2019-07-22 Saw the queen and eggs.  Added another brood box from [Greta]({{ site.baseurl }}/queens/greta/) which was queenless.
