@@ -2,6 +2,8 @@
 ## 11F + 2S
 ## 2019 Queen Marked
 
+2019-08-23 Second Apiguard treatment.
+
 2019-08-08 Put on Apiguard and a bowl feeder.
 
 2019-08-03 Saw eggs and the queen (marked but not very effectively).  Moved to beside [Ruth2]({{ site.baseurl }}/queens/ruth2/) in case I want to united them but also to reduce the number of flying bees.  Put on a clearer board to get off one of the supers.
