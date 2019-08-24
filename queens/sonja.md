@@ -2,6 +2,10 @@
 ## 9 x 9 F + 3S
 ## 2018 Queen Marked
 
+2019-08-24 Created a nuc using a couple of frames of brood from on [Grace]({{ site.baseurl }}/queens/grace/) and frames with stores.  Attracted the bees on to these frames through a queen excluder, just in case there is a queen in there (I am guessing only a 5-10 % chance).  Introduced a caged imported Carniolan queen.
+
+2019-08-23 No brood, queen definitely swarmed.  Needs a new queen or to get united with another colony. They have been queenless for only 3 weeks so there is no hurry.
+
 2019-08-03 Found a few sealed queen cells and the queen.  We haven't got the equipment for an artificial swarm, so took down the queen cells and reversed the brood boxes.  It is late in the season and I am hoping this my stop the process.  Probably good to take a look in a few days time.  They weren't using all the brood frames so I reduced them to 9 x 9.  Put on a super with frames that had crystalized comb cut out of them, so they have some space and something to work on.
 
 2019-07-18 No signs of swarming.  Saw eggs but not the queen.

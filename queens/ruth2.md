@@ -1,6 +1,8 @@
 # Ruth2
-## 11 F + 2 Crystallized Supers
+## Destroyed
 ## 2019 Supersedure or swarmed?
+
+2019-08-23 Laying working, lots of drone brood.  Shook out and burnt the messed up frames.
 
 2019-08-03 No queen, no brood, and a bit pissed off.  Might be a good time to treat with oxalic acid.  It will be interesting to see if the queen will mate.  I think she might if we have a bit of an indian summer.
 
