@@ -1,10 +1,8 @@
 # Sonja
-## 9 x 9 F + 3S
-## 2018 Queen Marked
+## 9 x 9 F
+## 2018 Queen Unmarked
 
-2019-08-27 Opened the door on the candy plug so the bees can start eating their way in.
-
-2019-08-24 Created a nuc using a couple of frames of brood from on [Grace]({{ site.baseurl }}/queens/grace/) and frames with stores.  Attracted the bees on to these frames through a queen excluder, just in case there is a queen in there (I am guessing only a 5-10 % chance).  Introduced a caged imported Carniolan queen.
+2019-09-07 Lots of brood, saw the new queen, seems that I was wrong.
 
 2019-08-23 No brood, queen definitely swarmed.  Needs a new queen or to get united with another colony. They have been queenless for only 3 weeks so there is no hurry.
 
