@@ -1,5 +1,5 @@
 1. -
-1. [Gerda]({{ site.baseurl }}/queens/gerda/)
+1. [Gerda]({{ site.baseurl }}/queens/gerda/) (5 F - 2019 Queen Marked) 
 1. -
 1. [Sonja]({{ site.baseurl }}/queens/sonja/) (9 x 6 F - 2018 Queen Marked) - MAQS
 1. -
