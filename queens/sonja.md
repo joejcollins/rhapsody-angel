@@ -2,6 +2,8 @@
 ## 9 x 9 F
 ## 2018 Queen Unmarked
 
+2019-09-07 Put on MAQS boy that stuff stinks.  
+
 2019-09-07 Lots of brood, saw the new queen, seems that I was wrong.
 
 2019-08-23 No brood, queen definitely swarmed.  Needs a new queen or to get united with another colony. They have been queenless for only 3 weeks so there is no hurry.
