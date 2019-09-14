@@ -2,6 +2,8 @@
 ## 9 x 9 F
 ## 2018 Queen Unmarked
 
+2019-09-14 Took the MAQS off, no longer stinky.  Saw the queen but she was not laying, possibly because of the MAQS or maybe because I have been feeding them.
+
 2019-09-07 Put on MAQS boy that stuff stinks.  
 
 2019-09-07 Lots of brood, saw the new queen, seems that I was wrong.
