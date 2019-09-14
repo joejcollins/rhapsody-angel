@@ -1,5 +1,5 @@
 # Grace
-## 11F + 2S
+## 8 x 8 F + 2S
 ## 2019 Queen Marked
 
 2019-08-23 Second Apiguard treatment.
