@@ -1,6 +1,8 @@
 # Sonja
-## 9 x 9 x 5 F
+## 9 x 9 F
 ## 2018 Queen Unmarked
+
+2019-09-21 Put on 2 strips of Apivar (from Véto-pharma), comes off in 6 to 10 weeks.
 
 2019-09-14 Took the MAQS off, no longer stinky.  Saw the queen but she was not laying, possibly because of the MAQS or maybe because I have been feeding them.
 

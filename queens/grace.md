@@ -1,6 +1,8 @@
 # Grace
-## 8 x 8 F + 2S
+## 9 x 9 F
 ## 2019 Queen Marked
+
+2019-09-21 Took the Apiguard treatment off.
 
 2019-08-23 Second Apiguard treatment.
 
