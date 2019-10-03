@@ -1,5 +1,5 @@
 # Kate
-## 9 x 9 F 
+## 11 x 11 F 
 ## 2018 Queen (Marked)
 
 2019-09-18 Took off the Apiguard treatment.
