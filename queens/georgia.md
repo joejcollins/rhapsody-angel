@@ -2,6 +2,8 @@
 ## 9 x 9 F + 1S
 ## 2019 Queen Unmarked 
 
+2019-12-23 Apibioxal oxalic acid treatment using the trickle method.
+
 2019-09-20 Took off the Apiguard treatment.
 
 2019-08-23 Second Apiguard treatment.
