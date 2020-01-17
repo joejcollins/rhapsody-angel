@@ -2,6 +2,8 @@
 ## 9 x 9 F
 ## 2018 Queen Unmarked
 
+2020-01-17 Tip weight including stand 15.5 kg, not seen on candy.
+
 2019-12-23 Apibioxal oxalic acid treatment using the trickle method.  The was a bit of mould in the top of the hive.  They were feed quite late so I guess it was damp at the end of the season.
 
 2019-11-03 Took off the Apivar.

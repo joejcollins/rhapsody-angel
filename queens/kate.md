@@ -2,6 +2,8 @@
 ## 11 x 11 F 
 ## 2018 Queen (Marked)
 
+2020-01-17 Tip weight including stand 13.05 kg, not seen on candy.
+
 2019-12-23 Apibioxal oxalic acid treatment using the trickle method.
 
 2019-09-18 Took off the Apiguard treatment.
