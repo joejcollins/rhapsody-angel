@@ -1,6 +1,13 @@
+---
+position: 1
+---
 # Sonja
 ## 9 x 9 F
 ## 2018 Queen Unmarked
+
+2020-02-21 Not seen on candy.
+
+2020-02-02 Not seen on candy.
 
 2020-01-18 Bees flying at 12hrs00.  Sunny day, 5 C.
 

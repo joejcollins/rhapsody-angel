@@ -1,6 +1,13 @@
+---
+position: 4
+---
 # Grace
 ## 9 x 9 F
 ## 2019 Queen Marked
+
+2020-02-21 Just over half the syrup has been used, so I filled it up.  I could see the cluster by the top hole, but they weren't feeding on the syrup.
+
+2020-02-02 Eaten about half the candy, leaving about 600 g of candy.  Put on a contact feeder with 1 to 1 syrup (650 g sugar and 650 g water is enough to fill a peanut butter contact feeder).
 
 2020-01-18 Bees flying at 12hrs00.  Sunny day, 5 C.
 

@@ -1,6 +1,13 @@
+---
+position: 2
+---
 # Georgia
 ## 9 x 9 F + 1S
 ## 2019 Queen Unmarked 
+
+2020-02-21 Not seen on candy.
+
+2020-02-02 Not seen on candy.
 
 2020-01-17 Tip weight including stand 12.5 kg, not seen on candy.
 
