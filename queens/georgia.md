@@ -5,6 +5,8 @@ position: 2
 ## 9 x 9 F + 1S
 ## 2019 Queen Unmarked 
 
+2020-03-22 Not seen on candy.  They are bringing in pollen.
+
 2020-02-21 Not seen on candy.
 
 2020-02-02 Not seen on candy.
