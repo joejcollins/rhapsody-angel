@@ -2,8 +2,10 @@
 position: 4
 ---
 # Grace
-## 9 x 9 F
-## 2019 Queen Marked
+## 11 F
+## 2019 Queen marked but the marking is rubbing off
+
+2020-04-05 Removed the feeder and reduced to 11 frames.
 
 2020-03-22 Topped up the feeder.  They are bringing in pollen.
 
