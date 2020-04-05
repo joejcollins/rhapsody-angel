@@ -5,6 +5,8 @@ position: 3
 ## 11 x 11 F 
 ## 2018 Queen (Marked)
 
+2020-04-03 Eaten about half the candy, leaving about 600 g of candy.  Put on a contact feeder with 1 to 1 syrup.
+
 2020-03-22 Not seen on candy.  They are bringing in pollen.
 
 2020-02-21 Not seen on candy.
