@@ -2,7 +2,7 @@
 ## 11F
 ## Yellow 2017 Queen 
 
-2018-08-09 Culled the queen and united with [Rachel](https://docs.google.com/document/d/1vhHjKS5c_HKZsu1NNEyvZDKIFqx6f8HpBWs_Ql1dk7I/edit#).
+2018-08-09 Culled the queen and united with [Rachel]({{ site.baseurl }}/queens/2018-rachel.html).
 
 2018-08-06 Appears to be laying drones. 
 
@@ -12,7 +12,7 @@
 
 2018-06-25 Checked no signs of emergency or swarm cells.  So I presume the queen is present and not intending to swarm.
 
-2018-06-23 A couple of charged queen cells so I moved the queen to one side.  Added 7 frames with the least brood and shook in 2 frames of house bees.  Put on a feeder.  The queen cells were left in place are are designated [Sonja](https://docs.google.com/document/d/1IroDTin9-z3FoxNmiyooipt3QSK6zB3gBGXhcHihJNs/edit#).
+2018-06-23 A couple of charged queen cells so I moved the queen to one side.  Added 7 frames with the least brood and shook in 2 frames of house bees.  Put on a feeder.  The queen cells were left in place are are designated [Sonja]({{ site.baseurl }}/queens/2018-sonja.html).
 
 2018-06-16 Checked, no signs of swarming.  Saw eggs but not the queen.  A lot of bees.
 

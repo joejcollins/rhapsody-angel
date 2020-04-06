@@ -40,6 +40,7 @@
 
 2019-05-25 Checked the queen cell, neatly opened. There are stores of both honey and pollen.  According to my schedule I should put in a frame of eggs.  Mags says no, I think she is right, it looks good so there is no point to interfering.
 
-2019-04-25 Culled the queen cells down to one cell on the bottom (Southside) of frame marked with a white pin.
+2019-04-25 Culled the queen cells down to one cell on the bottom (South side) of frame marked with a white pin.
 
-2019-04-18 Made up with 7 frames of brood from [Rachel](https://docs.google.com/document/d/1vhHjKS5c_HKZsu1NNEyvZDKIFqx6f8HpBWs_Ql1dk7I). 
+2019-04-18 Made up with 7 frames of brood from [Rachel]({{ site.baseurl }}/queens/2018-rachel.html). 
+

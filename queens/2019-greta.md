@@ -18,6 +18,6 @@
 
 2019-06-06 the queen cell looks unopened.  Or re-closed?  No signs of laying so I put in a frame of eggs from [Kate]({{ site.baseurl }}/queens/2018-kate.html).  The frame had eggs on the bottom section and hone all around.  I left the pin in with the queen cell.
 
-2019-05-02 Culled the queen cells leaving one on the southside of the cull frame, marked with a white pin.   There weren’t that many queen cells (say 15) and there was a suspicious number of drone cells.
+2019-05-02 Culled the queen cells leaving one on the South side of the cull frame, marked with a white pin.   There weren’t that many queen cells (say 15) and there was a suspicious number of drone cells.
 
 2019-04-25 Charged queen cells and flying bees from [Sonja]({{ site.baseurl }}/queens/2018-sonja.html)).
