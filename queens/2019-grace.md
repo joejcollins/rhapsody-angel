@@ -22,7 +22,7 @@
 
 2019-08-08 Put on Apiguard and a bowl feeder.
 
-2019-08-03 Saw eggs and the queen (marked but not very effectively).  Moved to beside [Ruth2]({{ site.baseurl }}/queens/ruth2.html) in case I want to united them but also to reduce the number of flying bees.  Put on a clearer board to get off one of the supers.
+2019-08-03 Saw eggs and the queen (marked but not very effectively).  Moved to beside [Ruth2]({{ site.baseurl }}/queens/2019-ruth2.html) in case I want to united them but also to reduce the number of flying bees.  Put on a clearer board to get off one of the supers.
 
 2019-07-18 Culled the drone brood. Saw the queen, saw eggs.  No signs of swarming.
 
@@ -34,7 +34,7 @@
 
 2019-06-09 Loads of brood, loads of eggs.  Didn’t see the queen.
 
-2019-06-02 There is a patch of normal sealed worker brood, it is a little bit uneven age wise, but I guess she is just finding her feet.  It was too windy to do a full inspection and actually find her but it looks like we are on line.  Also added a frame of sealed brood largely to deplete [Kate]({{ site.baseurl }}/queens/kate/) a little bit.
+2019-06-02 There is a patch of normal sealed worker brood, it is a little bit uneven age wise, but I guess she is just finding her feet.  It was too windy to do a full inspection and actually find her but it looks like we are on line.  Also added a frame of sealed brood largely to deplete [Kate]({{ site.baseurl }}/queens/2018-kate.html/) a little bit.
 
 2019-05-30 Small patch of brood on the frame North of the frame with the white pin.  Can’t tell if it is the result of a drone layer but there seemed to be more brood food that I would expect.  Not sure what is going on.
 

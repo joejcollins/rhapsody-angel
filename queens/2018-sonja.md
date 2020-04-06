@@ -72,5 +72,5 @@
 
 2018-06-30 Mags culled the queen cells down to one.  Don’t know if the frame was marked with a pin.  
 
-2018-06-23 Found a couple of charged queen cells in [Sarah](https://docs.google.com/document/d/17JMVU8K3V4tgsD3z8VsTCRt44JlBsn0D08k39RdbU1U/edit#) so created this colony.  
+2018-06-23 Found a couple of charged queen cells in [Sarah]({{ site.baseurl }}/queens/2017-sarah.html) so created this colony.  
 
