@@ -19,7 +19,7 @@ url: https://bees.bagbatch.co.uk
 timezone: GMT
 
 # Permalinks
-permalink: pretty
+permalink: none
 
 
 exclude: ["book", "presentation", "*.synctex.gz", "*.sh", "Vagrantfile"]

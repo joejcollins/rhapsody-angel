@@ -2,8 +2,10 @@
 position: 2
 ---
 # Georgia
-## 9 x 9 F + 1S
+## 11 x 11 F
 ## 2019 Queen Unmarked 
+
+2020-04-06 Saw brood and eggs, didn't see the queen.  Put on a contact feeder with 1 to 1 syrup.
 
 2020-03-22 Not seen on candy.  They are bringing in pollen.
 
