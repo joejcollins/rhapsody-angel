@@ -1,6 +1,3 @@
----
-position: 1
----
 # Sonja
 ## 11 F
 ## 2018 Queen Unmarked

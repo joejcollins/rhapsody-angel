@@ -1,6 +1,3 @@
----
-position: 2
----
 # Georgia
 ## 11 x 11 F
 ## 2019 Queen Unmarked 
