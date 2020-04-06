@@ -1,4 +1,4 @@
-1. [Grace]({{ site.baseurl }}/queens/grace/) (11 F - 2019 Queen Marked)
+1. [Grace]({{ site.baseurl }}/queens/grace/) (11 F - 2019 Queen Marked) [edit](https://github.com/joejcollins/rhapsody-angel/edit/master/{{page.url | replace:'.html','.md'}})
 1. -
 1. [Georgia]({{ site.baseurl }}/queens/georgia/) (9 x 9 F - 2019 Queen Marked)
 1. -
