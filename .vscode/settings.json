@@ -23,5 +23,8 @@
     "latex-workshop.synctex.afterBuild.enabled": true,
     "files.associations": {
       "Vagrantfile": "ruby"
-  }
+  },
+  "cSpell.words": [
+    "queenless"
+  ]
 }

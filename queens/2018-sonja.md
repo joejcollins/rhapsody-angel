@@ -31,7 +31,7 @@ position: 1
 
 2019-08-23 No brood, queen definitely swarmed.  Needs a new queen or to get united with another colony. They have been queenless for only 3 weeks so there is no hurry.
 
-2019-08-03 Found a few sealed queen cells and the queen.  We haven't got the equipment for an artificial swarm, so took down the queen cells and reversed the brood boxes.  It is late in the season and I am hoping this my stop the process.  Probably good to take a look in a few days time.  They weren't using all the brood frames so I reduced them to 9 x 9.  Put on a super with frames that had crystalized comb cut out of them, so they have some space and something to work on.
+2019-08-03 Found a few sealed queen cells and the queen.  We haven't got the equipment for an artificial swarm, so took down the queen cells and reversed the brood boxes.  It is late in the season and I am hoping this my stop the process.  Probably good to take a look in a few days time.  They weren't using all the brood frames so I reduced them to 9 x 9.  Put on a super with frames that had crystallized comb cut out of them, so they have some space and something to work on.
 
 2019-07-18 No signs of swarming.  Saw eggs but not the queen.
 
@@ -57,7 +57,7 @@ position: 1
 
 2019-05-11 Lots of bees, moved to the other side to bleed some off.
 
-2019-04-25 Found charged queen cells so took the queen and moved her to one side.  The charged queen cells are on the original site ([Greta](https://docs.google.com/document/d/1eRKHdvqu1g68dqyiOgjQyyH4yEW5tY-dWkMa5vTse7U/edit#)).
+2019-04-25 Found charged queen cells so took the queen and moved her to one side.  The charged queen cells are on the original site ([Greta]({{ site.baseurl }}/queens/2019-greta.html)).
 
 2019-04-18 No signs of swarming but loads of bees, added another super.
 
@@ -69,7 +69,7 @@ position: 1
 
 2018-08-11 Apiguard on.
 
-2018-08-09 Added frames from [Teresa](https://docs.google.com/document/d/1fydENvaHi7cSHfPJ7mx63xp3YwyTWhetBJGG4P_EB-E/edit) (which had a laying worker).
+2018-08-09 Added frames from [Teresa]({{ site.baseurl }}/queens/2019-teresa.html) (which had a laying worker).
 
 2018-08-06 Laying queen, doing well.
 
