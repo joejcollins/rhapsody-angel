@@ -22,17 +22,17 @@
 
 2018-05-23 Checked, no signs of swarming.  Saw eggs but not the queen. There were still drones in the supers.
 
-2018-05-23 No signs of swarming.  Saw eggs but didn’t see the queen.  The brood in the super has all emerged except the drones.  So that problem is nearly resolved.  The supers are getting full so I think they will need a fourth one.
+2018-05-23 No signs of swarming.  Saw eggs but didn't see the queen.  The brood in the super has all emerged except the drones.  So that problem is nearly resolved.  The supers are getting full so I think they will need a fourth one.
 
-2018-05-17 Saw eggs but didn’t see the queen.  The brood that was in the super is emerging.  The bottom brood chamber only had a couple of frames with brood on.  The top brood box is full of brood or stores.  I saw numerous queen cups and the drones are emerging so I think they will be thinking about swarming.
+2018-05-17 Saw eggs but didn't see the queen.  The brood that was in the super is emerging.  The bottom brood chamber only had a couple of frames with brood on.  The top brood box is full of brood or stores.  I saw numerous queen cups and the drones are emerging so I think they will be thinking about swarming.
 
-2018-05-13 Checked, no signs of swarming.  Saw eggs but didn’t see the queen.  The brood that was in the super seems ok.
+2018-05-13 Checked, no signs of swarming.  Saw eggs but didn't see the queen.  The brood that was in the super seems ok.
 
-2018-05-07 I decided that the queen was in the top because of my mistake not because she went through the queen excluder.  And she certainly didn’t go back down.  So I restacked the supers with the super containing brood above a Snelgrove board, without any mesh in it.  The Snelgrove board is above the queen excluder with a door open so the drones can get out.
+2018-05-07 I decided that the queen was in the top because of my mistake not because she went through the queen excluder.  And she certainly didn't go back down.  So I restacked the supers with the super containing brood above a Snelgrove board, without any mesh in it.  The Snelgrove board is above the queen excluder with a door open so the drones can get out.
 
-2018-05-05 Bollocks, I fucked up last time and the queen was trapped above the queen excluder.  She layed up 5 frames in the super.  The brood frames were all polished and waiting.  I separated the laid super with another super, splitting the brood nest.  I didn’t want her moving through the queen excluder thinking the super was part of the brood nest.  I intend to let the brood in the super hatch then I will trash the comb because it now smells of brood.
+2018-05-05 Bollocks, I messed up last time and the queen was trapped above the queen excluder.  She layed up 5 frames in the super.  The brood frames were all polished and waiting.  I separated the laid super with another super, splitting the brood nest.  I didn't want her moving through the queen excluder thinking the super was part of the brood nest.  I intend to let the brood in the super hatch then I will trash the comb because it now smells of brood.
 
-2018-04-18 Checked all the frames, more honey.  Didn’t see the queen, but saw eggs.  One uncharged queen cup.  There are shed loads of bees so I will stop feeding and put on the supers.
+2018-04-18 Checked all the frames, more honey.  Didn't see the queen, but saw eggs.  One uncharged queen cup.  There are shed loads of bees so I will stop feeding and put on the supers.
 
 2018-04-08 Checked the top layer of 8 frames, maybe 3 frames of stores and 3 frames with brood or eggs.  Saw the queen (marked yellow still).  I put a feeder on.
 
@@ -46,16 +46,16 @@
 
 2017-08-04 Apiguard treatment.
 
-2017-08-06 United with the bees from [Dina](https://docs.google.com/document/d/1989tiWujawMpoY6ue3V0Tv6bgxxhPduArvpIpeXJvDs/edit#).
+2017-08-06 United with the bees from [Dina]({{ site.baseurl }}/queens/2016-dina.html).
 
 2017-08-04 Marked queen, present and laying.  Quiet on the frames.
 
-2017-07-23 Swapped position with [Trisha](https://docs.google.com/document/d/1_iJSVZq-E5ZLhEMd7CacS3HT56L2PQRRCURoBCbtbNw/edit) to build up this colony.
+2017-07-23 Swapped position with [Trisha]({{ site.baseurl }}/queens/2017-trisha.html) to build up this colony.
 
 2017-07-23 Saw the queen and eggs.  Marked the queen.  Not really calm but OK.  Nice looking queen.
 
-2017-07-17 Saw brood.  Didn’t try and mark the queen
+2017-07-17 Saw brood.  Didn't try and mark the queen
 
-2017-07-08 No pollen coming in.  Saw the queen.  They seem calm and some bees are cleaning out cells (bums in the air) like they are getting ready for her to start laying.  However I didn’t see any eggs or brood so I didn’t mark her incase she is not mated yet.
+2017-07-08 No pollen coming in.  Saw the queen.  They seem calm and some bees are cleaning out cells (bums in the air) like they are getting ready for her to start laying.  However I didn't see any eggs or brood so I didn't mark her incase she is not mated yet.
 
-2017-07-02 Collected a swarm from the small apple tree near the road.  I think it came from [Rosie](https://docs.google.com/document/d/1rBN24PQS_ga4JdQvVZs2SrWb0nyfi8NheIdxGla0x3w/edit#).
+2017-07-02 Collected a swarm from the small apple tree near the road.  I think it came from [Rosie]({{ site.baseurl }}/queens/2017-rosie.html).

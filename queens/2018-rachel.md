@@ -2,7 +2,7 @@
 ## 11F (14” x 12”) + 1S
 ## 2018 Queen
 
-2019-05-19 Jo Turton came and took the bees, so the comb exchange took about a month, feeding them pretty much all the time.
+2019-05-19 Jo came and took the bees, so the comb exchange took about a month, feeding them pretty much all the time.
 
 2019-04-18 Prepared for Bailey comb exchange on to 12 x 14 size frames.  Marked the queen yellow.
 
@@ -12,7 +12,7 @@
 
 2018-08-11 Apiguard on.
 
-2018-08-09 United with [Sarah](https://docs.google.com/document/d/17JMVU8K3V4tgsD3z8VsTCRt44JlBsn0D08k39RdbU1U/edit#).
+2018-08-09 United with [Sarah]({{ site.baseurl }}/queens/2017-sarah.html).
 
 2018-08-6 Laying queen.
 
@@ -20,8 +20,8 @@
 
 2018-07-08 There was a swarm which is suspect came from this hive.  My theory is that putting in the eggs so early allow the new queen to swarm.
 
-2018-07-07 No signs of a laying queen and they seem a bit agitated.  I transfered eggs in from [Sarah](https://docs.google.com/document/d/17JMVU8K3V4tgsD3z8VsTCRt44JlBsn0D08k39RdbU1U/edit) to test if they have a queen.  Marked the frame with a blue pin.
+2018-07-07 No signs of a laying queen and they seem a bit agitated.  I transfered eggs in from [Sarah]({{ site.baseurl }}/queens/2017-sarah.html) to test if they have a queen.  Marked the frame with a blue pin.
 
 2018-06-21 Sealed queen cell on bottom of middle frame.  Marked with a blue pin.
 
-2018-06-13 [Teresa](https://docs.google.com/document/d/1fydENvaHi7cSHfPJ7mx63xp3YwyTWhetBJGG4P_EB-E/edit#) had a couple of queen cells that were charged so I removed her to another location and marked the frame with the queen cells with a blue pin.
+2018-06-13 [Teresa]({{ site.baseurl }}/queens/2019-teresa.html) had a couple of queen cells that were charged so I removed her to another location and marked the frame with the queen cells with a blue pin.

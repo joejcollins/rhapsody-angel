@@ -1,4 +1,4 @@
-* [Edit](https://github.com/joejcollins/rhapsody-angel/edit/master/_includes/apiary.md)
+* [Edit](https://github.com/joejcollins/rhapsody-angel//master/_includes/apiary.md)
 
 1. 
 1. [Grace]({{ site.baseurl }}/queens/2019-grace.html) (11 F - 2019 Queen Marked)

@@ -38,13 +38,13 @@
 
 2019-07-07 Put on another empty super to give them something to work on.  Added two brood frames to bring them up to 18 frames.
 
-2019-07-06 Looked for the queen but couldn’t find her.  No signs of swarming but lots of bees, needs another super and a couple more brood frames.
+2019-07-06 Looked for the queen but couldn't find her.  No signs of swarming but lots of bees, needs another super and a couple more brood frames.
 
-2019-06-30 Took off the shit brood frames that had drones laid in them and distributed them to the other hives.
+2019-06-30 Took off the messed up brood frames that had drones laid in them and distributed them to the other hives.
 
 2019-06-28 Saw brood and eggs.  There are rubbish brood frames that had drone laying workers on them.
 
-2019-06-22 Saw eggs but didn’t see the queen.  Not a lot of stores so I put on a feeder.
+2019-06-22 Saw eggs but didn't see the queen.  Not a lot of stores so I put on a feeder.
 
 2019-06-02 Plenty of eggs, no obvious signs of queen production but there were some queen cups.  They are drawing out the frames I put in and there are a lot of bees.  I think it might be a good idea to swap them to the other side of the production hive.
 
@@ -70,7 +70,7 @@
 
 2018-08-06 Laying queen, doing well.
 
-2018-06-30 Mags culled the queen cells down to one.  Don’t know if the frame was marked with a pin.  
+2018-06-30 Mags culled the queen cells down to one.  Don't know if the frame was marked with a pin.  
 
 2018-06-23 Found a couple of charged queen cells in [Sarah]({{ site.baseurl }}/queens/2017-sarah.html) so created this colony.  
 
