@@ -14,10 +14,14 @@
     <section class="container-fluid">
       <div class="row">
         <div class="col-">
+         
           {% capture my_include %}{% include apiary.md %}{% endcapture %}
           {{ my_include | markdownify }}
         </div>
         <div class="col-xl">
+          {%if page.content != "" %}
+            <a href="https://github.com/joejcollins/rhapsody-angel/edit/master{{page.url | replace: '.html', '.md'}}" target="_blank">Edit</a>
+          {% endif %}
           {{ content }}
         </div>
       </div>

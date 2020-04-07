@@ -228,3 +228,6 @@ Gemfile.lock
 
 # Vagrant
 .vagrant
+
+# Scratch files
+shit*.*

@@ -23,5 +23,16 @@
     "latex-workshop.synctex.afterBuild.enabled": true,
     "files.associations": {
       "Vagrantfile": "ruby"
-  }
+  },
+  "cSpell.words": [
+    "Apiguard",
+    "Bioxal",
+    "Snelgrove",
+    "behaviour",
+    "chalkbrood",
+    "heartedly",
+    "nosema",
+    "queenless",
+    "varroa"
+  ]
 }
