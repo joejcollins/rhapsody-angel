@@ -6,13 +6,11 @@ defaults:
       layout: "default"
 
 # Conversion
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
 
 # Markdown Processor
 kramdown:
   auto_ids: true
-  input: GFM
   hard_wrap: false
 
 url: https://bees.bagbatch.co.uk
@@ -21,6 +19,6 @@ timezone: GMT
 # Permalinks
 permalink: none
 
-
+# Includes and excludes
 exclude: ["book", "presentation", "*.synctex.gz", "*.sh", "Vagrantfile"]
 include: ["queens"]
