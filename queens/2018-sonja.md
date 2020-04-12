@@ -2,6 +2,8 @@
 ## 11 F
 ## 2018 Queen Unmarked
 
+2020-04-12 Sold to Rachel.
+
 2020-04-05 Removed the candy and reduced to 11 frames.
 
 2020-03-22 Not seen on candy.  They are bringing in pollen.
