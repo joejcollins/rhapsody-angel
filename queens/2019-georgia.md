@@ -2,6 +2,8 @@
 ## 11 x 11 F
 ## 2019 Queen Unmarked 
 
+2020-04-16 Saw the queen and marked her.  One of her wings is stuck out so I don't expect she will be abel to fly.  Sas eggs, worker brood and sealed drone cells.  Continuing feeding because there are frames to draw out.
+
 2020-04-06 Saw brood and eggs, didn't see the queen.  Put on a contact feeder with 1 to 1 syrup.
 
 2020-03-22 Not seen on candy.  They are bringing in pollen.
