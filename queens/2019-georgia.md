@@ -1,8 +1,8 @@
 # Georgia
 ## 11 x 11 F
-## 2019 Queen Marked 
+## 2018 Queen Marked Yellow
 
-2020-04-22 Saw the queen, eggs, worker brood and sealed drone cells. No signs of queen raising.
+2020-04-22 Saw the queen, eggs, worker brood and sealed drone cells. No signs of queen rearing.
 
 2020-04-16 Saw the queen and marked her.  One of her wings is stuck out so I don't expect she will be abel to fly.  Saw eggs, worker brood and sealed drone cells.  Continuing feeding because there are frames to draw out.
 
