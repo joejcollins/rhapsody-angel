@@ -4,6 +4,8 @@
 
 2020-04-26 Saw the queen, eggs and brood.  Lots of bee with most of the frames covered so I put on a honey super.
 
+2020-04-22 Saw the queen, eggs, worker brood and sealed drone cells. No signs of queen rearing.
+
 2020-04-16 Saw the queen and marked her.  One of her wings is stuck out so I don't expect she will be abel to fly.  Sas eggs, worker brood and sealed drone cells.  Continuing feeding because there are frames to draw out.
 
 2020-04-06 Saw brood and eggs, didn't see the queen.  Put on a contact feeder with 1 to 1 syrup.
