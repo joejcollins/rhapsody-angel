@@ -1,6 +1,8 @@
 # Georgia
-## 11 x 11 F
+## 11 x 11 F + 1 S
 ## 2019 Queen Unmarked 
+
+2020-04-26 Saw the queen, eggs and brood.  Lots of bee with most of the frames covered so I put on a honey super.
 
 2020-04-16 Saw the queen and marked her.  One of her wings is stuck out so I don't expect she will be abel to fly.  Sas eggs, worker brood and sealed drone cells.  Continuing feeding because there are frames to draw out.
 
