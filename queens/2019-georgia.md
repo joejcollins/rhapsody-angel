@@ -2,6 +2,8 @@
 ## 11 x 11 F + 1 S
 ## 2019 Queen Unmarked 
 
+2020-05-02 Saw eggs and brood.  Didn't see the queen.  There are sections of drone brood waiting to come out (there isn't a cull frame).  The super isn't getting occupied.
+
 2020-04-26 Saw the queen, eggs and brood.  Lots of bee with most of the frames covered so I put on a honey super.
 
 2020-04-22 Saw the queen, eggs, worker brood and sealed drone cells. No signs of queen rearing.
