@@ -2,7 +2,7 @@
 ## 11 x 11 F + 1 S
 ## 2019 Queen Marked 
 
-2020-05-08 Saw eggs and brood.  Didn't see the queen. There were drones and there were only a couple of patches of eggs in the 22 frames.  There were a number of cups but no charged cells.   No queen cells with grubs.
+2020-05-08 Saw eggs and brood.  Didn't see the queen. There were drones and there were only a couple of patches of eggs in the 22 frames.  There were a number of cups but no charged cells.   No queen cells with grubs.  The frames in the honey super are being drawn.
 
 2020-05-02 Saw eggs and brood.  Didn't see the queen.  There are sections of drone brood waiting to come out (there isn't a cull frame).  The super isn't getting occupied.
 
