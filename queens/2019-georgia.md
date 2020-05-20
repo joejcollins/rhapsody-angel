@@ -2,7 +2,9 @@
 ## 11 x 11 F + 1 S
 ## 2019 Queen Marked 
 
-Next 2020-05-20 Check for queen cells and health of queen.
+Next 2020-05-27 If there are a lot of bees, move to the other side?  Might want to clip her as well?
+
+2020-05-20 Saw eggs, brood and charged queen cells.  Removed to a the North with two frames of brood and the other frames stores.
 
 2020-05-14 Saw eggs and brood.  Didn't see the queen. There were a number of cups but no charged cells.
 
