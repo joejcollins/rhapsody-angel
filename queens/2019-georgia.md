@@ -2,7 +2,9 @@
 ## 11 x 11 F + 1 S
 ## 2019 Queen Marked 
 
-Next 2020-05-25 If there are a lot of bees, move to the other side?  Might want to clip her as well?
+Next 2020-05-27 Clip left wing.
+
+2020-05-26 Saw eggs and the queen.  There were three sealed queen cells, which I broke inspecting the hive.  There were a lot of bees so I moved to bleed bees off into [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).
 
 2020-05-20 Saw eggs, brood and charged queen cells.  Removed to a the North with two frames of brood and the other frames stores.
 
