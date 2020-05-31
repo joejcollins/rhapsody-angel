@@ -1,8 +1,10 @@
 # Beryl
-## 11 F + 2 S
+## 11 F + 3 S
 ## 2019 Queen Cells
 
 Next 2020-06-25 Check for a laying queen.
+
+2020-05-31 One honey super is ready to come off.
 
 2020-05-21 Culled the queen cells, leaving one on the South side of one of the Northern frames marked with a black pin.
 

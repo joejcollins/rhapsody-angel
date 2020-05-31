@@ -1,5 +1,5 @@
 # Bethany
-## 11 F + 2 S
+## 11 F + 3 S
 ## 2019 Queen Cells
 
 Next 2020-05-27 Cull queen cells.
