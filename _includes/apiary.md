@@ -8,6 +8,6 @@
 1. -
 1. -
 1. [Beryl]({{ site.baseurl }}/queens/2020-beryl.html) (11 F + 3 S - 2020 Queen Cells)
-1. -
 1. [Kate]({{ site.baseurl }}/queens/2018-kate.html) (11 F - 2018 Queen Marked)
 1. -
+1. [Brenda]({{ site.baseurl }}/queens/2020-brenda.html) (10 F - 2020 Queen)

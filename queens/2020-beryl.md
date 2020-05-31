@@ -1,6 +1,6 @@
 # Beryl
 ## 11 F + 3 S
-## 2019 Queen Cells
+## 2020 Queen Cells
 
 Next 2020-06-25 Check for a laying queen.
 
