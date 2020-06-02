@@ -1,8 +1,8 @@
 # Georgia
-## 11 x 11 F + 1 S
+## 11 F
 ## 2019 Queen Marked 
 
-Next 2020-05-27 Clip left wing.
+2020-06-02 Saw eggs and the queen.  No signs of swarming.
 
 2020-05-26 Saw eggs and the queen.  There were three sealed queen cells, which I broke inspecting the hive.  There were a lot of bees so I moved to bleed bees off into [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).
 
