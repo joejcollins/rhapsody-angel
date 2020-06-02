@@ -2,4 +2,6 @@
 ## 10 F
 ## 2020 Queen
 
-2020-05-31 Swarm collected from Jeremy.
+2020-06-02 Found a clump of brown bees with a queen in on one of the other hives.  The hive with the swarm in was pissed when I opened it.  I am assuming that this is a mating flight or that the queen tried to swarm again yesterday.  I brushed the clump into a dust pan and shook them into the hive with the swarm.  They bees immediately started fanning at the entrance.  
+
+2020-05-31 Swarm collected from Jeremy.  The bees are light banded brown.
