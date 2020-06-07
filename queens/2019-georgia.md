@@ -2,6 +2,8 @@
 ## 11 F
 ## 2019 Queen Marked 
 
+2020-06-07 Saw eggs, grubs and the queen. 
+
 2020-06-02 Saw eggs and the queen.  No signs of swarming.
 
 2020-05-26 Saw eggs and the queen.  There were three sealed queen cells, which I broke inspecting the hive.  There were a lot of bees so I moved to bleed bees off into [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).
