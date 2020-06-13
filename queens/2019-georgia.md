@@ -2,6 +2,8 @@
 ## 11 F
 ## 2019 Queen Marked 
 
+2020-06-13 Saw eggs, grubs and the queen.  There is lots of brood waiting to come out and plenty of honey.
+
 2020-06-07 Saw eggs, grubs and the queen. 
 
 2020-06-02 Saw eggs and the queen.  No signs of swarming.
