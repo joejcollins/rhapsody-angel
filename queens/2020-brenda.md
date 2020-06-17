@@ -1,6 +1,8 @@
 # Brenda
-## 10 F
+## 8 F
 ## 2020 Queen
+
+2020-06-17 No signs of queen cells so I guess there must be a queen in there.  They did seem a bit calmer.
 
 2020-06-13 No sign of eggs or the queen.  Still peevish.  I put in a frame of eggs and brood from [Kate]({{ site.baseurl }}/queens/2018-Kate.html) to see it they make a queen.
 
