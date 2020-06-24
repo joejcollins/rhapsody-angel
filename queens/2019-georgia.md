@@ -2,6 +2,8 @@
 ## 11 F + 1 S
 ## 2019 Queen Marked 
 
+2020-06-23 Saw eggs, grubs but not the queen.  There are lots of young bees.  There were a few queen cups on the face of some frames but they weren't charged.  I guess they could be thinking about a second swarm.
+
 2020-06-17 Saw eggs, grubs and the queen.  There were lots of bees and brood on most of the frames so I put on a honey super.
 
 2020-06-13 Saw eggs, grubs and the queen.  There is lots of brood waiting to come out and plenty of honey.

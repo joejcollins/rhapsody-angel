@@ -1,8 +1,10 @@
 # Beryl
 ## 11 F + 3 S
-## 2020 Queen Cells
+## 2020 Queen Unmarked
 
-Next 2020-06-25 Check for a laying queen.
+Next 2020-07-05 Mark the queen and shuffle the honey supers.
+
+2020-06-23 Checked for a laying queen, loads of brood, saw eggs but didn't see the queen.
 
 2020-06-02 Put on a clearer board to clear the top honey super.
 

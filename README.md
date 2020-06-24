@@ -27,3 +27,13 @@ gem install bundler
 ```
 
 To serve the Jekyll site install the bundle `bundle install` then run `bundle exec jekyll serve --host 0.0.0.0`
+
+## To Run on Docker
+
+```bash
+docker-compose up
+```
+
+Then visit <http://localhost:8089/>.
+
+## To Run on Vagrant

@@ -2,7 +2,9 @@
 ## 11 F + 3 S
 ## 2020 Queen Cells
 
-Next 2020-07-01 Check for laying queen.
+Next 2020-07-01 Check for a laying queen and shuffle the honey supers.
+
+2020-06-23 Checked for a laying queen, saw eggs at the bottom of cells on frame 5 from the South.  I am not supposed to check for another week so this check is too early really.  Can't be certain things are right, but the eggs were singles at the bottom of the cells.
 
 2020-05-27 Culled the queen cells down to one on the South face of a frame, second from the North end.  Marked with a pin.
 
