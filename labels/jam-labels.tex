@@ -1,0 +1,49 @@
+\documentclass[12pt, a4paper]{letter}
+\usepackage{graphicx}
+\usepackage{labels}
+\usepackage{emerald}
+\usepackage[scaled]{uarial}
+\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+\usepackage{forloop}
+
+\normalsize\sf
+\LabelGridtrue
+\LabelInfotrue
+
+\begin{document}
+
+% JAM LABELS
+\LabelCols=2% Number of columns of labels per page
+\LabelRows=7% Number of rows of labels per page
+\newcommand\jamlabel{%
+\rule{0mm}{10mm}
+\begin{tabular}{@{}ll}%
+\begin{minipage}{2.5cm}%
+%\includegraphics[scale=0.14]{jam_strawberry.png}
+\includegraphics[scale=0.35]{jam-plum.png}
+\end{minipage}%
+&
+\begin{minipage}{5cm}
+  \textbf{\fontsize{18pt}{25pt}\selectfont Hani's Plum Jam}
+  \\
+  \textbf{}\hfill \\
+  \scriptsize\\
+  \strut\hfill \\
+  with help by Maggi \hfill All Stretton\\
+  Made August 2020 \hfill Shropshire
+\end{minipage}
+\end{tabular}
+}% 
+
+\begin{labels}
+
+\newcounter{ct}
+\forloop{ct}{0}{\value{ct} < 14}%
+{%
+  \jamlabel
+  
+}%
+\end{labels}
+
+\end{document}

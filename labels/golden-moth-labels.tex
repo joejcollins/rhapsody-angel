@@ -1,0 +1,49 @@
+\documentclass[12pt, a4paper]{letter}
+\usepackage{advdate}
+\usepackage{graphicx}
+\usepackage{labels}
+\usepackage{emerald}
+\usepackage[scaled]{uarial}
+\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+\usepackage{forloop}
+
+\normalsize\sf
+\LabelGridtrue
+\LabelInfotrue
+
+\begin{document}
+
+% GOLDEN MOTH LABELS
+\LabelCols=2% Number of columns of labels per page
+\LabelRows=7% Number of rows of labels per page
+\newcommand\goldenmothlabel{%
+\rule{0mm}{10mm}
+\begin{tabular}{@{}ll}%
+\begin{minipage}{2.5cm}%
+\includegraphics[scale=0.13]{golden-moth-chemical-logo.jpg}
+\end{minipage}%
+&
+\begin{minipage}{5cm}
+  \textbf{\fontsize{20pt}{20pt}\selectfont GOLDEN MOTH\\}
+  \\
+  \textbf{450g}\hfill Keep Refrigerated\\
+  \scriptsize\\
+  \strut\hfill \\
+  Batch \the\year{}-09 \hfill All Stretton\\
+  \AdvanceDate[365]
+  Best before Sept \the\year{} \hfill Shropshire
+\end{minipage}
+\end{tabular}
+}% 
+
+\begin{labels}
+\newcounter{ct}
+\forloop{ct}{0}{\value{ct} < 14}%
+{%
+  \goldenmothlabel
+  
+}%
+\end{labels}
+
+\end{document}
