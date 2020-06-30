@@ -1,8 +1,8 @@
 # Bethany
 ## 11 F + 3 S
-## 2020 Queen Cells
+## 2020 Queen Unmarked
 
-Next 2020-07-01 Check for a laying queen and shuffle the honey supers.
+2020-06-30 Lots of normal brood and grubs.  I didn't see eggs but I wasn't looking that hard and was just pleased that the brood looked normal.  Didn't see the queen.  There are a lot of bees and not much honey, I was going to shuffle the honey supers but the one that was full is now, not so full.
 
 2020-06-23 Checked for a laying queen, saw eggs at the bottom of cells on frame 5 from the South.  I am not supposed to check for another week so this check is too early really.  Can't be certain things are right, but the eggs were singles at the bottom of the cells.
 

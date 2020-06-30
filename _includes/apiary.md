@@ -1,8 +1,8 @@
 * [Edit](https://github.com/joejcollins/rhapsody-angel/edit/master/_includes/apiary.md)
 
-1. [Georgia]({{ site.baseurl }}/queens/2019-georgia.html) (11 F + 1 S - 2019 Queen Marked)
 1. -
-1. [Bethany]({{ site.baseurl }}/queens/2020-bethany.html) (11 F + 3 S - 2020 Queen Cells)
+1. [Georgia]({{ site.baseurl }}/queens/2019-georgia.html) (11 F + 1 S - 2019 Queen Marked)
+1. [Bethany]({{ site.baseurl }}/queens/2020-bethany.html) (11 F + 3 S - 2020 Queen Unmarked)
 1. -
 1. -
 1. [Berenice]({{ site.baseurl }}/queens/2020-berenice.html) (5 F - 2020 Queen Swarm) /  [Beatrix]({{ site.baseurl }}/queens/2020-beatrix.html) (10 F - 2020 Queen Swarm)
