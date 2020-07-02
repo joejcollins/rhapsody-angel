@@ -1,6 +1,8 @@
 # Georgia
-## 11 F + 1 S
-## 2019 Queen Marked 
+## 11 F
+## 2019 Queen Marked Clipped
+
+2020-07-02 Saw eggs, grubs and the queen.  Not a lot of food so I'll put on a feeder.
 
 2020-06-23 Saw eggs, grubs but not the queen.  There are lots of young bees.  There were a few queen cups on the face of some frames but they weren't charged.  I guess they could be thinking about a second swarm.
 

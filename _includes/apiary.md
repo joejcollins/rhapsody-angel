@@ -1,7 +1,7 @@
 * [Edit](https://github.com/joejcollins/rhapsody-angel/edit/master/_includes/apiary.md)
 
 1. -
-1. [Georgia]({{ site.baseurl }}/queens/2019-georgia.html) (11 F + 1 S - 2019 Queen Marked)
+1. [Georgia]({{ site.baseurl }}/queens/2019-georgia.html) (11 F + 1 S - 2019 Queen Marked Clipped)
 1. [Bethany]({{ site.baseurl }}/queens/2020-bethany.html) (11 F + 3 S - 2020 Queen Unmarked)
 1. -
 1. -
