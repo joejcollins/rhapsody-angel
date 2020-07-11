@@ -1,6 +1,8 @@
 # Georgia
-## 11 F
+## 11 F + 1 S
 ## 2019 Queen Marked Clipped
+
+2020-07-11 Put on a super because there are a lot of bees.  Also moved it and bled the flying bees into [Beatrix]({{ site.baseurl }}/queens/2020-beatrix.html)
 
 2020-07-02 Saw eggs, grubs and the queen.  Not a lot of food so I'll put on a feeder.
 

@@ -2,7 +2,9 @@
 ## 6 F
 ## 2020 Queen
 
-Next 2020-06-29 Check for laying queen.
+Next 2020-07-29 Check for laying queen.
+
+2020-07-10 No signs of laying queen, I probably shouldn't have bothered looking but I was passing and curiosity got the better of me.
 
 2020-06-24 Culled them down to 1 queen cell on the South face of frame 3 counting from the South (marked with a yellow pin).  I think putting in brood might have messed them up.  Not sure that it really is a useful technique for determining queenlessness, it might just add to the confusion. 
 
