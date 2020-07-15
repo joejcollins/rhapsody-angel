@@ -220,14 +220,14 @@ TSWLatexianTemp*
 *-tags.tex
 
 # Jekyll
-
 _site/
 .sass-cache/
 .jekyll-metadata
 Gemfile.lock
 
-# Vagrant
+# Tools
 .vagrant
+.obsidian
 
 # Scratch files
 shit*.*
