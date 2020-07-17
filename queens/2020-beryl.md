@@ -2,6 +2,8 @@
 ## 11 F + 3 S
 ## 2020 Queen Unmarked
 
+2020-07-17 Queen cells but there are eggs and a lot of bees.  Couldn't find the queen.  Some queen cups, might be considering swarming?
+
 2020-07-10 Lots of brood.  Saw eggs but didn't see the queen.  There are a lot of bees.  The supers are filling.
 
 2020-06-23 Checked for a laying queen, loads of brood, saw eggs but didn't see the queen.

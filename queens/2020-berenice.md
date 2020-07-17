@@ -1,6 +1,8 @@
 # Berenice
-## 9 F
-## 2020 Queen
+## 7 F
+## 2020 Queen Unmarked
+
+2020-07-17 Saw eggs and grubs, didn't see the queen.  They seemed pretty mobile on the frames.  It was a warm day.
 
 2020-07-10 Laying nice dark looking queen.  Saw eggs and grubs.  Not a lot of stores.  Needs feeding.
 

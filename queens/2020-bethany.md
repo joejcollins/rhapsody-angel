@@ -1,6 +1,8 @@
 # Bethany
-## 11 F + 3 S
-## 2020 Queen Unmarked
+## 5 F
+## 2020 Queen Marked
+
+2020-07-17 Saw queen cells and eggs, had to hunt for the queen.  Marked her and put her in another box (on a Snelgrove board) on top of [Brenda]({{ site.baseurl }}/queens/2020-brenda.html).  If Brenda doesn't come good I will merge them.  Actually I might merge them anyway.
 
 2020-07-10 Lots of brood.  Saw eggs but didn't see the queen.  There are a lot of bees in there.
 

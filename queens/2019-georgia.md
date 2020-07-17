@@ -2,6 +2,8 @@
 ## 11 F + 1 S
 ## 2019 Queen Marked Clipped
 
+2020-07-17 Saw eggs, grubs and the queen.  No signs of swarming.  Uploaded 30 images to <https://beescanning.com/> to get a varroa count but got "service unavailable" and "Bad Gateway" errors.  It thought it spotted one varroa but I can't see it.  Insufficient varroa to be worth bothering.
+
 2020-07-11 Put on a super because there are a lot of bees.  Also moved it and bled the flying bees into [Beatrix]({{ site.baseurl }}/queens/2020-beatrix.html)
 
 2020-07-02 Saw eggs, grubs and the queen.  Not a lot of food so I'll put on a feeder.
