@@ -2,6 +2,8 @@
 ## 6 F
 ## 2020 Queen
 
+2020-07-19 Laying worker, so I shook them out and put the frames in [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).
+
 2020-07-17 Pollen going into the hive, so that is a good sign, I think.  I had a look and there are grubs but a couple of them look like they might turn out to be drones.  I think it might be a laying worker.
 
 2020-07-10 No signs of laying queen, I probably shouldn't have bothered looking but I was passing and curiosity got the better of me.
