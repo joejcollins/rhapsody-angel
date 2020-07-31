@@ -1,6 +1,10 @@
 # Beryl
 ## 11 F + 3 S
-## 2020 Queen Unmarked
+## 2020 Queen Marked
+
+2020-08-01 
+
+2020-07-31 Saw eggs, grubs and the queen.  Marked the queen.  Reasonably quiet of the frames, so a keeper I think.  A lot of bees.
 
 2020-07-23 Saw eggs (not a lot of them, perhaps they are slowing up?), grubs but didn't see the queen.  No signs of swarming.
 

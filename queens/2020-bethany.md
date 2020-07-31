@@ -2,6 +2,8 @@
 ## 11 F
 ## 2020 Queen Marked
 
+2020-08-01 
+
 2020-07-24 Saw the queen, grubs and eggs.  It is a bit confused because there are a couple of droney combs from [Brenda]({{ site.baseurl }}/queens/2020-brenda.html) in there.
 
 2020-07-19 Added frames and flying bees from [Brenda]({{ site.baseurl }}/queens/2020-brenda.html).

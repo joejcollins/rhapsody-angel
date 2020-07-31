@@ -1,6 +1,8 @@
 # Georgia
-## 11 F + 1 S
+## 11 F
 ## 2019 Queen Marked Clipped
+
+2020-07-31 Culled and united with [Berenice]({{ site.baseurl }}/queens/2020-berenice.html).
 
 2020-07-23 Saw eggs, grubs and the queen.  No signs of swarming.
 
