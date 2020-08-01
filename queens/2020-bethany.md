@@ -2,9 +2,9 @@
 ## 9 x 9 F
 ## 2020 Queen Marked
 
-#TODO: 2020-08-08 Start Apiguard.
+# TODO: 2020-08-08 Start Apiguard.
 
-#TODO: 2020-08-03 Remove supers, check for queen cells, add feeder.
+# TODO: 2020-08-03 Remove supers, check for queen cells, add feeder.
 
 2020-08-01 Sealed queen cell and about 5 unsealed, queen still present and laying.  Strange, I think the queen cell might be some artifact because a couple of the frames were from a laying worker colony.  Also I can't be doing with a Demaree right now so I just took down the cells. Added brood box and more frames underneath.  Put on the clearer board so I can take the supers off.  Once those are off I can start feeding so the frames can be drawn out.
 
