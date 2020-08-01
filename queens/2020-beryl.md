@@ -1,8 +1,12 @@
 # Beryl
-## 11 F + 3 S
+## 8 x 9 F
 ## 2020 Queen Marked
 
-2020-08-01 
+# TODO: 2020-08-08 Add an extra frame and start Apiguard.
+
+# TODO: 2020-08-03 Remove supers add feeder.
+
+2020-08-01  Saw the queen and eggs.  Added brood box and more frames underneath.  Put on the clearer board so I can take the supers off.  Once those are off I can start feeding so the frames can be drawn out.
 
 2020-07-31 Saw eggs, grubs and the queen.  Marked the queen.  Reasonably quiet of the frames, so a keeper I think.  A lot of bees.
 

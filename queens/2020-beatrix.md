@@ -1,6 +1,8 @@
 # Beatrix
 ## 11 F
-## 2020 Queen Unmarked
+## 2020 Queen Marked
+
+2020-08-01 Sold.
 
 2020-07-31 Saw eggs, grubs and the queen.  Marked the queen.  There are 10 frames that are drawn and one not drawn.  It was a nice day but they were fractious and there was a lot of propolis.
 

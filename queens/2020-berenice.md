@@ -2,6 +2,8 @@
 ## 10 x 10 F
 ## 2020 Queen Marked
 
+# TODO: 2020-08-08 Start Apiguard.
+
 2020-07-31 Saw eggs, grubs and the queen.  Marked the queen.  United on top of the frames from [Georgia]({{ site.baseurl }}/queens/2019-georgia.html).
 
 2020-07-24 Saw eggs and grubs didn't see the queen.
