@@ -1,10 +1,10 @@
 # Beryl
-## 8 x 9 F
+## 9 x 9 F
 ## 2020 Queen Marked
 
-# TODO: 2020-08-08 Add an extra frame and start Apiguard.
+# TODO: 2020-08-08 Start Apiguard.
 
-# TODO: 2020-08-03 Remove supers add feeder.
+2020-08-03 Removed supers, added an extra frame, put the undrawn frames on the top, and added a feeder.
 
 2020-08-01  Saw the queen and eggs.  Added brood box and more frames underneath.  Put on the clearer board so I can take the supers off.  Once those are off I can start feeding so the frames can be drawn out.
 
