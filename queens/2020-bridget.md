@@ -1,5 +1,5 @@
 # Bridget
-## 9 F
+## 10 F
 ## 2020 Un-mated Queen?
 
 2020-07-31 There was an opened queen cell, looks like I might have missed one.
