@@ -2,7 +2,11 @@
 ## 9 x 9 F
 ## 2020 Queen Marked
 
-# TODO: 2020-08-08 Start Apiguard.
+# TODO: 2020-09-19 Apiguard treatment off.
+
+# TODO: 2020-08-22 Second Apiguard treatment.
+
+2020-08-08 Started Apiguard treatment.
 
 2020-08-03 Removed supers, added an extra frame, put the undrawn frames on the top, and added a feeder.
 

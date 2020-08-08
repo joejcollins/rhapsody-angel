@@ -2,7 +2,11 @@
 ## 9 x 9 F
 ## 2020 Queen Marked
 
-# TODO: 2020-08-08 Start Apiguard.
+# TODO: 2020-09-19 Apiguard treatment off.
+
+# TODO: 2020-08-22 Second Apiguard treatment.
+
+2020-08-08 Started Apiguard treatment.
 
 2020-08-04 Found one unsealed queen cell which I took down.  Reconfigured so the brood is in the bottom box and added a feeder.
 

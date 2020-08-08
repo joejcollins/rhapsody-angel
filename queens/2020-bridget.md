@@ -2,6 +2,8 @@
 ## 10 F
 ## 2020 Un-mated Queen?
 
+# TODO: 2020-08-29 Check for laying queen.
+
 2020-07-31 There was an opened queen cell, looks like I might have missed one.
 
 2020-07-24 Took down all the queen cells I could find.

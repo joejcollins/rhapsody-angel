@@ -2,7 +2,11 @@
 ## 10 x 10 F
 ## 2020 Queen Marked
 
-# TODO: 2020-08-08 Start Apiguard.
+# TODO: 2020-09-19 Apiguard treatment off.
+
+# TODO: 2020-08-22 Second Apiguard treatment.
+
+2020-08-08 Started Apiguard treatment.
 
 2020-07-31 Saw eggs, grubs and the queen.  Marked the queen.  United on top of the frames from [Georgia]({{ site.baseurl }}/queens/2019-georgia.html).
 
