@@ -12,6 +12,23 @@
 \LabelGridtrue
 \LabelInfotrue
 
+% MONTH NAMES
+\newcommand{\MONTH}{%
+  \ifcase\the\month
+  \or Jan% 1
+  \or Feby% 2
+  \or Mar% 3
+  \or Ap% 4
+  \or May% 5
+  \or Jun% 6
+  \or Jul% 7
+  \or Aug% 8
+  \or Sep% 9
+  \or Oct% 10
+  \or Nov% 11
+  \or Dec% 12
+  \fi}
+
 % HONEY LABELS
 \LabelCols=2% Number of columns of labels per page
 \LabelRows=6% Number of rows of labels per page
@@ -43,9 +60,9 @@
       \footnotesize\strut\hfill Bagbatch\\
       \strut\hfill All Stretton\\
       \strut\hfill  Shropshire\\
-      Batch Bethany-6 \hfill SY6 6LA\\
-      \AdvanceDate[1460]% Add 4 years, 365 * 4 = 1460
-      Best before May \the\year{} \hfill\strut 
+      Batch Beryl-\the\month \hfill SY6 6LA\\
+      \AdvanceDate[730]% Add 3 years, 365 * 2 = 730
+      Best before \MONTH-\the\year{} \hfill\strut 
     \end{minipage}
   \end{tabular}
 {\fontsize{14pt}{20pt}\selectfont  \textbf{Harvested in Shropshire England}}

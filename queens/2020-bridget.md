@@ -1,8 +1,8 @@
 # Bridget
-## 10 F
-## 2020 Un-mated Queen?
+## 11 F
+## 2020 Unmarked Queen
 
-# TODO: 2020-08-29 Check for laying queen.
+2020-08-29 Laying queen, plenty of brood and stores.  Really chock full of bees so I bled some off into [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).
 
 2020-07-31 There was an opened queen cell, looks like I might have missed one.
 

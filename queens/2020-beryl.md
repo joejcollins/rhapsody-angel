@@ -4,7 +4,7 @@
 
 # TODO: 2020-09-19 Apiguard treatment off.
 
-# TODO: 2020-08-22 Second Apiguard treatment.
+2020-08-22 Second Apiguard treatment.
 
 2020-08-08 Started Apiguard treatment.
 
