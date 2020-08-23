@@ -9,5 +9,5 @@
 1. [Beryl]({{ site.baseurl }}/queens/2020-beryl.html) (9 x 9 F - 2020 Queen Marked)
 1. -
 1. -
-1. [Berenice]({{ site.baseurl }}/queens/2020-berenice.html) (10 x 10 F - 2020 Queen Marked)
+1. [Berenice]({{ site.baseurl }}/queens/2020-berenice.html) (11 x 11 F - 2020 Queen Marked)
 1. -
