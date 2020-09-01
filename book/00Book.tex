@@ -1,48 +1,77 @@
 \documentclass{./BeekeepingBook}
 
-\title{Managed Beekeeping}
-
+\title{Apiary Management Procedure}
 \author{Joe Collins}
-\date{\DTMnow}
+\setcounter{tocdepth}{3}
 
 \begin{document}
- 
 \maketitle
+
+\begin{abstract}
+
+  Goals:
+
+  \begin{itemize}
+    \item Replace queens.
+    \item Harvest some honey. 
+    \item Renew some frames.
+    \item Treat for varroa in summer and winter.
+    \item Never have less than two colonies.
+  \end{itemize}
+
+  Approach sequence:
+
+  \begin{enumerate}
+    \item Start the season with two colonies.
+    \item Raise two queens from those colonies so you have four colonies.
+    \item Due to swarming so you might get another couple of colonies giving you six.
+    \item At the end of the season reduce to three colonies by selling or uniting.
+    \item Go into winter with three colonies.
+    \item If all three survive the winter, sell one to start the season with two colonies. 
+  \end{enumerate}
+
+\end{abstract}
+
+\clearpage
 \tableofcontents
 
-\chapter{Overview}
-
+\clearpage
+\section{Spring: Feeding and Queen Selection}
 \begin{description}
-  \item[Raise new queens]
-  \item[Harvest Honey]  
-  \item[Replace some frames each year]
-  \item[Treat for Varroa]
-  \item[Always have second colony to fix the first]
+  \item[February] Ensure there is enough equipment for 6 colonies.
+  \item[March] Early feeding to avoid starvation.
+  \item[April] Reduce to two colonies.
 \end{description}
+\input{02February}
+\input{03March}
+\input{04April}
 
-\chapter{Preparation: Avoid Starvation and Queen Selection}
-\include{03March}
-\include{04April}
+\clearpage
+\section{Summer: Production of Queens and Honey}
+\begin{description}
+  \item[May] Split the colonies to raise two new queens and early honey production.
+  \item[June] Confirm the two new queens and collect swarms.
+  \item[July] Swarm management and late honey production.
+\end{description}
+\input{05May}
+\input{06June}
+\input{07July}
 
-\chapter{Production: Queens and Honey}
-\include{05May}
-\include{06June}
-\include{07July}
- 
-\chapter{Protection: Varroa and Feeding}
-\include{08August}
-\include{09September}
-\include{10October}
+\clearpage
+\section{Autumn: Feeding for Winter}
+\input{08August}
+\input{09September}
+\input{10October}
 
-\chapter{Preservation: Varroa and Hardware}
-\include{11November}
-\include{12December}
-\include{01January}
-\include{02February}
+\clearpage
+\section{Winter: Hive Maintenance}
+\input{11November}
+\input{12December}
+\input{01January}
 
-\appendix
-\chapter{Appendix}
-\section{Complete Apiary}
+\clearpage
+\section{Notes}
+\subsection{Complete Apiary}
 \begin{apiary}{Stuff}
     \path (0,7.5) pic{roof=feeder};
     \path (0,6)  pic{super=super};
@@ -87,7 +116,7 @@
     \path (24,0) pic{stand};
 \end{apiary}
 
-\section{Inventory Hive of Equipment}
+\subsection{Inventory Hive of Equipment}
 
 \begin{description}
   \item[8 Stands] 6 for hives in the season, one to swap and one under the supers in the airing cupboard.
@@ -96,7 +125,7 @@
   \item[4 Queen Excluders] 2 on the production hives and 2 when the old colonies expand.
 \end{description}
 
-\section{Inventory of Beekeeper Equipment}
+\subsection{Inventory of Beekeeper Equipment}
 
 \begin{description}
   \item[Suit]  
@@ -113,7 +142,7 @@
   \item[Sheets of Newspaper] to wrap culled drone comb in.
 \end{description}
 
-\section{Annual of Consumables}
+\subsection{Annual of Consumables}
 
 \begin{description}
   \item[22 Brood Frames] because you will sell two complete colonies
@@ -127,7 +156,7 @@
   \item[3 x 750 ml take away dishes] for candy blocks
 \end{description}
 
-\section{Queen Raising}
+\subsection{Queen Raising}
 
 \newcounter{rowno}
 \setcounter{rowno}{0}

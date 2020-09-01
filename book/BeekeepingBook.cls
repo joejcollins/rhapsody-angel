@@ -9,22 +9,20 @@
 % No options.  This class is based on the book.cls
 % and the options are loaded at this point.
 %%
-
-%\LoadClass[12pt,twoside,openright]{memoir}
-\LoadClass[12pt, a4paper, twoside, british]{book}
+\LoadClass[12pt, a4paper, twoside, british]{article}
 
 %% 
 % Packages
 %%
-\RequirePackage[margin=2.8cm]{geometry} % Easier control over the margins
-\RequirePackage[utf8]{inputenc}
-\RequirePackage[british]{babel}
+\RequirePackage{fullpage} % for 1.5 cm margins
+\RequirePackage{abstract}
 \RequirePackage{tikz}
 \usetikzlibrary{arrows}
-\RequirePackage{datetime2}
+\RequirePackage[british]{isodate}
 \RequirePackage{float}
 \RequirePackage{multirow}
 \RequirePackage{bigdelim}
+\RequirePackage{parskip}
 \RequirePackage{xcolor}
 \RequirePackage[labelformat=empty]{caption}
 \RequirePackage[bottom]{footmisc}
@@ -33,10 +31,10 @@
 %% 
 % Set the font and adjust a few sizes
 %%
-
-\renewcommand{\familydefault}{\sfdefault}
+\renewcommand{\abstractname}{Overview}
+\renewcommand{\familydefault}{\sfdefault} % so it doesn't look like LaTeX
 \newcommand{\smaller}{\small}
-%\raggedright 
+\raggedright 
 \raggedbottom
 
 

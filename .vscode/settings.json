@@ -19,7 +19,7 @@
           "env": {}
       }
     ],
-    "latex-workshop.latex.autoClean.run": "onBuilt",
+    "latex-workshop.latex.autoClean.run": "onFailed",
     "latex-workshop.synctex.afterBuild.enabled": true,
     "files.associations": {
       "Vagrantfile": "ruby"
