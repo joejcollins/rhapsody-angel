@@ -2,7 +2,7 @@
 ## 11 x 11 F
 ## 2020 Queen Marked
 
-# TODO: 2020-09-19 Apiguard treatment off.
+2020-09-19 Apiguard treatment off.
 
 2020-08-22 Second Apiguard treatment.
 
