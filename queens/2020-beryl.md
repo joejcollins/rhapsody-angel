@@ -2,6 +2,8 @@
 ## 9 x 9 F
 ## 2020 Queen Marked
 
+2020-10-06 Looks like they have stopped feeding, so took the rapid feeder off.
+
 2020-09-19 Apiguard treatment off.
 
 2020-08-22 Second Apiguard treatment.
