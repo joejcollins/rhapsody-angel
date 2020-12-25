@@ -2,6 +2,8 @@
 ## 11 x 11 F
 ## 2020 Queen Marked
 
+2020-12-25 API-Bioxal (oxalic acid treatment).
+
 2020-10-06 Looks like they have stopped feeding, so took the rapid feeder off.
 
 2020-09-19 Apiguard treatment off.
