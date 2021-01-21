@@ -31,7 +31,7 @@
 %% 
 % Set the font and adjust a few sizes
 %%
-\renewcommand{\abstractname}{Overview}
+\renewcommand{\abstractname}{}
 \renewcommand{\familydefault}{\sfdefault} % so it doesn't look like LaTeX
 \newcommand{\smaller}{\small}
 \raggedright 

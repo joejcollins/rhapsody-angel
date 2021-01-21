@@ -34,5 +34,6 @@
     "nosema",
     "queenless",
     "varroa"
-  ]
+  ],
+  "workbench.colorTheme": "Solarized Dark"
 }
