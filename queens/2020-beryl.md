@@ -2,6 +2,8 @@
 ## 9 x 9 F
 ## 2020 Queen Marked
 
+2021-03-31 About 3-4 frames of unsealed brood, only in the bottom box towards the North.  Some signs of old queen cells.  Perhaps they swarmed or superseded at the end of last year.  Didn't see the queen.  A little bit pissed off.
+
 2020-12-25 API-Bioxal (oxalic acid treatment).
 
 2020-10-06 Looks like they have stopped feeding, so took the rapid feeder off.
@@ -14,7 +16,7 @@
 
 2020-08-03 Removed supers, added an extra frame, put the undrawn frames on the top, and added a feeder.
 
-2020-08-01  Saw the queen and eggs.  Added brood box and more frames underneath.  Put on the clearer board so I can take the supers off.  Once those are off I can start feeding so the frames can be drawn out.
+2020-08-01 Saw the queen and eggs.  Added brood box and more frames underneath.  Put on the clearer board so I can take the supers off.  Once those are off I can start feeding so the frames can be drawn out.
 
 2020-07-31 Saw eggs, grubs and the queen.  Marked the queen.  Reasonably quiet of the frames, so a keeper I think.  A lot of bees.
 
