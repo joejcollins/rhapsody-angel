@@ -1,6 +1,10 @@
 # Beryl
-## 9 x 9 F
-## 2020 Queen Marked
+## 11 F
+## 2020 Queen Marked Yellow
+
+2021-04-18 Swapped into buyers hive.
+
+2021-04-09 Sold.
 
 2021-03-31 About 3-4 frames of unsealed brood, only in the bottom box towards the North.  Some signs of old queen cells.  Perhaps they swarmed or superseded at the end of last year.  Didn't see the queen.  A little bit pissed off.
 

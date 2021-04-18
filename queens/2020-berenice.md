@@ -1,6 +1,8 @@
 # Berenice
-## 11 x 11 F
+## 11 x 11 F 2 S
 ## 2020 Queen Marked
+
+2021-04-18 Brood, eggs, drones, drone comb, saw the queen, queen cups.  Lots of bees so I put on two supers.
 
 2021-03-31 Brood in the top and bottom boxes.  About 5 frames of sealed brood, 3 frames of unsealed, some drone cells.  Saw the marked queen.  Nectar coming in.
 
