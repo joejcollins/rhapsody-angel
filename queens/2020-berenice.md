@@ -2,6 +2,8 @@
 ## 11 x 11 F 2 S
 ## 2020 Queen Marked
 
+2021-04-24 Found queen cells, so moved Berenice to one side (to the South), left the queen cells to start a new colony ([Wendy]({{ site.baseurl }}/queens/2021-wendy.html)).  A lot of the flying bees appeared to just follow so they might have been in the mood to swarm.
+
 2021-04-18 Brood, eggs, drones, drone comb, saw the queen, queen cups.  Lots of bees so I put on two supers.
 
 2021-03-31 Brood in the top and bottom boxes.  About 5 frames of sealed brood, 3 frames of unsealed, some drone cells.  Saw the marked queen.  Nectar coming in.

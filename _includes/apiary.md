@@ -6,7 +6,8 @@
 1. -
 1. -
 1. -
-1. [Berenice]({{ site.baseurl }}/queens/2020-berenice.html) (11 x 11 F - 2020 Queen Marked)
 1. -
+1. [Wendy]({{ site.baseurl }}/queens/2021-wendy.html) (11 F - Queen Cells)
 1. -
+1. [Berenice]({{ site.baseurl }}/queens/2020-berenice.html) (11 F - 2020 Queen Marked)
 1. -
