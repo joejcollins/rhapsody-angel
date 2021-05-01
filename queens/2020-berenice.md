@@ -1,6 +1,8 @@
 # Berenice
-## 11 x 11 F 2 S
+## 11 F
 ## 2020 Queen Marked
+
+2021-05-01 Brood, eggs, saw the queen no signs of swarming.
 
 2021-04-24 Found queen cells, so moved Berenice to one side (to the South), left the queen cells to start a new colony ([Wendy]({{ site.baseurl }}/queens/2021-wendy.html)).  A lot of the flying bees appeared to just follow so they might have been in the mood to swarm.
 
