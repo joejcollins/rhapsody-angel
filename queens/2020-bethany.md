@@ -2,6 +2,8 @@
 ## 11 x 11 F 2 S
 ## 2020 Queen Marked
 
+2021-05-07 Saw brood, eggs, drones, drone comb but didn't see the queen.  No signs of swarming.  Shed loads of bees.
+
 2021-04-30 Saw brood, eggs, drones, drone comb but didn't see the queen.  No signs of swarming.
 
 2021-04-24 Saw brood, eggs, drones, drone comb and the queen.  The queen was unmarked (rubbed off or new queen?) so remarked her with yellow.
