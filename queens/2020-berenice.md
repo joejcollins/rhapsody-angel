@@ -2,6 +2,8 @@
 ## 11 F
 ## 2020 Queen Marked
 
+2021-05-14 Brood, eggs, saw the queen no signs of swarming.  Very small.
+
 2021-05-07 Brood, eggs, saw the queen no signs of swarming.  Very small.
 
 2021-05-01 Brood, eggs, saw the queen no signs of swarming.

@@ -1,6 +1,8 @@
 # Bethany
-## 11 x 11 F 2 S
+## 11 x 11 F + 2 S
 ## 2020 Queen Marked
+
+2021-05-14 Saw brood, eggs, drones, drone comb but didn't see the queen.  No signs of swarming.  Shed loads of workers and plenty of drones.
 
 2021-05-07 Saw brood, eggs, drones, drone comb but didn't see the queen.  No signs of swarming.  Shed loads of bees.
 
