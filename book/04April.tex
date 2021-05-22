@@ -7,46 +7,53 @@ Now is the time to ensure that the year begins with only two colonies.
 Two is the minimum number of colonies to keep since
 a lost queen in one colony can be replaced using eggs from the other colony.
 The intention is to get down to two strong colonies on 18 frames each (9Fx9F).
+The apiary should look like this:
+
+\begin{apiary}{Select of removal}
+  \path (4,6) pic{roof=feeder};
+  \path (4,4) pic{brood=9F};
+  \path (4,2) pic{brood=9F};
+  \path (4,0) pic{stand};
+
+  \node at (13.5,8) {Selected for Removal};
+  \path (12,6) pic{roof=feeder};
+  \path (12,4) pic{brood=9F};
+  \path (12,2) pic{brood=9F};
+  \path (12,0) pic{stand};
+
+  \path (20,6) pic{roof=feeder};
+  \path (20,4) pic{brood=9F};
+  \path (20,2) pic{brood=9F};
+  \path (20,0) pic{stand};
+\end{apiary}
 
 \subsubsection{First Inspection}
 
+Confirm queen present and laying by looking for eggs and larvae.
+Then select a colony for removal.
+To select the colony for removal, if:
+
 \begin{description}
-  \item[Confirm queen present and laying] looking for eggs and larvae.
-  \item[All three are strong] Select for sale based on temperament, size or the state of the frames.
-  \item[One Colony is weak]
-  \item[Two Colonies are weak]
-  \item[One Colony is dead] 
+  \item[All three are strong] select for sale based on temperament or the state of the frames.
+  \item[One Colony is weak] sell as a nuc.
+  \item[Two Colonies are weak] cull one queen and unite the two colonies.
+  \item[One Colony is dead] remove and clean the hive, burn any dirty frames.
 \end{description}
-
-\subsubsection*{Select for Removal}
-
-\begin{apiary}{Select of removal}
-    \path (4,6) pic{roof=feeder};
-    \path (4,4) pic{brood=8F};
-    \path (4,2) pic{brood=8F};
-    \path (4,0) pic{stand};
-
-    \node at (13.5,8) {Selected for Removal};
-    \path (12,6) pic{roof=feeder};
-    \path (12,4) pic{brood=8F};
-    \path (12,2) pic{brood=8F};
-    \path (12,0) pic{stand};
-
-    \path (20,6) pic{roof=feeder};
-    \path (20,4) pic{brood=8F};
-    \path (20,2) pic{brood=8F};
-    \path (20,0) pic{stand};
-\end{apiary}
-
 
 \subsubsection*{Prepare for Removal}
 
-Shuffle for sale or give away.
+Ideally all three colonies will be strong
+so one can be selected for sale.
+Remove one brood box from the colony selected for sale
+and reduce the colony to 11 frames.
+Take the surplus frames and put them in the other colonies,
+adding additional frames so they have full brood boxes.
+So the apiary should look like this:
 
 \begin{apiary}{Stuff}
     \path (6,6) pic{roof};
-    \path (6,4) pic{brood=9F};
-    \path (6,2) pic{brood=9F};
+    \path (6,4) pic{brood=11F};
+    \path (6,2) pic{brood=11F};
     \path (6,0) pic{stand};
 
     \node at (13.5,6) {Remove or Sell};
@@ -55,17 +62,7 @@ Shuffle for sale or give away.
     \path (12,0) pic{stand};
 
     \path (18,6) pic{roof};
-    \path (18,4) pic{brood=9F};
-    \path (18,2) pic{brood=9F};
+    \path (18,4) pic{brood=11F};
+    \path (18,2) pic{brood=11F};
     \path (18,0) pic{stand};
 \end{apiary}
-
-
-\begin{description}
-  \item[Open the hive for removal]
-The colony selected for sale has 16 frames (8F x 8F).
-Select 11 of the frames for sale.
-And put in one box.
-Shake off the other 5 frames and put 4 them in the other two colonies so the are now 18 frames (9F x 9F) each.
-Stash or trash the 5 th frame.
-\end{description}

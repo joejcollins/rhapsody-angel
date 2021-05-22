@@ -2,6 +2,8 @@
 ## 11 F
 ## 2020 Queen Marked
 
+2021-05-14 Brood, eggs didn't see the queen no signs of swarming.  Building up, probably because there is a feeder on (because the weather had been poor).
+
 2021-05-14 Brood, eggs, saw the queen no signs of swarming.  Very small.
 
 2021-05-07 Brood, eggs, saw the queen no signs of swarming.  Very small.
