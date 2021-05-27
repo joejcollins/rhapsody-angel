@@ -2,6 +2,8 @@
 ## 11 x 11 F + 3 S
 ## 2020 Queen Marked
 
+2021-05-27 Saw brood, eggs and the queen.  Some cups but no signs of swarming. Most of the honey in the supers has gone.
+
 2021-05-22 Saw brood, eggs but didn't see the queen.  Some cups but no signs of swarming.  The supers are getting full so I put on another one.
 
 2021-05-14 Saw brood, eggs, drones, drone comb but didn't see the queen.  No signs of swarming.  Shed loads of workers and plenty of drones.
