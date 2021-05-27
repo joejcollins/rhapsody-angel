@@ -2,6 +2,8 @@
 ## 11 F
 ## 2020 Queen Marked
 
+2021-05-27 Saw brood, eggs and the queen.  There was one queen cell on the face of a frame with two eggs in.  There is plenty of honey in the frames.
+
 2021-05-14 Brood, eggs didn't see the queen no signs of swarming.  Building up, probably because there is a feeder on (because the weather had been poor).
 
 2021-05-14 Brood, eggs, saw the queen no signs of swarming.  Very small.
