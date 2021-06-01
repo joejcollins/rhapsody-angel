@@ -4,7 +4,7 @@
 
 2021-06-01 Saw brood and eggs but not the queen.  No signs of swarming but there are plenty of bees so I put on a super.
 
-2021-05-27 Saw brood, eggs and the queen.  There was one queen cell on the face of a frame with two eggs in.  There is plenty of honey in the frames.
+2021-05-27 Saw brood, eggs and the queen.  There was one queen cell on the face of a frame with two eggs in (which I took down).  There is plenty of honey in the frames and lots of bees so I moved it to bleed off some of the bees into [Wendy]({{ site.baseurl }}/queens/2021-wendy.html).
 
 2021-05-14 Brood, eggs didn't see the queen no signs of swarming.  Building up, probably because there is a feeder on (because the weather had been poor).
 
