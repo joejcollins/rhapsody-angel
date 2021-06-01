@@ -1,6 +1,8 @@
 # Berenice
-## 11 F
+## 11 F + 1 S
 ## 2020 Queen Marked
+
+2021-06-01 Saw brood and eggs but not the queen.  No signs of swarming but there are plenty of bees so I put on a super.
 
 2021-05-27 Saw brood, eggs and the queen.  There was one queen cell on the face of a frame with two eggs in.  There is plenty of honey in the frames.
 
