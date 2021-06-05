@@ -1,6 +1,8 @@
 # Bethany
-## 11 x 11 F + 3 S
+## 11 F
 ## 2020 Queen Marked
+
+2021-06-05 Saw charged queen cells, so removed to side made up [Whitney]({{ site.baseurl }}/queens/2021-whitney.html).
 
 2021-05-27 Saw brood, eggs and the queen.  Some cups but no signs of swarming. Most of the honey in the supers has gone.
 

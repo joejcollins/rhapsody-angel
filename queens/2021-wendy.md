@@ -1,8 +1,8 @@
 # Wendy
-## 11 F 2 S
+## 11 F + 2 S
 ## Opened Queen Cell
 
-2021-06-05 Check for a mated queen.
+2021-06-05 Checked for a mated queen.  No sign of laying queen but there were some polished cells.  They seemed a bit tetchy to me.  Added a frame with eggs from [Berenice]({{ site.baseurl }}/queens/2020-berenice.html) to see if they will make emergency cells.
 
 2021-05-01 The queen cell on the bottom of the middle frame had recently popped, there was a little door on it.  There were shed loads of bees and another 10 or so queen cells.  One of the queen cells had been gashing in the side.  I am guessing that the new queen is still in there and it not ready to fly yet.  I took down all the queen cells in the hope she will mate from this hive.
 

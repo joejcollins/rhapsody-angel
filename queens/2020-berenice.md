@@ -2,6 +2,8 @@
 ## 11 F + 1 S
 ## 2020 Queen Marked
 
+2021-06-05 Saw brood and eggs but not the queen.  No signs of swarming.  With the super on and having moved it's location to bleed off some flying bees they didn't seem cramped (7 frames covered in the brood box).
+
 2021-06-01 Saw brood and eggs but not the queen.  No signs of swarming but there are plenty of bees so I put on a super.
 
 2021-05-27 Saw brood, eggs and the queen.  There was one queen cell on the face of a frame with two eggs in (which I took down).  There is plenty of honey in the frames and lots of bees so I moved it to bleed off some of the bees into [Wendy]({{ site.baseurl }}/queens/2021-wendy.html).
