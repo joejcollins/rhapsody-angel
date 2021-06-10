@@ -1,6 +1,8 @@
 # Berenice
-## 11 F + 1 S
+## 11 x 11F
 ## 2020 Queen Marked
+
+2021-06-09 Added flying bees and frames from [Willow]({{ site.baseurl }}/queens/2021-willow.html) because it had a drone laying queen or worker.
 
 2021-06-05 Saw brood and eggs but not the queen.  No signs of swarming.  With the super on and having moved it's location to bleed off some flying bees they didn't seem cramped (7 frames covered in the brood box).
 

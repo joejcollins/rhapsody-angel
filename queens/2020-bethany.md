@@ -1,6 +1,8 @@
 # Bethany
-## 11 F
+## 11 x 11 F
 ## 2020 Queen Marked
+
+2021-06-09 Added flying bees and frames from [Wendy]({{ site.baseurl }}/queens/2021-wendy.html) which was destroyed because of a drone laying queen or worker.
 
 2021-06-05 Saw charged queen cells, so removed to side made up [Whitney]({{ site.baseurl }}/queens/2021-whitney.html).
 
