@@ -1,5 +1,7 @@
 # Clare
+
 ## 5F
+
 ## 2015 Queen
 
 3/8/2015 Queen killed and queen cell destroyed.  Merged with [Bella]({{ site.baseurl }}/queens/2015-bella.html).

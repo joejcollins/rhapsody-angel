@@ -1,5 +1,7 @@
 # Garton
+
 ## 8F
+
 ## Unmarked Queen
 
 19/5/2014 Took down the queen cell and merged with [Dominique]({{ site.baseurl }}/queens/2014-dominique.html).

@@ -1,5 +1,7 @@
 # Wendy
-## 11 F 
+
+## Destroyed
+
 ## Opened Queen Cell
 
 2021-06-09 Drone laying queen or worker.  There were even a few laid up cells in the super.  The eggs were at the bottom of the cells so I assume it was a drone laying queen.  The weather for mating was terrible so I guess it isn't surprising.  I took off the supers and shook all the bees out in the top of the field.   All the frames and flying bees went into [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).

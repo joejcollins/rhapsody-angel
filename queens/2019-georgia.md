@@ -1,5 +1,7 @@
 # Georgia
+
 ## 11 F
+
 ## 2019 Queen Marked Clipped
 
 2020-07-31 Culled and united with [Berenice]({{ site.baseurl }}/queens/2020-berenice.html).

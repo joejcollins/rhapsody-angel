@@ -1,5 +1,7 @@
 # Sarah
+
 ## 11F
+
 ## Yellow 2017 Queen 
 
 2018-08-09 Culled the queen and united with [Rachel]({{ site.baseurl }}/queens/2018-rachel.html).

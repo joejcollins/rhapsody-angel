@@ -1,5 +1,7 @@
 # Brenda
+
 ## 6 F
+
 ## 2020 Queen
 
 2020-07-19 Laying worker, so I shook them out and put the frames in [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).

@@ -1,5 +1,7 @@
 # Bridget
+
 ## 11 F
+
 ## 2020 Unmarked Queen
 
 2020-08-30 Sold rather than merge back into [Bethany]({{ site.baseurl }}/queens/2020-bethany.html) which seems pretty strong as it is.

@@ -1,5 +1,7 @@
 # Rosie
-## 8F1C 
+
+## 8F 1C
+
 ## Emerged Queen Cell
 
 2017-07-18 Took down queen cells and put [Teresa]({{ site.baseurl }}/queens/2019-teresa.html) on top to unite using newspaper.

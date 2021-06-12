@@ -1,5 +1,7 @@
 # Andrea
+
 ## 7F1C 
+
 ## Queen Balled and Killed Under Hive
 
 2017-06-17 They appeared to swarm but were limited because the queen was clipped.  One sealed queen cell on the South side of the cull frame marked with a black pin.  This queen to be named [Rosie]({{ site.baseurl }}/queens/2017-rosie.html).  The old queen [Andrea]({{ site.baseurl }}/queens/2017-andrea.html) was dead in clump with a new queen.  I put the new queen in a nucleus hive ([Teresa]({{ site.baseurl }}/queens/2019-teresa.html)) with 3 frames.

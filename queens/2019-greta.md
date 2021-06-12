@@ -1,5 +1,7 @@
 # Greta
+
 ## 11F + 1S
+
 ## Queenless
 
 2019-06-22 United with [Kate]({{ site.baseurl }}/queens/2018-kate.html).

@@ -1,5 +1,7 @@
 # Marigold
+
 ## 6F+1C+2D x 7F+2D
+
 ## yellow marked 2012 Queen (swarmed?)
 
 27/7/2012 Removed emergency cells, well pissed off, put on Snelgrove board and put [Harry]({{ site.baseurl }}/queens/2012-harry.html) on top.
