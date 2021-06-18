@@ -1,8 +1,10 @@
 # Berenice
 
-## 11 x 11 F + 1 S
+## 11 x 11 F + 2 S
 
 ## 2020 Queen Marked
+
+2021-06-18 I saw eggs and saw the queen.  There were a few queen cups but none were charged.
 
 2021-06-12 Looked at the frames from [Willow]({{ site.baseurl }}/queens/2021-willow.html) and they appear to be fine with no drones.  I was duped by the uneven early pattern which was very uneven and thought that I had a drone layer.  So that was a mistake.  Anyway I saw eggs but didn't see the queen.  There is a lot of brood so I expect the colony to expand fast.
 

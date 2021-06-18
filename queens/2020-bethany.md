@@ -4,6 +4,8 @@
 
 ## 2020 Queen Marked
 
+2021-06-18 I saw eggs but didn't see the queen.
+
 2021-06-12 I saw eggs but didn't see the queen.  There is not much brood but there are a lot of flying bees.
 
 2021-06-09 Added flying bees and frames from [Wendy]({{ site.baseurl }}/queens/2021-wendy.html) which was destroyed because of a drone laying queen or worker.
