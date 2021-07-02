@@ -4,6 +4,8 @@
 
 ## 2020 Queen Marked
 
+2021-07-01 I saw eggs and saw the queen.  There were a few queen cups but none were charged.  Lots of brood.
+
 2021-06-26 I saw eggs and saw the queen.  There were queen cups one of which was quite well developed (long) but not charged.
 
 2021-06-18 I saw eggs and saw the queen.  There were a few queen cups but none were charged.
