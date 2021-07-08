@@ -1,6 +1,6 @@
 # Whitney
 
-## 11 F + 3 S + Clearer + 2 S
+## 11 F + 3 S
 
 ## 2021 Queen Cell marked with black pin
 
