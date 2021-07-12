@@ -4,7 +4,7 @@
 
 ## 2020 Queen Marked
 
-2021-07-11 **Remove QX and check for QCs**
+2021-07-11 Removed the queen excluder from underneath.  There were two charged but unsealed queen cells, I am guessing they are hang overs from the swarming so I took them down.  The queen was present and I saw eggs.
 
 2021-07-08 Sealed queen cells, one even looks like it had emerged.  There were about 10 queen cells, about half on the bottoms of frames and half on the faces.  However I found the queen and moved her to one side, and put a queen excluder underneath.  Supercedure?  Maybe.  I don't understand how we missed the signs last time.  Anyway I made up a new colony [Winnie]({{ site.baseurl }}/queens/2021-winnie.html) in the original location with a sealed queen cell.
 
