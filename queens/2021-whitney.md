@@ -4,7 +4,7 @@
 
 ## 2021 Queen Cell marked with black pin
 
-2021-07-17 **Check for laying queen**
+2021-07-14 No sign of a laying queen.
 
 2021-06-12 Went through the brood box and culled the emergency cells.  There were about 20.  Left a single queen cell on the North side, bottom of frame 4 (counting from the South).
 
