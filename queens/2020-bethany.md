@@ -4,6 +4,8 @@
 
 ## 2020 Queen Marked
 
+2021-07-23 I saw eggs but didn't see the queen.  Lots of brood.  No signs of swarming.
+
 2021-07-14 I saw eggs but didn't see the queen.  No signs of swarming.
 
 2021-07-08 I saw eggs but didn't see the queen.  No signs of swarming but lots of brood.

@@ -4,6 +4,8 @@
 
 ## 2020 Queen Marked
 
+2021-07-23 I saw eggs and saw the queen. 
+
 2021-07-14 I saw eggs and but didn't see the queen.
 
 2021-07-11 Removed the queen excluder from underneath.  There were two charged but unsealed queen cells, I am guessing they are hang overs from the swarming so I took them down.  The queen was present and I saw eggs.
