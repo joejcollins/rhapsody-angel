@@ -1,10 +1,12 @@
-# Winnie
+# Winona
 
 ## 11 F + 2 S
 
 ## Emerged Queen
 
 Leave to mate
+
+2021-07-25 Since [Winnie]({{ site.baseurl }}/queens/2021-winnie.html) was laying.  I thought I would check this one too.  No signs of laying.  However there were a couple of opened queen cells and about five sealed queen cells.  I cull all but one of the sealed queen cells.  The remaining queen cell is marked with a red pin on the second frame from the North.
 
 2021-07-14 Culled all the emergency queen cells, I am hoping the un-mated queen is still in there.
 

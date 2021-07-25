@@ -2,9 +2,9 @@
 
 ## 5 F
 
-## Queen Cell
+## 2021 Queen Unmarked
 
-Leave to mate
+2021-07-25 There was a bit of shit on the front of the hive so I thought they might have dysentery.  Saw eggs so probably has a laying queen.  No signs of dysentery.  They probably need feeding and a couple more frames.
 
 2021-07-14 There was an additional emergency queen cell, so I culled it.
 

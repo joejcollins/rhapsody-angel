@@ -4,7 +4,9 @@
 
 ## 2020 Queen Marked
 
-2021-07-23 I saw eggs and saw the queen. 
+2021-07-25 I saw eggs.  I was looking for eggs to donate to [Whitney]({{ site.baseurl }}/queens/2021-whitney.html) but the colony isn't strong enough to be a donor.  I will keep on feeding them.
+
+2021-07-23 I saw eggs and saw the queen.
 
 2021-07-14 I saw eggs and but didn't see the queen.
 

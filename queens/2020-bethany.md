@@ -4,6 +4,8 @@
 
 ## 2020 Queen Marked
 
+2021-07-25 Removed a frame of eggs and donated them to [Whitney]({{ site.baseurl }}/queens/2021-whitney.html) to suppress laying workers.
+
 2021-07-23 I saw eggs but didn't see the queen.  Lots of brood.  No signs of swarming.
 
 2021-07-14 I saw eggs but didn't see the queen.  No signs of swarming.
