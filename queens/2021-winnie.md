@@ -4,6 +4,8 @@
 
 ## 2021 Queen Unmarked
 
+2021-07-26 Added two more drawn frames to give the queen more space to lay in.
+
 2021-07-25 There was a bit of shit on the front of the hive so I thought they might have dysentery.  Saw eggs so probably has a laying queen.  No signs of dysentery.  They probably need feeding and a couple more frames.
 
 2021-07-14 There was an additional emergency queen cell, so I culled it.
