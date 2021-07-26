@@ -2,7 +2,7 @@
 
 1. 
 1. [Whitney]({{ site.baseurl }}/queens/2021-whitney.html) (11 F - 2021 Queen Cell)
-1. [Winnie]({{ site.baseurl }}/queens/2021-winnie.html) (5 F - 2021 Queen Cell)
+1. [Winnie]({{ site.baseurl }}/queens/2021-winnie.html) (7 F - 2021 Queen Cell)
 1. -
 1. [Winona]({{ site.baseurl }}/queens/2021-winona.html) (11 F - Emerged Queen)
 1. [Berenice]({{ site.baseurl }}/queens/2020-berenice.html) (11 F - 2020 Queen Marked)
