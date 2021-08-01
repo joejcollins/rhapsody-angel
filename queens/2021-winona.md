@@ -4,7 +4,7 @@
 
 ## Emerged Queen
 
-Leave to mate
+2021-08-01 The cell with the red pin had popped and still had a lid attached.  No eggs but there were polished brood cells.  The top super is pretty heavy and there are lots of bees so will add another super so I can remove the top one for extraction.
 
 2021-07-26 At about 13hrs00 loads of bees came out an swirled about looking like they might swarm, but then went back in again after about 20 minutes.  Mating flight?
 
