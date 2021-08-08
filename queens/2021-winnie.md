@@ -4,6 +4,8 @@
 
 ## 2021 Queen Unmarked
 
+2021-08-09 Saw eggs and brood.
+
 2021-08-01 Saw eggs and brood.  Added a couple more frames.
 
 2021-07-26 Added two more drawn frames to give the queen more space to lay in.

@@ -4,6 +4,8 @@
 
 ## 2020 Queen Marked
 
+2021-08-08 I saw eggs in the top brood box, it was windy so I didn't look in the bottom box.  Didn't see the queen.
+
 2021-08-01 I saw eggs in the top brood box and sealed brood in the bottom box.  Didn't see the queen.
 
 2021-07-25 Removed a frame of eggs and donated them to [Whitney]({{ site.baseurl }}/queens/2021-whitney.html) to suppress laying workers.

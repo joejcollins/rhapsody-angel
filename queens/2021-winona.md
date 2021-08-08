@@ -1,8 +1,10 @@
 # Winona
 
-## 11 F + 2 S
+## 11 F + 3 S
 
-## Emerged Queen
+## Emerged Queen ?
+
+2021-08-08 No eggs but there were polished brood cells.
 
 2021-08-01 The cell with the red pin had popped and still had a lid attached.  No eggs but there were polished brood cells.  The top super is pretty heavy and there are lots of bees so will add another super so I can remove the top one for extraction.
 

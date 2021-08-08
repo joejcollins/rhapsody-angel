@@ -4,6 +4,8 @@
 
 ## 2021 Queen Cell marked with black pin
 
+2021-08-08 No signs of queen cells.  I added another frame of eggs from [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).  The others that I put in last week are just being raised normally.
+
 2021-08-01 No signs of queen cells, maybe the one that was there emerged.  I added another frame of eggs from [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).  The others that I put in last week are just being raised normally.
 
 2021-07-25 Put in in more eggs from [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).  There was no queen cells on the previous brood frame that we put in 2 days ago (it just looked like the cells had been sealed).  There were queen cells in the honey area along with a load of drone brood.  I removed two frames from the honey area which had drone brood on them.
