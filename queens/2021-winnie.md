@@ -4,6 +4,8 @@
 
 ## 2021 Queen Unmarked
 
+2021-08-21 Saw eggs and brood, still couldn't find the queen to mark her.
+
 2021-08-09 Saw eggs and brood.
 
 2021-08-01 Saw eggs and brood.  Added a couple more frames.

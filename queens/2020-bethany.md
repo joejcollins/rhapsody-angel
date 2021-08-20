@@ -1,8 +1,10 @@
 # Bethany
 
-## 11 x 11 F + 1 S
+## 9 x 9 F + 2 S
 
 ## 2020 Queen Marked
+
+2021-08-21 Saw eggs and grubs didn't see the queen.  No signs of swarming but there are a lot of bees so I added a super.
 
 2021-08-08 I saw eggs in the top brood box, it was windy so I didn't look in the bottom box.  Didn't see the queen.
 

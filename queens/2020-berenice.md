@@ -1,10 +1,10 @@
 # Berenice
 
-## 11 F
+## 9 F
 
 ## 2020 Queen Marked
 
-2021-08-08 Emergency queen cells, no eggs, didn't see the queen.  I am guessing she is dead.
+2021-08-08 Emergency queen cells, no eggs, didn't see the queen.  I am guessing she is dead.  New queen designated [Wren]({{ site.baseurl }}/queens/2021-wren.html).
 
 2021-08-01 Building up nicely, about 5 frames of eggs and brood.  Didn't see the queen.  There are a couple of frames that need drawing so they need to be fed but will probably need a super when the brood comes out.
 
