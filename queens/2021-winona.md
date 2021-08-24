@@ -2,9 +2,9 @@
 
 ## 9 F + 3 S
 
-## Queen cell
+## Queen Cell
 
-2021-08-21 It is three weeks since the queen came out and there are no signs of eggs so I added a queen cell from [Berenice]({{ site.baseurl }}/queens/2020-berenice.html) on a frame in a paper bag.
+2021-08-20 It is three weeks since the queen came out and there are no signs of eggs so I added a queen cell from [Berenice]({{ site.baseurl }}/queens/2020-berenice.html) on a frame in a paper bag.
 
 2021-08-08 No eggs but there were polished brood cells.
 

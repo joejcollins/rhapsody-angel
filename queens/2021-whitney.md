@@ -1,10 +1,12 @@
 # Whitney
 
-## 9 x 9 F + 1 S
+## 9 x 9 F
 
-## 2021 Queen Cell marked with black pin
+## 2021 Queen Unmarked
 
-2021-08-21 Swarmed (I think) to the old pear tree.  I took down the remaining three queen cells and put the swarm in a brood box on top of a Snelgrove board.  The plan is to merge them in a few days time.
+2021-08-22 United using newspaper.
+
+2021-08-20 Swarmed (I think) to the old pear tree.  I took down the remaining three queen cells and put the swarm in a brood box on top of a Snelgrove board.  The plan is to merge them in a few days time.
 
 2021-08-08 No signs of queen cells.  I added another frame of eggs from [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).  The others that I put in last week are just being raised normally.
 

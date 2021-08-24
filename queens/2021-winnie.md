@@ -1,10 +1,12 @@
 # Winnie
 
-## 9 F
+## 9 x 9 F
 
 ## 2021 Queen Unmarked
 
-2021-08-21 Saw eggs and brood, still couldn't find the queen to mark her.
+2021-08-22 Added another brood box because I want to balance the flying bees with [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).
+
+2021-08-20 Saw eggs and brood, still couldn't find the queen to mark her.
 
 2021-08-09 Saw eggs and brood.
 
