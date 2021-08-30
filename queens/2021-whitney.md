@@ -4,6 +4,8 @@
 
 ## 2021 Queen Unmarked
 
+2021-08-30 Put the MAQS strips on between the two brood boxes.
+
 2021-08-22 United using newspaper.
 
 2021-08-20 Swarmed (I think) to the old pear tree.  I took down the remaining three queen cells and put the swarm in a brood box on top of a Snelgrove board.  The plan is to merge them in a few days time.

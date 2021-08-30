@@ -4,6 +4,8 @@
 
 ## 2021 Queen Unmarked
 
+2021-08-30 Put the MAQS strips on between the two brood boxes.
+
 2021-08-22 Added another brood box because I want to balance the flying bees with [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).
 
 2021-08-20 Saw eggs and brood, still couldn't find the queen to mark her.

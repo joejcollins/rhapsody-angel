@@ -4,6 +4,8 @@
 
 ## 2020 Queen Marked
 
+2021-08-30 Put the MAQS strips on between the two brood boxes.
+
 2021-08-20 Saw eggs and grubs didn't see the queen.  No signs of swarming but there are a lot of bees so I added a super.
 
 2021-08-08 I saw eggs in the top brood box, it was windy so I didn't look in the bottom box.  Didn't see the queen.
