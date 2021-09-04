@@ -1,8 +1,10 @@
 # Winona
 
-## 9 F + 3 S
+## 9 F
 
 ## Queen Cell
+
+2021-09-04 Not so many bees so I took off the supers.  Maybe they swarmed while we were away.  There are polished cells but no sign of eggs.
 
 2021-08-20 It is three weeks since the queen came out and there are no signs of eggs so I added a queen cell from [Berenice]({{ site.baseurl }}/queens/2020-berenice.html) on a frame in a paper bag.
 
