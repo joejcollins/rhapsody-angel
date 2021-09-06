@@ -4,6 +4,8 @@
 
 ## 2021 Queen Unmarked
 
+2021-09-06 Took off the MAQS and started feeding again.
+
 2021-08-30 Put the MAQS strips on between the two brood boxes.
 
 2021-08-22 Added another brood box because I want to balance the flying bees with [Bethany]({{ site.baseurl }}/queens/2020-bethany.html).

@@ -4,6 +4,8 @@
 
 ## 2020 Queen Marked
 
+2021-09-06 Took off the MAQS and started feeding again.  There were a worrying number of dead bees on top of one of the MAQS strips (like the acid came out too fast and killed a load?).
+
 2021-08-30 Put the MAQS strips on between the two brood boxes.
 
 2021-08-20 Saw eggs and grubs didn't see the queen.  No signs of swarming but there are a lot of bees so I added a super.
