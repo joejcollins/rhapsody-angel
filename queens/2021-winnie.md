@@ -1,8 +1,10 @@
 # Winnie
 
-## 9 x 9 F
+## 10 x 10 F
 
 ## 2021 Queen Unmarked
+
+2021-09-17 Brood and grubs will assume that the queen is good.  Plenty of food.
 
 2021-09-06 Took off the MAQS and started feeding again.
 

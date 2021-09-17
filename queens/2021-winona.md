@@ -4,6 +4,8 @@
 
 ## Queen Cell
 
+2021-09-17 No signs of a laying queen.  Just three frames of bees.  United on top of [Wren]({{ site.baseurl }}/queens/2021-wren.html).
+
 2021-09-04 Not so many bees so I took off the supers.  Maybe they swarmed while we were away.  There are polished cells but no sign of eggs.
 
 2021-08-20 It is three weeks since the queen came out and there are no signs of eggs so I added a queen cell from [Berenice]({{ site.baseurl }}/queens/2020-berenice.html) on a frame in a paper bag.
