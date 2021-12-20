@@ -34,6 +34,10 @@ To serve the Jekyll site install the bundle `bundle install` then run `bundle ex
 docker-compose up
 ```
 
-Then visit <http://localhost:8089/>.
+Then visit <http://localhost:8080/>.
 
 ## To Run on Vagrant
+
+```bash
+vagrant up
+```

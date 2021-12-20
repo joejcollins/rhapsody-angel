@@ -4,6 +4,8 @@
 
 ## 2021 Queen Unmarked
 
+2021-09-20 API-Bioxal (oxalic acid treatment), the bees were in the middle between the top and bottom brood boxes.  Put on a block of candy.
+
 2021-09-17 Brood and grubs will assume that the queen is good.  Plenty of food.
 
 2021-09-06 Took off the MAQS and started feeding again.

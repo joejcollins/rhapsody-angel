@@ -1,0 +1,12 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - name: Run Web Server (8080)
+    command: |
+      bundle install
+      bundle exec jekyll serve --host=0.0.0.0 --port=8080 --watch
+    openMode: tab-after
+
+ports:
+- port: 8080

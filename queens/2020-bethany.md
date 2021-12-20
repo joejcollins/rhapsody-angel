@@ -4,6 +4,8 @@
 
 ## 2020 Queenless?
 
+2021-09-20 API-Bioxal (oxalic acid treatment), the bees were all in the top brood box.  Put on a block of candy.
+
 2021-09-18 Put in a frame with grubs and brood (in the top box) marked with a blue pin to see if they will make a queen cell.
 
 2021-09-17 No signs of a laying queen.  I think the MAQS strips might have killed her off.

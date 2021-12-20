@@ -8,5 +8,5 @@ services:
         volumes:
             - ./:/srv/jekyll
         ports:
-            - '8089:4000'
+            - '8080:4000'
         command: jekyll serve --watch --force_polling
