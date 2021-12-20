@@ -5,6 +5,9 @@
 ## 2020 Queenless?
 
 2021-09-20 API-Bioxal (oxalic acid treatment), the bees were all in the top brood box.  Put on a block of candy.
+2021-09-24 The queen cell at the bottom of the frame with the blue pin broke open when I removed the frame to look.  There was a queen cell with a grub at the bottom of the second? frame from the East (marked with a yellow pin).  Along side it were some drone cells with brood in, but no eggs.  Can they have transferred the eggs?  I added another frame of brood and eggs marked with a black pin (sixth or seventh from the East).  Generally the bees are well behaved and quiet on the frames, not behaving in an overtly queenless way.
+
+2021-09-21 There's a charged queen cell at the bottom of the frame in the middle and marked with a blue pin.  It is not an emergency cell.
 
 2021-09-18 Put in a frame with grubs and brood (in the top box) marked with a blue pin to see if they will make a queen cell.
 
