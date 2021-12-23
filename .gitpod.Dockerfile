@@ -14,6 +14,6 @@ RUN sudo apt-get -q update \
  && unzip emerald.zip \
  && cp -r emerald/. . && rm -rf emerald/ \
  && rm emerald.zip \
- && sudo updmap -sys --enable Map emerald.map \
- && sudo texhash \
+#  && sudo updmap -sys --enable Map emerald.map \
+#  && sudo texhash \
  && curl -fsSL https://starship.rs/install.sh | bash -s -- --yes
