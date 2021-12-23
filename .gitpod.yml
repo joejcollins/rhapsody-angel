@@ -33,4 +33,4 @@ vscode:
   extensions:
     - streetsidesoftware.code-spell-checker
     - james-yu.latex-workshop
-    - cweijan.vscode-office
+    # - cweijan.vscode-office
