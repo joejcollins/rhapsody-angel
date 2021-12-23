@@ -24,17 +24,5 @@
     "files.associations": {
       "Vagrantfile": "ruby"
   },
-  "cSpell.words": [
-    "Apiguard",
-    "Bioxal",
-    "Snelgrove",
-    "Stretton",
-    "behaviour",
-    "chalkbrood",
-    "heartedly",
-    "nosema",
-    "queenless",
-    "varroa"
-  ],
   "workbench.colorTheme": "Solarized Dark"
 }
