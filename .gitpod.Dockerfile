@@ -8,4 +8,4 @@ RUN sudo apt-get -q update \
  && wget -q https://www.tug.org/fonts/getnonfreefonts/install-getnonfreefonts \
  && sudo texlua ./install-getnonfreefonts \
  && getnonfreefonts --user --all \
- && curl -fsSL https://starship.rs/install.sh | bash -s -- --yes
+ && curl -fsSL https://starship.rs/install.sh | sh -s -- --yes
