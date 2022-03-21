@@ -4,6 +4,8 @@
 
 ## 2021 Queen Unmarked
 
+2022-03-21 The candy block was completely consumed so I put on a rapid feeder as a precaution.
+
 2021-12-20 API-Bioxal (oxalic acid treatment), the bees were quite low down, in the bottom brood box.  Put on a block of candy.
 
 2021-09-17 Brood and grubs will assume that the queen is good. 
