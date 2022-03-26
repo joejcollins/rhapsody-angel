@@ -1,8 +1,10 @@
 # Winnie
 
-## 10 x 10 F
+## 11 x 11 F
 
-## 2021 Queen Unmarked
+## 2021 Marked Queen
+
+2022-03-26 Marked the queen.  Lots of bees, about 8 frames with brood on.  Half of one frame was drone brood.  A good balance of stores, but not enough for more than a week of bad weather in my opinion.
 
 2021-12-20 API-Bioxal (oxalic acid treatment), the bees were in the middle between the top and bottom brood boxes.  Put on a block of candy.
 

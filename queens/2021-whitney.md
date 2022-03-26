@@ -1,8 +1,10 @@
 # Whitney
 
-## 10 x 10 F
+## 11 x 11 F
 
-## 2021 Queen Unmarked
+## 2021 Marked Queen
+
+2022-03-26 Marked the queen.  Probably about one frame of brood and eggs.  Some stores but I topped up the feeder.
 
 2022-03-21 The candy block was completely consumed so I put on a rapid feeder as a precaution.
 
