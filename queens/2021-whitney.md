@@ -1,8 +1,10 @@
 # Whitney
 
-## 11 x 11 F
+## 11 x 11 F + 1S
 
 ## 2021 Marked Queen
+
+2022-04-24 Plenty of bees, put on a super.  No signs of swarming, but they are making drones.
 
 2022-03-26 Marked the queen.  Probably about one frame of brood and eggs.  Some stores but I topped up the feeder.
 

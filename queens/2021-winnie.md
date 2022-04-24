@@ -1,8 +1,12 @@
 # Winnie
 
-## 11 x 11 F
+## 11 x 11 F + 2 S
 
 ## 2021 Marked Queen
+
+2022-04-24 Plenty of bees, put on another super.  There was a section of drone brood, about half a frame.  A few queen cups and there might have been a tiny bit of back filling.
+
+2022-04-14 Half hearted inspection, we seemed to be breaking drone comb.  Lots of bees so I put on a super.
 
 2022-03-26 Marked the queen.  Lots of bees, about 8 frames with brood on.  Half of one frame was drone brood.  A good balance of stores, but not enough for more than a week of bad weather in my opinion.
 
