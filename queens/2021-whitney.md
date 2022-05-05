@@ -1,8 +1,10 @@
 # Whitney
 
-## 11 x 11 F + 1S
+## 11 x 11 F + 2S
 
 ## 2021 Marked Queen
+
+2022-05-05 Added a super but didn't check them because [Winnie]({{ site.baseurl }}/queens/2021-winnie.html) wasn't swarming.
 
 2022-04-30 Plenty of bees, no signs of swarming.
 
