@@ -1,8 +1,10 @@
 # Winnie
 
-## 11 x 11 F + 2 S
+## 11 x 11 F + 3 S
 
 ## 2021 Marked Queen
+
+2022-05-05 Very busy, removed entrance block and added a super.  No signs of swarming.  Saw the queen, she looked fine.
 
 2022-04-30 Plenty of bees and drones, no signs of swarming, some empty queen cups.
 
