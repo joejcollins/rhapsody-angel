@@ -27,6 +27,7 @@
 \RequirePackage[labelformat=empty]{caption}
 \RequirePackage[bottom]{footmisc}
 \RequirePackage{array} % for the counter in the tables
+\RequirePackage{enumitem} % for indented descriptions
 
 %% 
 % Set the font and adjust a few sizes
@@ -36,6 +37,7 @@
 \newcommand{\smaller}{\small}
 \raggedright 
 \raggedbottom
+\setlist[description]{leftmargin=0.5cm,labelindent=0.5cm}
 
 
 \tikzset{

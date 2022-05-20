@@ -20,7 +20,7 @@ the two original colonies on 5 or more frames each.\par
     \path (4,0) pic{stand};
     
     \path (8,4) pic{roof};
-    \path (8,2) pic{brood=2D};
+    \path (8,2) pic{brood=Empty};
     \path (8,0) pic{stand};
 
     \path (16,0) pic{stand};
@@ -31,7 +31,7 @@ the two original colonies on 5 or more frames each.\par
     \path (20,0) pic{stand};
     
     \path (24,4) pic{roof};
-    \path (24,2) pic{brood=2D};
+    \path (24,2) pic{brood=Empty};
     \path (24,0) pic{stand};
 \end{apiary}
 
@@ -215,3 +215,39 @@ check for a laying queen.
 If there is no queen is raised in the second attempt,
 or if there is insufficient time because it is too late in the season,
 then merge with the original colony using the newspaper method.
+
+\subsection{Queen Raising}
+
+\newcounter{rowno}
+\setcounter{rowno}{0}
+\begin{table}[H]%
+\begin{center}
+\begin{tabular}{>{\stepcounter{rowno}\therowno}lllcc}
+\multicolumn{1}{r}{\textbf{Day}}  & \textbf{Queen} & \textbf{Action} \\
+ & \rdelim\}{3}{3mm}[\textsf{Egg}] & $\leftarrow$ 1. \textbf{Remove queen} \\
+\\
+ & \multirow{2}{*}{\quad $\leftarrow$ Hatching} & \\
+ \cline{1-1}
+ & \rdelim\}{5}{3mm}[\textsf{Larva}] &  \\
+ \\  \\  \\
+ & \multirow{2}{*}{\quad $\leftarrow$ Sealing} & $\leftarrow$ 2. \textbf{Cull queen cells}  \\
+\cline{1-1}
+ & \rdelim\}{8}{3mm}[\textsf{Pupa}] &  \\
+ \\  \\  \\  \\  \\ \\
+ & \multirow{2}{*}{\quad $\leftarrow$ Emerging} \\
+\cline{1-1}
+ & \rdelim\}{5}{3mm}[\textsf{Maturing}] \\
+\\  \\  \\  \\
+\cline{1-1}
+ & \rdelim\}{4}{3mm}[\textsf{Mating (typical)}] \\
+\\  \\  \\
+\cline{1-1}
+ & \rdelim\}{2}{3mm}[\textsf{Sperm Transfer}] \\
+ \\
+\cline{1-1}
+ & \rdelim\}{16}{3mm}[\textsf{Laying (typical)}] \\
+\\ \\  \\  \\  \\  \\  \\  \\  \\  \\  \\  \\  \\  \\ 
+ & & \multicolumn{2}{l}{$\leftarrow$  3. \textbf{Check for laying}}
+\end{tabular}
+\end{center}
+\end{table}

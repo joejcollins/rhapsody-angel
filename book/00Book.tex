@@ -1,14 +1,15 @@
 \documentclass{./BeekeepingBook}
 
-\title{Apiary Procedures 2022}
+\title{Apiary Procedures \the\year{}}
 \author{Joe Collins}
+\date{}
 \setcounter{tocdepth}{3}
 
 \begin{document}
 \maketitle
+\thispagestyle{empty}
 
 \begin{abstract}
-
 
   \begin{description}
     \item[Spring] Start the season with two colonies, sell any others.
@@ -19,7 +20,7 @@
 
   \vfill
   \rule{8cm}{0.4pt}\\
-  So each year you:
+  Each year:
   \begin{itemize}
     \item Replace queens.
     \item Harvest some honey. 
@@ -32,16 +33,20 @@
 
 \clearpage
 \tableofcontents
+\thispagestyle{empty}
 
 \clearpage
-\section{Spring: Feeding and Queen Selection}
+\section{Spring: Equipment, Feeding and Queen Selection}
 \begin{description}
   \item[February] Ensure there is enough equipment for 6 colonies.
   \item[March] Early feeding to avoid starvation.
   \item[April] Reduce to two colonies.
 \end{description}
+\clearpage
 \input{02February}
+\clearpage
 \input{03March}
+\clearpage
 \input{04April}
 
 \clearpage
@@ -51,26 +56,53 @@
   \item[June] Confirm the two new queens and collect swarms.
   \item[July] Swarm management and late honey production.
 \end{description}
+\clearpage
 \input{05May}
+\clearpage
 \input{06June}
+\clearpage
 \input{07July}
 
 \clearpage
 \section{Autumn: Feeding for Winter}
+\clearpage
 \input{08August}
+\clearpage
 \input{09September}
+\clearpage
 \input{10October}
 
 \clearpage
 \section{Winter: Hive Maintenance}
+\clearpage
 \input{11November}
+\clearpage
 \input{12December}
+\clearpage
 \input{01January}
 
 \clearpage
 \section{Notes}
-\subsection{Complete Apiary}
-\begin{apiary}{Stuff}
+
+\subsection{Beekeeper Equipment}
+
+\begin{description}
+  \item[Suit]  
+  \item[Rubber Gloves] 
+  \item[Wellingtons] 
+  \item[Smoker] 
+  \item[Hive Tool] 
+  \item[Marking Pen]
+  \item[Crown of Thorns]
+  \item[Pins] to mark frames that have queen cells on.
+  \item[Cocktail Sticks] to extract larvae for examination.
+  \item[2 Hive Cover Cloths] to cover the first brood box when you are looking in the second.
+  \item[2 Cargo Straps] to help with moving hives. 
+  \item[Sheets of Newspaper] to wrap culled drone comb in.
+\end{description}
+
+\subsection{Apiary Diagram}
+\begin{apiary}{Reference Diagram for Notes}
     \path (0,7.5) pic{roof=feeder};
     \path (0,6)  pic{super=super};
     \path (0,4)  pic{brood=8F};
@@ -113,82 +145,5 @@
     \path (24,2) pic{brood=8F};
     \path (24,0) pic{stand};
 \end{apiary}
-
-\subsection{Hive Equipment}
-
-\begin{description}
-  \item[8 Stands] 6 for hives in the season, one to swap and one under the supers in the airing cupboard.
-  \item[7 Brood Boxes] 6 out being used with and one spare to swap for repairs.
-  \item[6 Floors] all out a the peak of the season.
-  \item[4 Queen Excluders] 2 on the production hives and 2 when the old colonies expand.
-\end{description}
-
-\subsection{Beekeeper Equipment}
-
-\begin{description}
-  \item[Suit]  
-  \item[Rubber Gloves] 
-  \item[Wellingtons] 
-  \item[Smoker] 
-  \item[Hive Tool] 
-  \item[Marking Pen] yellow, because it is easiest to spot.
-  \item[Crown of Thorns]  to capture the queen.
-  \item[Pins] to mark frames that have queen cells on (so you are careful with knocking them).
-  \item[Cocktail Sticks]  to extract larvae for examination.
-  \item[2 Hive Cover Cloths] to cover the first brood when you are looking in the second.
-  \item[2 Cargo Straps] to help with moving hives. 
-  \item[Sheets of Newspaper] to wrap culled drone comb in.
-\end{description}
-
-\subsection{Annual of Consumables}
-
-\begin{description}
-  \item[22 Brood Frames] because you will sell two complete colonies
-  \item[22 Sheets of Wired Brood Wax] for above 
-  \item[22 Red End Spacers] for the North and West ends of above.
-  \item[22 Green End Spacers] for the South and East ends of above.
-  \item[Apiguard or MAQS for 3 hives] to treat at the end of the season
-  \item[Oxalic acid for 3 hives] to treat in the middle of winter
-  \item[45 kg Sugar] to feed at the end of the season
-  \item[2.5 kg Sugar] for candy blocks
-  \item[3 x 750 ml take away dishes] for candy blocks
-\end{description}
-
-\subsection{Queen Raising}
-
-\newcounter{rowno}
-\setcounter{rowno}{0}
-\begin{table}[H]%
-\begin{center}
-\begin{tabular}{>{\stepcounter{rowno}\therowno}lllcc}
-\multicolumn{1}{r}{\textbf{Day}}  & \textbf{Queen} & \textbf{Action} \\
- & \rdelim\}{3}{3mm}[\textsf{Egg}] & $\leftarrow$ 1. \textbf{Remove queen} \\
-\\
- & \multirow{2}{*}{\quad $\leftarrow$ Hatching} & \\
- \cline{1-1}
- & \rdelim\}{5}{3mm}[\textsf{Larva}] &  \\
- \\  \\  \\
- & \multirow{2}{*}{\quad $\leftarrow$ Sealing} & $\leftarrow$ 2. \textbf{Cull queen cells}  \\
-\cline{1-1}
- & \rdelim\}{8}{3mm}[\textsf{Pupa}] &  \\
- \\  \\  \\  \\  \\ \\
- & \multirow{2}{*}{\quad $\leftarrow$ Emerging} \\
-\cline{1-1}
- & \rdelim\}{5}{3mm}[\textsf{Maturing}] \\
-\\  \\  \\  \\
-\cline{1-1}
- & \rdelim\}{4}{3mm}[\textsf{Mating (typical)}] \\
-\\  \\  \\
-\cline{1-1}
- & \rdelim\}{2}{3mm}[\textsf{Sperm Transfer}] \\
- \\
-\cline{1-1}
- & \rdelim\}{17}{3mm}[\textsf{Laying (typical)}] \\
-\\ \\  \\  \\  \\  \\  \\  \\  \\  \\  \\  \\  \\  \\ 
- & & \multicolumn{2}{l}{$\leftarrow$  3. \textbf{Check}} \\
-\end{tabular}
-\caption{Swarm Control and Queen Raising}%
-\end{center}
-\end{table}
 
 \end{document}
