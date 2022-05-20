@@ -11,4 +11,4 @@
 1. [Yasmin]({{ site.baseurl }}/queens/2022-yasmin.html) (11 F - 2022 Preemptive Split)
 1. -
 
-[Apiary Procedures](https://github.com/joejcollins/rhapsody-angel/edit/master/book/00Book.pdf)
+[Apiary Procedures](https://github.com/joejcollins/rhapsody-angel/raw/master/book/00Book.pdf)
