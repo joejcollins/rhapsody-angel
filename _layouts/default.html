@@ -17,7 +17,9 @@
         </div>
         <div class="col-xl">
           {%if page.content != "" %}
-            * <a href="https://github.com/joejcollins/rhapsody-angel/edit/master{{page.url | replace: '.html', '.md'}}" target="_blank">Edit</a>
+            <ul>
+              <li><a href="https://github.com/joejcollins/rhapsody-angel/edit/master{{page.url | replace: '.html', '.md'}}" target="_blank">Edit</a></li>
+            </ul>
           {% endif %}
           {{ content }}
         </div>
