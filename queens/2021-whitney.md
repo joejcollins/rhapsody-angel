@@ -4,6 +4,8 @@
 
 ## 2021 Marked Queen
 
+2022-05-21 Saw eggs and grubs but didn't see the queen, no signs of swarming.
+
 2022-05-14 No signs of swarming.  The empty super from was drawn out but the supers aren't getting full.
 
 2022-05-05 Added a super but didn't check them because [Winnie]({{ site.baseurl }}/queens/2021-winnie.html) wasn't swarming.

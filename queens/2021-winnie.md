@@ -4,6 +4,8 @@
 
 ## 2021 Marked Queen
 
+2022-05-21 Saw eggs and grubs but didn't see the queen, they are a bit light on stores so I put on a feeder.
+
 2022-05-14 Very busy, back filling, some uncharged queen cups.  There were drones and a whole lot of brood to come out so I decided to do a preemptive split and made up [Yasmin]({{ site.baseurl }}/queens/2022-yasmin.html) on the original site.
 
 2022-05-05 Very busy, removed entrance block and added a super.  No signs of swarming.  Saw the queen, she looked fine.
