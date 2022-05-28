@@ -1,8 +1,10 @@
 # Whitney
 
-## 11 x 11 F + 2S
+## 11 F + 2S
 
 ## 2021 Marked Queen
+
+2022-05-28 Sealed queen cells on the bottom of frames which broke when I took out the frames.  Some back filling.  Split it amd made up [Yvette]({{ site.baseurl }}/queens/2022-yvette.html) on the original site.
 
 2022-05-21 Saw eggs and grubs but didn't see the queen, no signs of swarming.
 
