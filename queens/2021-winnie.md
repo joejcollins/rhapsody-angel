@@ -1,8 +1,10 @@
 # Winnie
 
-## 11 F
+## 9 x 9 F
 
 ## 2021 Marked Queen
+
+2022-06-04 Plenty of eggs, brood and bees.  Converted to a double brood and put on a feeder.
 
 2022-05-28 Saw eggs and saw the queen, no signs of swarming, light on stores still so refilled the feeder.
 
