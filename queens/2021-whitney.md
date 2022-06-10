@@ -4,7 +4,13 @@
 
 ## 2021 Marked Queen
 
-2022-06-04 Saw the eggs, brood and the queen,  No signs of swarming.  Put on a feeder.
+2022-06-10 Saw eggs and brood, but didn't see the queen.  A lot of bees but no signs of swarming they will need more space.  Options:
+
+  * Add a super.
+  * Make double brood
+  * Bleed off some of the bees.
+
+2022-06-04 Saw eggs, brood and the queen,  No signs of swarming.  Put on a feeder.
 
 2022-05-28 Sealed queen cells on the bottom of frames which broke when I took out the frames.  Some back filling.  Split it amd made up [Yvette]({{ site.baseurl }}/queens/2022-yvette.html) on the original site.
 
