@@ -4,6 +4,10 @@
 
 ## 2021 Marked Queen
 
+2022-06-17 Saw eggs and brood, but didn't see the queen.  No signs of swarming.  Removed the feeder.
+
+2022-06-10 Eggs and brood in the top box, no signs of swarming.  It looks like they have enough space.  Also they probably have enough food so I can remove the feeder.
+
 2022-06-04 Plenty of eggs, brood and bees.  Converted to a double brood and put on a feeder.
 
 2022-05-28 Saw eggs and saw the queen, no signs of swarming, light on stores still so refilled the feeder.

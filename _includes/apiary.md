@@ -3,7 +3,7 @@
 1. -
 1. [Yvette]({{ site.baseurl }}/queens/2022-yvette.html) (11 F - 2022 Split)
 1. -
-1. [Whitney]({{ site.baseurl }}/queens/2021-whitney.html) (11 F - 2021 Marked Queen)
+1. [Whitney]({{ site.baseurl }}/queens/2021-whitney.html) (8 x 8 F - 2021 Marked Queen)
 1. -
 1. [Yuki]({{ site.baseurl }}/queens/2022-yuki.html) (11 F - 2022 Swarm)
 1. -

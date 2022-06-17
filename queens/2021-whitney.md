@@ -1,14 +1,12 @@
 # Whitney
 
-## 11 F + 2S
+## 8 x 8 F
 
 ## 2021 Marked Queen
 
-2022-06-10 Saw eggs and brood, but didn't see the queen.  A lot of bees but no signs of swarming they will need more space.  Options:
+2022-06-17 Saw eggs and brood, but didn't see the queen.  No signs of swarming.
 
-  * Add a super.
-  * Make double brood
-  * Bleed off some of the bees.
+2022-06-10 Saw eggs and brood, but didn't see the queen.  A lot of bees but no signs of swarming they will need more space.  Made it into a double brood, with 8 x 8 F.
 
 2022-06-04 Saw eggs, brood and the queen,  No signs of swarming.  Put on a feeder.
 
