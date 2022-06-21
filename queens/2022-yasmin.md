@@ -2,9 +2,9 @@
 
 ## 11 F + 3 S
 
-## 2022 Preemptive Split
+## 2022 Queen
 
-2022-06-25 *Check for laying queen*.
+2022-06-21 Saw eggs and brood, not sealed yet.  There weren't sufficient bees for the three supers so I'll feed in some bees from from [Winnie]({{ site.baseurl }}/queens/2021-winnie.html).
 
 2022-06-06 Remove the cleared supers, leaving them with three supers.
 
