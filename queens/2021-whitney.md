@@ -1,8 +1,10 @@
 # Whitney
 
-## 8 x 8 F
+## 9 x 9 F
 
 ## 2021 Marked Queen
+
+2022-06-23 Saw eggs and brood, but didn't see the queen. Pretty busy so I added two more brood frames.
 
 2022-06-17 Saw eggs and brood, but didn't see the queen.  No signs of swarming.
 
