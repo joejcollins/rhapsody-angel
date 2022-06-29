@@ -1,8 +1,10 @@
 # Whitney
 
-## 9 x 9 F
+## 9 x 9 F + 1 S
 
 ## 2021 Marked Queen
+
+2022-06-29 Added a super because they are looking a bit full.
 
 2022-06-23 Saw eggs and brood, but didn't see the queen. Pretty busy so I added two more brood frames.
 
