@@ -4,6 +4,8 @@
 
 ## 2021 Marked Queen
 
+2022-07-01 Saw eggs and brood, but didn't see the queen. They have plenty of space in the supers.  No signs of swarming.
+
 2022-06-23 Saw eggs and brood, but didn't see the queen. Pretty busy still so I added another super.
 
 2022-06-21 Moved to the other side of [Yasmin]({{ site.baseurl }}/queens/2022-yasmin.html) to bleed off some bees.

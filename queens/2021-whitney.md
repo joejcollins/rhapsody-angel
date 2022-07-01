@@ -4,6 +4,8 @@
 
 ## 2021 Marked Queen
 
+2022-07-01 Saw eggs and brood, but didn't see the queen.  There as a queen cell with an egg in it (in the top brood box, on the east side of the third frame from the west) marked with a black pin.  Superceding perhaps?  There weren't a great deal of eggs given that it is mid summer.  The queen was late mating in August last year so possibly not well mated.
+
 2022-06-29 Added a super because they are looking a bit full.
 
 2022-06-23 Saw eggs and brood, but didn't see the queen. Pretty busy so I added two more brood frames.
