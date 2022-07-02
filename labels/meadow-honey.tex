@@ -60,7 +60,7 @@
       \footnotesize\strut\hfill Bagbatch\\
       \strut\hfill All Stretton\\
       \strut\hfill  Shropshire\\
-      Batch: Winnie-\the\month \hfill SY6 6LA\\
+      Batch: Whitney-\the\month \hfill SY6 6LA\\
       \AdvanceDate[730]% Add 3 years, 365 * 2 = 730
       Best Before: \MONTH-\the\year{} \hfill\strut 
     \end{minipage}
@@ -76,29 +76,6 @@
 }%
 \end{labels}
 
-% RAW LABELS
-\LabelCols=3% Number of columns of labels per page
-\LabelRows=7% Number of rows of labels per page
-\LeftLabelBorder=5mm% These four parameters give the extra
-\RightLabelBorder=5mm% space used around the text on each
-\TopLabelBorder=5mm% actual label.
-\BottomLabelBorder=5mm% actual label.
-\LabelSetup%
-\newcommand\rawlabel{%
-  \small
-  {\bf RAW HONEY} is the most original sweet liquid that honeybees produce from the concentrated nectar of flowers. 
-   Collected straight from the honey extractor; it is totally unheated, unpasteurized, unprocessed honey.\vfill
-}%
-
-\begin{labels}
-\forloop{ct}{0}{\value{ct} < 21}%
-{%
-  \rawlabel
-  
-}%
-\end{labels}
-
-
 % TAMPER STRIPS
 \LeftPageMargin=0mm
 \LabelSetup
@@ -107,6 +84,4 @@
 {%
   \rule{\paperwidth}{3pt}\par\par
 }%
-
 \end{document}
-
