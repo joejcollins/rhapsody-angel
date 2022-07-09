@@ -1,8 +1,10 @@
 # Yvette
 
-## 11 F + 3 S
+## 9 x 9 F + 3 S
 
 ## 2022 Marked Queen
+
+2022-07-08 Expanded the brood box to 9 x 9 frames.  The top super is getting heavier, so could come off soon.
 
 2022-07-08 Lots of brood.  Found the new queen and marked her.  There is lots of brood and they are back filling so they need more space, another brood chamber I think. 
 

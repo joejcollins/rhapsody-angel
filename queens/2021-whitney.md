@@ -2,9 +2,9 @@
 
 ## 9 x 9 F + 1 S
 
-## 2022 Queen Cell
+## 2022 Marked Queen (Swarmed)
 
-2022-07-08 Swarmed into the damson tree.  There were eggs in some of the cells but not many.  I guess it wasn't a supercedure.  Went through the colony and culled all the queen cells leaving one, marked with an orange pin on the bottom of frame 4 from the north in the bottom box.
+2022-07-08 Swarmed into the damson tree, so we collected it and hived it on 11 new frames.  So it wasn't superceding.
 
 2022-07-01 Saw eggs and brood, but didn't see the queen.  There as a queen cell with an egg in it (in the top brood box, on the east side of the third frame from the west) marked with a black pin.  Superceding perhaps?  There weren't a great deal of eggs given that it is mid summer.  The queen was late mating in August last year so possibly not well mated.
 
