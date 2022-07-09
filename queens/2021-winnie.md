@@ -1,8 +1,10 @@
 # Winnie
 
-## 9 x 9 F + 2 S
+## 9 x 9 F + 3 S
 
 ## 2021 Marked Queen
+
+2022-07-09 Saw eggs and brood, but didn't see the queen. The supers are heavy and busy so I added a empty one above the brood chamber.  The top two heavy ones could be removed but I have not supers to replace them with right now.
 
 2022-07-01 Saw eggs and brood, but didn't see the queen. They have plenty of space in the supers.  No signs of swarming.
 

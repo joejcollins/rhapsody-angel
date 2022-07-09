@@ -2,7 +2,11 @@
 
 ## 11 F + 3 S
 
-## 2022 Queen
+## 2022 Unmarked Queen
+
+2022-07-12 **Remove cleared super**
+
+2022-07-09 Saw eggs and brood, but didn't see the queen. I want to mark her.  One of the supers was heavy so I put on a clearer board.
 
 2022-06-21 Saw eggs and brood, not sealed yet.  There weren't sufficient bees for the three supers so I'll feed in some bees from from [Winnie]({{ site.baseurl }}/queens/2021-winnie.html).
 
