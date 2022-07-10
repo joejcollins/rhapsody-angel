@@ -12,4 +12,4 @@
 1. [Yasmin]({{ site.baseurl }}/queens/2022-yasmin.html) (11 F - 2022 Unmarked Queen)
 1. [Winnie]({{ site.baseurl }}/queens/2021-winnie.html) (9 x 9 F - 2021 Marked Queen)
 
-* [Apiary Procedures](https://github.com/joejcollins/rhapsody-angel/raw/master/book/00Book.pdf)
+* [Procedures](https://github.com/joejcollins/rhapsody-angel/raw/master/book/00Book.pdf)
