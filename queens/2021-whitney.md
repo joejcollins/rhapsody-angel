@@ -1,6 +1,6 @@
 # Whitney
 
-## 9 x 9 F + 1 S
+## 11 F
 
 ## 2022 Marked Queen (Swarmed)
 
