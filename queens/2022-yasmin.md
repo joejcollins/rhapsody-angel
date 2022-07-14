@@ -4,7 +4,7 @@
 
 ## 2022 Unmarked Queen
 
-2022-07-12 **Remove cleared super**
+2022-07-12 Remove the cleared super.
 
 2022-07-09 Saw eggs and brood, but didn't see the queen. I want to mark her.  One of the supers was heavy so I put on a clearer board.
 
