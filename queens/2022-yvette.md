@@ -4,7 +4,7 @@
 
 ## 2022 Marked Queen
 
-2022-07-12 **Remove cleared super**
+2022-07-12 Removee the cleared super, put another one on to replace it.
 
 2022-07-09 The top super is pretty heavy so I put on a clearer board so I can extract it.
 
