@@ -1,6 +1,6 @@
 # Yulinar
 
-## 11 F
+## 9 x 9 + 1 F
 
 ## 2022 Queen Cell
 
