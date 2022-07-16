@@ -4,6 +4,8 @@
 
 ## 2021 Marked Queen
 
+2022-07-16 Saw eggs and brood, but didn't see the queen. No signs of swarming. Added another super because it looked so busy.
+
 2022-07-10 Added another super with 11 frames of starter strips.
 
 2022-07-09 Saw eggs and brood, but didn't see the queen. The supers are heavy and busy so I added a empty one above the brood chamber.  The top two heavy ones could be removed but I have not supers to replace them with right now.

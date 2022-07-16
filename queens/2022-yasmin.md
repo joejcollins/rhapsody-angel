@@ -1,8 +1,10 @@
 # Yasmin
 
-## 11 F + 3 S
+## 8 x 8 F + 1 S
 
-## 2022 Unmarked Queen
+## 2022 Marked Queen
+
+2022-07-16 Found and marked the queen.  There no signs of swarming but the single brood box was looking cramped, so we put them on double brood.
 
 2022-07-12 Removed the cleared super.
 

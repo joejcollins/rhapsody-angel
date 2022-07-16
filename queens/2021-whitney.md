@@ -4,6 +4,8 @@
 
 ## 2022 Marked Queen (Swarmed)
 
+2022-07-16 Added two frames of brood from [Winnie]({{ site.baseurl }}/queens/2021-winnie.html) to build this one up faster.
+
 2022-07-13 Saw eggs and a yellow marked queen so it is definitely Whitney.  They are covering about 4 full frames.
 
 2022-07-08 Swarmed into the damson tree, so we collected it and hived it on 11 new frames.  So it wasn't superceding.
