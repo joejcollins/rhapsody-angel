@@ -4,6 +4,8 @@
 
 ## 2022 Marked Queen (Swarmed)
 
+2022-07-23 Saw eggs and brood, didn't see the queen no signs of swarming. Looking good could probably sell.
+
 2022-07-16 Added two frames of brood from [Winnie]({{ site.baseurl }}/queens/2021-winnie.html) to build this one up faster.
 
 2022-07-13 Saw eggs and a yellow marked queen so it is definitely Whitney.  They are covering about 4 full frames.

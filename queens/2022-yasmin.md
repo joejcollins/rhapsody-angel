@@ -4,6 +4,10 @@
 
 ## 2022 Marked Queen
 
+Make 4 frames and clear the super.
+
+2022-07-23 Saw eggs and brood, didn't see the queen no signs of swarming. They don't appear to be working the super, with another 4 frames to make them into 10 x 10 they could be squeezed on to the brood boxes.
+
 2022-07-16 Found and marked the queen.  There no signs of swarming but the single brood box was looking cramped, so we put them on double brood.
 
 2022-07-12 Removed the cleared super.

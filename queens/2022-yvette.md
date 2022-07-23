@@ -4,6 +4,10 @@
 
 ## 2022 Marked Queen
 
+Make two frames and put on 10 x 10.
+
+2022-07-23 Saw eggs and brood, didn't see the queen no signs of swarming.  The new super frames are not being drawn.  They can probably be squeezed down into the brood with another two frames.  
+
 2022-07-19 Removed a cleared super.
 
 2022-07-16 Saw eggs, brood and the marked queen.  Two of the supers were heavy so I put a clearer board on to clear one.  The third super has undrawn frames so put this close to the brood chamber for them to draw out.
