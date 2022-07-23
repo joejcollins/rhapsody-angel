@@ -4,7 +4,7 @@
 
 ## 2022 Marked Queen
 
-2022-07-19 **Remove the cleared super**
+2022-07-19 Removed a cleared super.
 
 2022-07-16 Saw eggs, brood and the marked queen.  Two of the supers were heavy so I put a clearer board on to clear one.  The third super has undrawn frames so put this close to the brood chamber for them to draw out.
 
