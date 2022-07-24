@@ -1,10 +1,12 @@
 # Yvette
 
-## 9 x 9 F + 2 S
+## 10 x 10 F + 2 S
 
 ## 2022 Marked Queen
 
-Make two frames and put on 10 x 10.
+2022-07-26 **Take off the cleared supers**
+
+2022-07-24 Added two frames to make them up to 10 x 10.  Also put on the clearer board.
 
 2022-07-23 Saw eggs and brood, didn't see the queen no signs of swarming.  The new super frames are not being drawn.  They can probably be squeezed down into the brood with another two frames.  
 
