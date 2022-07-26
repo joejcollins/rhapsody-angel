@@ -1,10 +1,12 @@
 # Winnie
 
-## 8 x 9 F + 4 S
+## 8 x 9 F + 2 S
 
 ## 2021 Marked Queen
 
-Make 5 brood frames and clear the two full supers.
+**2022-07-28 Remove the clearer super**
+
+2022-07-26 Added 5 more brood frames to bring them up to 11 x 11.  They seem pretty pissed off but the weather isn't that good.  Put a clearer board on. 
 
 2022-07-23 Saw eggs and brood, didn't see the queen no signs of swarming. Still pretty busy the new super frames were drawn a bit but I am not sure that they are still doing it.  The two other supers are full and could be removed.  If they are to be squeezed into the brood they will need another 5 brood frames.
 
