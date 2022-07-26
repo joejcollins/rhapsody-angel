@@ -1,6 +1,6 @@
 # Winnie
 
-## 8 x 9 F + 2 S
+## 11 x 11 F + 2 S
 
 ## 2021 Marked Queen
 
