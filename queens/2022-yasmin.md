@@ -4,7 +4,7 @@
 
 ## 2022 Marked Queen
 
-2022-07-26 **Take off the cleared supers**
+2022-07-26 Took off the cleared supers and put on a feeder.  There is plenty of space on the 10 x 10 that they have.  They seem pretty pissed off but the weather isn't that good.
 
 2022-07-23 Added 4 frames and put a clearer board on to clear the super.
 
