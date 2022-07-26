@@ -1,10 +1,10 @@
 # Yvette
 
-## 10 x 10 F + 2 S
+## 11 x 11 F
 
 ## 2022 Marked Queen
 
-2022-07-26 **Take off the cleared supers**
+2022-07-26 Took off the cleared supers, added frames to bring them up to 11 x 11 and put on a feeder.
 
 2022-07-24 Added two frames to make them up to 10 x 10.  Also put on the clearer board.
 
