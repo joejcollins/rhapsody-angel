@@ -1,6 +1,6 @@
 # Yasmin
 
-## 8 x 8 F + 1 S
+## 10 x 10 F
 
 ## 2022 Marked Queen
 
