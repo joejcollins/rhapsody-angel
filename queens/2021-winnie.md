@@ -4,7 +4,9 @@
 
 ## 2021 Marked Queen
 
-**2022-07-28 Remove the clearer super**
+2022-07-30 Put on a clearer and an super with undrawn frames.  The full super needs to come off but there are a lot of bees hence the extra super.
+
+2022-07-28 Removed the clearer super.
 
 2022-07-26 Added 5 more brood frames to bring them up to 11 x 11.  They seem pretty pissed off but the weather isn't that good.  Put a clearer board on. 
 
