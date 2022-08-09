@@ -1,10 +1,14 @@
 # Yulinar
 
-## 9 x 9 F
+## 10 x 10 F
 
 ## 2022 Queen Cell
 
-2022-08-13 **Check for Laying Queen**
+2022-08-14 **Check for Laying Queen** and investigate the brood that was added 5 days ago.
+
+2022-08-09 Added a frame on mixed sealed brood, larvae and eggs from [Whitney]({{ site.baseurl }}/queens/2021-whitney.html) in the top box, 6th from the east.
+
+2022-08-06 Checked through but didn't seen any signs of a laying queen.  The remains of the queen cell on the 3rd frame counting from the west was still there but I couldn't tell if it had hatched.
 
 2022-07-30 Put on a clearer.  They seem well behaved and quiet, but I didn't look through them.
 
