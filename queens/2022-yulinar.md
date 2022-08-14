@@ -1,10 +1,10 @@
 # Yulinar
 
-## 10 x 10 F
+## 11 x 11 F
 
 ## 2022 Queen Cell
 
-2022-08-14 **Check for Laying Queen** and investigate the brood that was added 5 days ago.
+2022-08-14 No signs of eggs and emergency cells had been drawn on the frame of eggs I added a few days ago.  I took down the emergency cells and united the two boxes with [Yuki]({{ site.baseurl }}/queens/2022-yuki.html) and [Whitney]({{ site.baseurl }}/queens/2021-whitney.html).
 
 2022-08-09 Added a frame on mixed sealed brood, larvae and eggs from [Whitney]({{ site.baseurl }}/queens/2021-whitney.html) in the top box, 6th from the east.
 
