@@ -4,6 +4,8 @@
 
 ## 2021 Marked Queen
 
+2022-08-19 Second Apiguard treatment on.
+
 2022-08-06 Started Apiguard treatment, but left the supers on because there are so many bees.
 
 2022-07-30 Put on a clearer and an super with undrawn frames.  The full super needs to come off but there are a lot of bees hence the extra super.

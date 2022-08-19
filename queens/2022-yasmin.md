@@ -1,8 +1,10 @@
 # Yasmin
 
-## 10 x 10 F
+## 11 x 11 F
 
 ## 2022 Marked Queen
+
+2022-08-19 Second Apiguard treatment on.
 
 2022-08-06 Started Apiguard treatment.
 
