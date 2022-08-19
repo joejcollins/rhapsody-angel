@@ -4,7 +4,9 @@
 
 ## 2021 Marked Queen
 
-2022-08-19 Second Apiguard treatment on.
+**Check for laying in the super**
+
+2022-08-19 Second Apiguard treatment on.  I messed up by briefly putting the super on the brood box without the queen excluder, I will need to check for laying in the supers.
 
 2022-08-06 Started Apiguard treatment, but left the supers on because there are so many bees.
 
