@@ -1,8 +1,12 @@
 # Whitney
 
-## 11 F
+## 11 x 11 F
 
 ## 2022 Marked Queen (Swarmed)
+
+2022-08-28 Added the second Apiguard treatment.
+
+2022-08-14 Merged with 11 frames from [Yulinar]({{ site.baseurl }}/queens/2022-yulinar.html) and added the first Apiguard treatment.
 
 2022-07-23 Saw eggs and brood, didn't see the queen no signs of swarming. Looking good could probably sell.
 

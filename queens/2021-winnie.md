@@ -1,10 +1,10 @@
 # Winnie
 
-## 11 x 11 F + 2 S
+## 11 x 11 F + 1 S
 
 ## 2021 Marked Queen
 
-**Check for laying in the super**
+2022-08-26 No laying in the super.  Removed the top super which wasn't getting worked on.
 
 2022-08-19 Second Apiguard treatment on.  I messed up by briefly putting the super on the brood box without the queen excluder, I will need to check for laying in the supers.
 
