@@ -2,7 +2,9 @@
 
 ## 11 x 11 F
 
-## 2022 Marked Queen (Swarmed)
+## 2022 Marked Queen
+
+2022-09-18 Took off the Apiguard treatment.
 
 2022-08-28 Added the second Apiguard treatment.
 

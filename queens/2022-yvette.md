@@ -4,6 +4,8 @@
 
 ## 2022 Marked Queen
 
+2022-09-18 Took off the Apiguard treatment.
+
 2022-08-19 Second Apiguard treatment on.
 
 2022-08-06 Started Apiguard treatment.
