@@ -4,6 +4,8 @@
 
 ## 2022 Marked Queen
 
+2023-01-02 API-Bioxal (oxalic acid treatment).
+
 2022-09-18 Took off the Apiguard treatment.
 
 2022-08-19 Second Apiguard treatment on.
