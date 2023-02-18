@@ -4,7 +4,9 @@
 
 ## 2022 Marked Queen
 
-2023-01-02 API-Bioxal (oxalic acid treatment).
+2023-02-18 Candy all gone so I put on a feeder.
+
+2023-01-02 API-Bioxal (oxalic acid treatment) and candy block.
 
 2022-09-18 Took off the Apiguard treatment.
 

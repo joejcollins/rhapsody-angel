@@ -4,7 +4,9 @@
 
 ## 2021 Marked Queen
 
-2023-01-02 API-Bioxal (oxalic acid treatment).
+2023-02-18 Half the candy still there.
+
+2023-01-02 API-Bioxal (oxalic acid treatment) and candy block.
 
 2022-09-18 Took off the Apiguard treatment.  Put on a clearer board.
 
