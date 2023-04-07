@@ -24,7 +24,7 @@
     "files.associations": {
       "Vagrantfile": "ruby"
   },
-  "workbench.colorTheme": "Solarized Dark",
+  "workbench.colorTheme": "Solarized Light",
   "files.exclude": {
     "queens/*.html": true,
   }
