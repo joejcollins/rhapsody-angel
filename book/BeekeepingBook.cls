@@ -41,28 +41,28 @@
 
 
 \tikzset{
-    stand/.pic={code={
+    stand/.pic={
         \draw[thick] (0,1) -- (0,2) -- (3,2) -- (3,1) -- (2.75,1) -- (2.75,0) -- 
-        (2.5,0) -- (2.5,0) -- (2.5,1) -- (0.5,1) -- (0.5,0) -- (0.25,0) -- (0.25,1) -- cycle;}
+        (2.5,0) -- (2.5,0) -- (2.5,1) -- (0.5,1) -- (0.5,0) -- (0.25,0) -- (0.25,1) -- cycle;
     }
 }
 
 \tikzset{
-    brood/.pic={code={
+    brood/.pic={
         \draw[thick] (0,0) rectangle (3,2);
-        \node at (1.5,1) {#1};}
+        \node at (1.5,1) {#1};
     }
 }
 \tikzset{
-    super/.pic={code={
+    super/.pic={
         \draw[thick] (0,0) rectangle (3,1.5);
-        \node at (1.5,0.75) {#1};}
+        \node at (1.5,0.75) {#1};
     }
 }
 \tikzset{
-    roof/.pic={code={
+    roof/.pic={
         \draw[thick] (-.25,0) rectangle (3.25,1);
-        \node at (1.5,0.5) {#1};}
+        \node at (1.5,0.5) {#1};
     }
 }
 
