@@ -4,6 +4,8 @@
 
 ## 2022 Marked Queen
 
+2023-04-15 There are 11 frames of brood, saw eggs, didn't see the queen.
+
 2023-03-16 About a third of the candy is still there, never-the-less I put on a feeder.  Ominously quiet, but it is wet and about 10 C and the other hives were quiet too.  Didn't look inside.
 
 2023-03-02 Half the candy still there.

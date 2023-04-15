@@ -4,6 +4,8 @@
 
 ## 2022 Marked Queen
 
+2023-04-15 There are 11 frames of brood, saw eggs, didn't see the queen.
+
 2023-02-18 Candy all gone so I put on a feeder.
 
 2023-01-02 API-Bioxal (oxalic acid treatment) and candy block.

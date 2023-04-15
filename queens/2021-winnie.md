@@ -4,6 +4,8 @@
 
 ## 2021 Marked Queen
 
+2023-04-15 There are 15 frames of brood, saw eggs, didn't see the queen, lots of drones.
+
 2023-03-02 Candy all gone so I put on a feeder.
 
 2023-02-18 Half the candy still there.
