@@ -4,7 +4,7 @@
 
 ## 2022 Marked Queen
 
-2023-04-01 Removed to one side on 11 frames and made up [Rebecca]({{ site.baseurl }}/queens/2023-rebecca.html) with most of the brood frames to raise a new queen.
+2023-05-01 Removed to one side on 11 frames and made up [Rebecca]({{ site.baseurl }}/queens/2023-rebecca.html) with most of the brood frames to raise a new queen.
 
 2023-04-29 Queen cells with eggs in.
 
