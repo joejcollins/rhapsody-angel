@@ -26,6 +26,7 @@
   },
   "workbench.colorTheme": "Solarized Light",
   "files.exclude": {
-    "queens/*.html": true,
-  }
+    "queens/*.html": true
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
 }

@@ -1,8 +1,12 @@
 # Yasmin
 
-## 11 x 11 F
+## 11 F + 1 S
 
 ## 2022 Marked Queen
+
+2023-04-29 Queen cells with eggs in.  Removed to one side on 11 frames and made up [Rita]({{ site.baseurl }}/queens/2023-rita.html) with most of the brood frames to raise a new queen.
+
+2023-04-19 Swapped position with [Yvette]({{ site.baseurl }}/queens/2022-yvette.html) to balance the flying bees.
 
 2023-04-15 There are 11 frames of brood, saw eggs, didn't see the queen.
 
