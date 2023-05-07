@@ -1,8 +1,10 @@
 # Yasmin
 
-## 11 F + 1 S
+## 11 F
 
 ## 2022 Marked Queen
+
+2023-05-07 
 
 2023-04-29 Queen cells with eggs in.  Removed to one side on 11 frames and made up [Rita]({{ site.baseurl }}/queens/2023-rita.html) with most of the brood frames to raise a new queen.
 
