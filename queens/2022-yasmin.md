@@ -6,6 +6,8 @@
 
 2023-05-20 Saw grubs and eggs, didn't see the queen.  No signs of swarming.  Bees on all frames so I put in another 5 and configured it for 8 x 8 frames.
 
+2023-05-18 Saw grubs, eggs, and the queen.  No signs of swarming.  Bees on 8-9 frames.
+
 2023-05-07 Saw grubs and eggs, didn't see the queen.  No signs of swarming.  Bees on 5 or 6 frames.
 
 2023-04-29 Queen cells with eggs in.  Removed to one side on 11 frames and made up [Rita]({{ site.baseurl }}/queens/2023-rita.html) with most of the brood frames to raise a new queen.

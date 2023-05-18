@@ -1,8 +1,12 @@
 # Yvette
 
-## 11 F + 1 S
+## 9 x 9 F
 
 ## 2022 Marked Queen
+
+2023-05-21 Saw grubs, eggs and the queen.  No signs of swarming but lots of bees and brood so I added 2 more frames.  Now on 9 x 9 F.
+
+2023-05-18 Saw grubs and eggs, but didn't see the queen.  No signs of swarming.  Bees on all the frames, so I swapped the location to bleed off some bees and added 5 more brood frames.  Now on a 8 x 8 double brood.
 
 2023-05-07 Saw grubs and eggs and the queen.  No signs of swarming.  Bees on 5 or 6 frames.
 
