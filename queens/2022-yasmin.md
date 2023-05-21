@@ -1,8 +1,10 @@
 # Yasmin
 
-## 11 F
+## 8 x 8 F
 
 ## 2022 Marked Queen
+
+2023-05-20 Saw grubs and eggs, didn't see the queen.  No signs of swarming.  Bees on all frames so I put in another 5 and configured it for 8 x 8 frames.
 
 2023-05-07 Saw grubs and eggs, didn't see the queen.  No signs of swarming.  Bees on 5 or 6 frames.
 
