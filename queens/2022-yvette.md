@@ -1,8 +1,10 @@
 # Yvette
 
-## 9 x 9 F
+## 9 x 9 F + 1 S
 
 ## 2022 Marked Queen
+
+2023-05-20 Saw grubs and eggs, didn't see the queen.  They are making drone cells and seem pushed for space to I added a super. 
 
 2023-05-21 Saw grubs, eggs and the queen.  No signs of swarming but lots of bees and brood so I added 2 more frames.  Now on 9 x 9 F.
 

@@ -1,8 +1,10 @@
 # Yasmin
 
-## 8 x 8 F
+## 9 x 9 F + 1 S
 
 ## 2022 Marked Queen
+
+2023-05-20 Saw grubs and eggs, didn't see the queen.  They are making drone cells and seem pushed for space to I added two more brood frames and a super.  The weather is very good and I have a feeling they may be thinking about swarming next week.
 
 2023-05-20 Saw grubs and eggs, didn't see the queen.  No signs of swarming.  Bees on all frames so I put in another 5 and configured it for 8 x 8 frames.
 
