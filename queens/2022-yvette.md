@@ -4,6 +4,8 @@
 
 ## 2022 Marked Queen
 
+2023-06-03 Saw grubs and eggs, didn't see the queen. About 14 of the 18 frames have brood on.  There is nectar coming in to the super but the outer frames don't have any nectar.  Nicely behaved.
+
 2023-05-27 Saw grubs and eggs, didn't see the queen.  They are making drone cells and seem pushed for space to I added a super. 
 
 2023-05-21 Saw grubs, eggs and the queen.  No signs of swarming but lots of bees and brood so I added 2 more frames.  Now on 9 x 9 F.
