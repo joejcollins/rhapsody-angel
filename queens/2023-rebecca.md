@@ -1,8 +1,10 @@
 # Rita
 
-## 11 F + 3 S
+## 11 F + 5 S
 
 ## 2023 One Queen Cell
+
+2023-06-04 Put on a clearer board to clear 3 supers, this doesn't leave much space to I put on another super, so there are 5 in total.
 
 2023-05-21 Checked the supers, they have nectar in them and a few frame are sealed.  The undrawn frames that I added have not been drawn yet, so I decided not to put on the clearer boards but to wait until the beginning of June (this is the earliest that we have cleared supers in previous years).  The yellow oil seed rape pollen has stopped coming in, now they are bringing in light grey raspberry pollen.
 
