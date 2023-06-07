@@ -1,8 +1,10 @@
 # Rita
 
-## 11 F + 5 S
+## 11 F + 3 S
 
-## 2023 One Queen Cell
+## 2023 Queen (not marked)
+
+2023-06-04  Saw grubs and the queen, didn't mark her.  All looks good. Took off 2 supers, put a clearer board in to clear another one.
 
 2023-06-04 Put on a clearer board to clear 3 supers, this doesn't leave much space to I put on another super, so there are 5 in total.
 
