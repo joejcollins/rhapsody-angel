@@ -1,8 +1,12 @@
 # Yvette
 
-## 9 x 9 F + 1 S
+## 9 x 9 F + 2 S
 
 ## 2022 Marked Queen
+
+2023-06-10 
+
+2023-06-09 Added another super because they seem very busy.  Probably going to need more brood frames as well soon. 
 
 2023-06-03 Saw grubs and eggs, didn't see the queen. About 14 of the 18 frames have brood on.  There is nectar coming in to the super but the outer frames don't have any nectar.  Nicely behaved.
 
