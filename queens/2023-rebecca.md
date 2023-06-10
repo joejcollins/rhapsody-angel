@@ -1,8 +1,10 @@
 # Rita
 
-## 11 x 11 F + 2 S
+## 10 x 10 F + 2 S
 
 ## 2023 Queen (not marked)
+
+2023-06-03 Saw grubs and eggs, didn't see the queen. Configured so they are now 10 on 10 with a dummy board in each brood box.  The upper brood box is only partially drawn so there is a lot of space there.  The two supers are medium weight but I don't think it is oil seed rape nectar so there is no hurry to get them off.
 
 2023-06-08 Added a second brood box with a queenless swarm.  Did a sandwich unite with the 2 supers on top.
 

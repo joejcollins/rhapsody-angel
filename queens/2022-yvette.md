@@ -1,10 +1,10 @@
 # Yvette
 
-## 9 x 9 F + 2 S
+## 10 x 10 F + 2 S
 
 ## 2022 Marked Queen
 
-2023-06-10 
+2023-06-10 Saw eggs, grubs and the queen.  Added 2 more brood frames so they are now 10 on 10 with a dummy board in each brood box.  One of the supers is pretty heavy and the one from yesterday is light (unsurprisingly).  An extra super wouldn't hurt, the weather is very warm and they still seem to be bringing in nectar.
 
 2023-06-09 Added another super because they seem very busy.  Probably going to need more brood frames as well soon. 
 
