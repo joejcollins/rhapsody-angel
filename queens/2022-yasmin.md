@@ -1,10 +1,10 @@
 # Yasmin
 
-## 9 x 9 F + 1 S
+## 11 F
 
 ## 2022 Marked Queen
 
-2023-06-10 
+2023-06-10 Sold.
 
 2023-06-03 Saw grubs and eggs, didn't see the queen. About 14 of the 18 frames have brood on.  There is nectar coming in to the super but the outer frames don't have any nectar.  A bit agitated and tending to get all over my gloves.
 

@@ -2,8 +2,8 @@
 
 1. -
 2. -
-3. [Rita]({{ site.baseurl }}/queens/2023-rita.html) (11 F - 2023 Queen)
-4. [Yasmin]({{ site.baseurl }}/queens/2022-yasmin.html) (8 x 8 F - 2022 Marked Queen)
+3. [Rita]({{ site.baseurl }}/queens/2023-rita.html) (10 x 10 F - 2023 Queen)
+4. -
 5. -
 6. -
 7. -

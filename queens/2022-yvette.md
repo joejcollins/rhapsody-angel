@@ -1,6 +1,6 @@
 # Yvette
 
-## 10 x 10 F + 2 S
+## 10 x 10 F + 3 S
 
 ## 2022 Marked Queen
 
