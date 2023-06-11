@@ -4,7 +4,9 @@
 
 ## 2023 Queen (not marked)
 
-2023-06-03 Saw grubs and eggs, didn't see the queen. There is a lot of brood and they were making queen cups so I configured it as a double brood using a brood box from [Yasmin]({{ site.baseurl }}/queens/2022-yasmin.html).  We did this as a sandwich merge, during the day.
+2023-06-10 Saw grubs and eggs, didn't see the queen. Con figured to be 10 x 10 in the brood boxes.
+
+2023-06-08 Did a sandwich merge in the evening with a queenless swarm, this added another brood box because there is a lot of brood and they were making queen cups.
 
 2023-06-03 Saw grubs and eggs, didn't see the queen. Configured so they are now 10 on 10 with a dummy board in each brood box.  The upper brood box is only partially drawn so there is a lot of space there.  The two supers are medium weight but I don't think it is oil seed rape nectar so there is no hurry to get them off.
 
