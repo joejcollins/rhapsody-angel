@@ -1,8 +1,12 @@
 # Yvette
 
-## 10 x 10 F + 3 S
+## 10 x 10 F + 4 S
 
 ## 2022 Marked Queen
+
+2023-06-22 
+
+2023-06-16 Saw eggs, grubs and the queen.  Remarked the queen yellow because the mark was wearing off.  She was looking into cells at the time checking out places to lay.  The supers all seem to be in use so put another one on.
 
 2023-06-10 Saw eggs, grubs and the queen.  Added 2 more brood frames so they are now 10 on 10 with a dummy board in each brood box.  One of the supers is pretty heavy and the one from yesterday is light (unsurprisingly).  An extra super wouldn't hurt, the weather is very warm and they still seem to be bringing in nectar.
 

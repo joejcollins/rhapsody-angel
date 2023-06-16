@@ -1,8 +1,12 @@
-# Rita
+# Rebecca
 
-## 10 x 10 F + 2 S
+## 10 x 10 F + 3 S
 
-## 2023 Queen (not marked)
+## 2023 Queen
+
+2023-06-22 
+
+2023-06-16 Saw grubs, eggs and the queen.  No signs of swarming.  Marked the queen yellow.  The supers all seem to be in use so put another one on.
 
 2023-06-10 Saw grubs and eggs, didn't see the queen. Con figured to be 10 x 10 in the brood boxes.
 
