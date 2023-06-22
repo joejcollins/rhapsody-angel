@@ -1,10 +1,10 @@
 # Rebecca
 
-## 10 x 10 F + 3 S
+## 10 x 10 F + 4 S
 
 ## 2023 Queen
 
-2023-06-22 
+2023-06-22 Only went through the top brood box.  Saw grubs and eggs but not the queen.  There was one queen cell charged with food but I couldn't see a grub in it.  Otherwise no signs of swarming.  There were quite a lot of bees so we added another super.  The top two supers are quite heavy so could be cleared and removed shortly.
 
 2023-06-16 Saw grubs, eggs and the queen.  No signs of swarming.  Marked the queen yellow.  The supers all seem to be in use so put another one on.
 

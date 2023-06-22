@@ -4,7 +4,7 @@
 
 ## 2022 Marked Queen
 
-2023-06-22 
+2023-06-22 Only went through the top brood box.  Saw grubs, eggs and the queen.  There are some cups (one with egg an egg in it) but no other signs of swarming.  One of the supers was quite full so we put in on top ready to be cleared.
 
 2023-06-16 Saw eggs, grubs and the queen.  Remarked the queen yellow because the mark was wearing off.  She was looking into cells at the time checking out places to lay.  The supers all seem to be in use so put another one on.
 
