@@ -1,8 +1,10 @@
 # Yvette
 
-## 10 x 10 F + 4 S
+## 10 x 10 F + 5 S
 
 ## 2022 Marked Queen
+
+2023-07-01 Eggs, grubs didn't see the queen.  Some queen cups.  Too many bees.  Needs splitting so we can treat the bees in August.
 
 2023-06-22 Only went through the top brood box.  Saw grubs, eggs and the queen.  There are some cups (one with egg an egg in it) but no other signs of swarming.  One of the supers was quite full so we put in on top ready to be cleared.
 
