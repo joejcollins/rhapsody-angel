@@ -1,8 +1,10 @@
 # Yvette
 
-## 10 x 10 F + 5 S
+## 10 x 9 F
 
 ## 2022 Marked Queen
+
+2023-07-04 Moved to a new position and added 9 undrawn brood frames so now there are 10 brood frames in the bottom and 9 on top.  I also shook in 6 frames of bees from the original site.  Since there are no supers I put on a feeder to help them draw the undrawn frames.  Left [Regina]({{ site.baseurl }}/queens/2023-regina.html) in place with 10 frames to raise a new queen.
 
 2023-07-01 Eggs, grubs didn't see the queen.  Some queen cups.  Too many bees.  Needs splitting so we can treat the bees in August.
 

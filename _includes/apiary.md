@@ -5,11 +5,11 @@
 3. [Rita]({{ site.baseurl }}/queens/2023-rita.html) (10 x 10 F - 2023 Queen)
 4. -
 5. -
-6. -
+6. [Yvette]({{ site.baseurl }}/queens/2022-yvette.html) (10 x 9 F - 2022 Marked Queen)
 7. -
 8. -
 9. [Rebecca]({{ site.baseurl }}/queens/2023-rebecca.html) (10 x 10 F - 2023 Marked Queen)
 10. -
-11. [Yvette]({{ site.baseurl }}/queens/2022-yvette.html) (10 x 10 F - 2022 Marked Queen)
+11. [Regina]({{ site.baseurl }}/queens/2023-regina.html) (10 F - 2023 Queenless)
 
 * [Procedures](https://github.com/joejcollins/rhapsody-angel/raw/master/book/00Book.pdf)
