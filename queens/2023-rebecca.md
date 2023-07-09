@@ -1,6 +1,6 @@
 # Rebecca
 
-## 10 x 10 F + 4 S
+## 11 F + 4 S
 
 ## 2023 Queen
 

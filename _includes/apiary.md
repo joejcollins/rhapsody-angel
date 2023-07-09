@@ -2,7 +2,7 @@
 
 1. -
 2. -
-3. [Rita]({{ site.baseurl }}/queens/2023-rita.html) (10 x 10 F - 2023 Queen)
+3. [Rita]({{ site.baseurl }}/queens/2023-rita.html) (10 x 10 F - 2023 Marked Queen)
 4. -
 5. [Yvette]({{ site.baseurl }}/queens/2022-yvette.html) (10 x 9 F - 2022 Marked Queen)
 6. -
