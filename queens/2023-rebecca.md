@@ -4,6 +4,8 @@
 
 ## 2023 Queen
 
+2023-07-09 Moved to a new position and shook in 4 frames of bees from the original site.  Left [Ruby]({{ site.baseurl }}/queens/2023-ruby.html) in place with 11 frames to raise a new queen.
+
 2023-07-01 Eggs, grubs, saw the queen.  No signs of swarming.
 
 2023-06-22 Only went through the top brood box.  Saw grubs and eggs but not the queen.  There was one queen cell charged with food but I couldn't see a grub in it.  Otherwise no signs of swarming.  There were quite a lot of bees so we added another super.  The top two supers are quite heavy so could be cleared and removed shortly.
