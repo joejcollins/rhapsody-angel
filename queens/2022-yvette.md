@@ -4,6 +4,8 @@
 
 ## 2022 Marked Queen
 
+2023-07-17 Added flying bees from [Rita]({{ site.baseurl }}/queens/2023-rita.html).
+
 2023-07-09 The top brood box isn't being draw, they are just putting syrup in the brood chamber so that is a waste of time.  I might try and increase the flying bees by taking some from [Rita]({{ site.baseurl }}/queens/2023-rita.html).
 
 2023-07-04 Moved to a new position and added 9 undrawn brood frames so now there are 10 brood frames in the bottom and 9 on top.  I also shook in 6 frames of bees from the original site.  Since there are no supers I put on a feeder to help them draw the undrawn frames.  Left [Regina]({{ site.baseurl }}/queens/2023-regina.html) in place with 10 frames to raise a new queen.
