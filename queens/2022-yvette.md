@@ -4,6 +4,8 @@
 
 ## 2022 Marked Queen
 
+2023-07-09 They are drawing out the frames in the top box.  No signs of swarming but I didn't look in the top box.
+
 2023-07-17 Added flying bees from [Rita]({{ site.baseurl }}/queens/2023-rita.html).
 
 2023-07-09 The top brood box isn't being draw, they are just putting syrup in the brood chamber so that is a waste of time.  I might try and increase the flying bees by taking some from [Rita]({{ site.baseurl }}/queens/2023-rita.html).

@@ -5,7 +5,7 @@
 3. -
 4. -
 5. -
-6. [Rita]({{ site.baseurl }}/queens/2023-rita.html) (11 F - 2023 Marked Queen)
+6. -
 7. [Rebecca]({{ site.baseurl }}/queens/2023-rebecca.html) (10 x 10 F - 2023 Marked Queen)
 8. -
 9. [Ruby]({{ site.baseurl }}/queens/2023-ruby.html) (11 F - 2023 Queen Cell)
