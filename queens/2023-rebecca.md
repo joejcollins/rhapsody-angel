@@ -4,7 +4,9 @@
 
 ## 2023 Queen
 
-2023-07-09 They are taking down the feed but not particularly drawing out the frames in the top box.  No signs of swarming but I didn't look in the top box.
+2013-07-29 Started drawing and filling the frames in the top box.  There aren't a great deal of stores considering how much they have been fed lately but it has been raining a lot.  One frame of eggs in the top brood box, didn't see the queen.  No signs of swarming.
+
+2023-07-22 They are taking down the feed but not particularly drawing out the frames in the top box.  No signs of swarming but I didn't look in the top box.
 
 2023-07-09 Moved to a new position and shook in 4 frames of bees from the original site.  Left [Ruby]({{ site.baseurl }}/queens/2023-ruby.html) in place with 11 frames to raise a new queen.
 

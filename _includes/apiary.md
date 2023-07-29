@@ -1,7 +1,7 @@
 * [Edit](https://github.com/joejcollins/rhapsody-angel/edit/master/_includes/apiary.md)
 
 1. -
-2. [Yvette]({{ site.baseurl }}/queens/2022-yvette.html) (10 x 9 F - 2022 Marked Queen)
+2. [Yvette]({{ site.baseurl }}/queens/2022-yvette.html) (10 x 10 F - 2022 Marked Queen)
 3. -
 4. -
 5. -
