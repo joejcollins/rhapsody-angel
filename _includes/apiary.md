@@ -8,8 +8,8 @@
 6. -
 7. [Rebecca]({{ site.baseurl }}/queens/2023-rebecca.html) (10 x 10 F - 2023 Marked Queen)
 8. -
-9. [Ruby]({{ site.baseurl }}/queens/2023-ruby.html) (11 F - 2023 Queen Cell)
+9. [Ruby]({{ site.baseurl }}/queens/2023-ruby.html) (11 F - 2023 Unmarked Queen)
 10. -
-11. [Regina]({{ site.baseurl }}/queens/2023-regina.html) (10 F - 2023 Queen Cell)
+11. [Regina]({{ site.baseurl }}/queens/2023-regina.html) (10 F - 2023 Unmarked Queen)
 
 * [Procedures](https://github.com/joejcollins/rhapsody-angel/raw/master/book/00Book.pdf)
