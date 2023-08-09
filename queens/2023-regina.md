@@ -2,7 +2,9 @@
 
 ## 10 F + 2 S
 
-## 2023 Queen Cell
+## 2023 Queen Unmarked
+
+2023-08-09 Small patch of eggs, brood and sealed cells.  Eggs in bottom of cells.  It appears normal.  Too many bees to squeeze down into a single box.
 
 2023-07-12 Culled down to one queen cell at top on south face of the second frame from the south.  Marked with and orange pin.
 
