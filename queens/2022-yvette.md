@@ -4,7 +4,9 @@
 
 ## 2022 Marked Queen
 
-2013-07-29 There aren't a great deal of stores considering how much they have been fed lately but it has been raining a lot.  Four frames of brood in the top brood box, saw the queen in the bottom box.  There was a single charge queen cup (which I took down) otherwise no signs of swarming.
+2023-08-12 Started Apiguard treatment.
+
+2023-07-29 There aren't a great deal of stores considering how much they have been fed lately but it has been raining a lot.  Four frames of brood in the top brood box, saw the queen in the bottom box.  There was a single charge queen cup (which I took down) otherwise no signs of swarming.
 
 2023-07-22 They are drawing out the frames in the top box.  No signs of swarming but I didn't look in the top box.
 
