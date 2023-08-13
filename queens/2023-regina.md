@@ -4,6 +4,8 @@
 
 ## 2023 Queen Unmarked
 
+2023-08-13 Started Apiguard treatment.
+
 2023-08-12 Added another brood box and cleared the supers.  Confirmed that the brood is sealed as worker brood.
 
 2023-08-09 Small patch of eggs, brood and sealed cells.  Eggs in bottom of cells.  It appears normal.  Too many bees to squeeze down into a single box.
