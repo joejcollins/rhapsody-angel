@@ -4,6 +4,8 @@
 
 ## 2023 Queen Unmarked
 
+2023-08-26 Second Apiguard varroa treatment.
+
 2023-08-13 Started Apiguard treatment.
 
 2023-08-12 Added another brood box and cleared the supers.  Confirmed that the brood is sealed as worker brood.
