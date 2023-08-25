@@ -4,7 +4,7 @@
 
 ## 2022 Marked Queen
 
-2023-08-26 Second Apiguard varroa treatment.
+2023-08-25 Second Apiguard varroa treatment.
 
 2023-08-12 Started Apiguard treatment.
 
