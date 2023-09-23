@@ -8,7 +8,7 @@
 6. - [Rebecca]({{ site.baseurl }}/queens/2023-rebecca.html) (10 x 10 F - 2023 Marked Queen)
 7. -
 8. -
-9. [Ruby]({{ site.baseurl }}/queens/2023-ruby.html) (9 x 9 F - 2023 Unmarked Queen)
+9. - [Ruby]({{ site.baseurl }}/queens/2023-ruby.html) (9 x 9 F - 2023 Unmarked Queen)
 10. -
 11. [Regina]({{ site.baseurl }}/queens/2023-regina.html) (9 x 9 F - 2023 Unmarked Queen)
 12. -

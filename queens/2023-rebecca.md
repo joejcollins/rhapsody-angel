@@ -4,6 +4,8 @@
 
 ## 2023 Queen
 
+2023-09-23 Apiguard varroa treatment off.
+
 2023-08-25 Second Apiguard varroa treatment.
 
 2023-08-12 Started Apiguard treatment.
