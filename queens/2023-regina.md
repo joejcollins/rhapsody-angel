@@ -4,6 +4,8 @@
 
 ## 2023 Queen Unmarked
 
+2024-04-09 Candy all gone, put on a feeder with 1 to 1 syrup.
+
 2023-12-21 Put on a candy block.
 
 2023-09-23 Apiguard varroa treatment off.
