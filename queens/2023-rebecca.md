@@ -4,6 +4,8 @@
 
 ## 2023 Queen
 
+2024-04-11 Saw the marked queen.  There was plenty of brood and eggs, maybe about 10 frames in the top and bottom boxes.  There was also some patches of well developed drone cells, looking rough but serviceable.  
+
 2023-12-21 Put on a candy block.
 
 2023-09-23 Apiguard varroa treatment off.
