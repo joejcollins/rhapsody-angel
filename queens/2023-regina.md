@@ -4,6 +4,8 @@
 
 ## 2023 Queen Unmarked
 
+2024-04-11 Very little stores.  About 11 frames of brood evenly distributed between the top and bottom boxes.  Found the queen and marked her (but not a round blob).  She is brown and looks a reasonble size.  There was plenty of brood and eggs and some drone cells.
+
 2024-04-09 Candy all gone, put on a feeder with 1 to 1 syrup.
 
 2023-12-21 Put on a candy block.
