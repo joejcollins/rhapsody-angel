@@ -4,6 +4,8 @@
 
 ## 2022 Marked Queen
 
+2024-04-11 About 12 frames of brood mostly in the bottom box.  Didn't see the queen, but saw eggs and brood.  The bees are on the candy.
+
 2023-12-21 Put on a candy block.
 
 2023-09-23 Apiguard varroa treatment off.
