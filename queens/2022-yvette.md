@@ -1,8 +1,10 @@
 # Yvette
 
-## 10 x 10 F
+## 11 x 11 F
 
 ## 2022 Marked Queen
+
+2024-04-20 Saw eggs and brood, didn't see the queen.  No signs of swarming but both boxes are very busy.  When the feeder runs out I should probably put a super on.
 
 2024-04-11 About 12 frames of brood mostly in the bottom box.  Didn't see the queen, but saw eggs and brood.  The bees are on the candy.
 

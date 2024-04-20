@@ -1,10 +1,12 @@
 # Regina
 
-## 9 x 10 F
+## 11 x 11 F
 
 ## 2023 Queen Unmarked
 
-2024-04-11 Very little stores.  About 11 frames of brood evenly distributed between the top and bottom boxes.  Found the queen and marked her (but not a round blob).  She is brown and looks a reasonble size.  There was plenty of brood and eggs and some drone cells.
+2024-04-20 Saw eggs and brood, didn't see the queen.  A few queen cups but no other signs of swarming.
+
+2024-04-11 Very little stores.  About 11 frames of brood evenly distributed between the top and bottom boxes.  Found the queen and marked her (but not a round blob).  She is brown and looks a reasonable size.  There was plenty of brood and eggs and some drone cells.
 
 2024-04-09 Candy all gone, put on a feeder with 1 to 1 syrup.
 
