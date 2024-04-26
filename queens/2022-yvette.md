@@ -4,6 +4,10 @@
 
 ## 2022 Marked Queen
 
+Next inspection: split?  Cull drones.
+
+2024-04-26 Saw eggs and brood, didn't see the queen. Only a few of the cells on the drone cull frame are sealed. There were plenty of bees so I added a super.
+
 2024-04-20 Saw eggs and brood, didn't see the queen.  No signs of swarming but both boxes are very busy.  When the feeder runs out I should probably put a super on.
 
 2024-04-11 About 12 frames of brood mostly in the bottom box.  Didn't see the queen, but saw eggs and brood.  The bees are on the candy.

@@ -1,8 +1,12 @@
 # Regina
 
-## 11 x 11 F
+## 11 x 11 F + 1 S
 
 ## 2023 Queen Marked
+
+Next inspection: split?  Cull drones.
+
+2024-04-26 Saw eggs and brood, didn't see the queen. Most of the cells on the drone cull frame are sealed. There were plenty of bees so I added a super.
 
 2024-04-20 Saw eggs and brood, didn't see the queen.  A few queen cups but no other signs of swarming.
 

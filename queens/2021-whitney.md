@@ -4,7 +4,7 @@
 
 ## 2021 Marked Queen
 
-2023-04-18 Sold. 
+2023-04-18 Sold.
 
 2023-04-15 Squeezed down on to 11 frames of brood.
 
