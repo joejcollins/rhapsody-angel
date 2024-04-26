@@ -2,7 +2,7 @@
 
 ## 11 x 11 F
 
-## 2023 Queen Unmarked
+## 2023 Queen Marked
 
 2024-04-20 Saw eggs and brood, didn't see the queen.  A few queen cups but no other signs of swarming.
 
