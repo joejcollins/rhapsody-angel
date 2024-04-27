@@ -4,6 +4,8 @@
 
 ## 2023 Marked Queen
 
+2024-04-27 Sold.
+
 2024-04-23 Reduced to 11 frames and transferred the frames into the buyers box.
 
 2024-04-20 Saw eggs and brood, didn't see the queen.  There are 5 frames in the top and 5 frames in the bottom with white ends that are marked for sale.
