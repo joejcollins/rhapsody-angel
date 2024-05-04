@@ -1,10 +1,12 @@
 # Regina
 
-## 11 x 11 F + 1 S
+## 11F + 2 S
 
 ## 2023 Queen Marked
 
 Next inspection: split?  Cull drones.
+
+2024-05-04 No explicit signs of swarming, the weather has been cold and rainy.  However they are starting to backfill the brood chamber so I did a preemptive split and created [Gwen]({{ site.baseurl }}/queens/2024-gwen.html).  I didn't get an opportunity to cull the drone cells so I will have to do that later.
 
 2024-04-26 Saw eggs and brood, didn't see the queen. Most of the cells on the drone cull frame are sealed. There were plenty of bees so I added a super.
 
