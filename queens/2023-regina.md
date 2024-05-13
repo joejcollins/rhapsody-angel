@@ -1,10 +1,10 @@
 # Regina
 
-## 11F + 2 S
+## 11F + 1 S
 
 ## 2023 Queen Marked
 
-Next inspection: Cull drones.
+2024-05-11 Saw eggs but didn't see the queen.
 
 2024-05-04 No explicit signs of swarming, the weather has been cold and rainy.  However they are starting to backfill the brood chamber so I did a preemptive split and created [Gwen]({{ site.baseurl }}/queens/2024-gwen.html).  I didn't get an opportunity to cull the drone cells so I will have to do that later.
 
