@@ -4,6 +4,8 @@
 
 ## 2023 Queen Marked
 
+2024-05-19 Saw eggs but didn't see the queen.  There aren't too many bees and there is plenty of of space in the super.
+
 2024-05-11 Saw eggs but didn't see the queen.
 
 2024-05-04 No explicit signs of swarming, the weather has been cold and rainy.  However they are starting to backfill the brood chamber so I did a preemptive split and created [Gwen]({{ site.baseurl }}/queens/2024-gwen.html).  I didn't get an opportunity to cull the drone cells so I will have to do that later.

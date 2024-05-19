@@ -1,8 +1,10 @@
 # Yvette
 
-## 11F
+## 11F + 1 S
 
 ## 2022 Marked Queen
+
+2024-05-19 There aren't too many bees and there is plenty of of space in the super.  Didn't bother looking in the brood box.
 
 2024-05-11 Saw eggs but didn't see the queen.
 
