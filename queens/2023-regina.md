@@ -4,6 +4,8 @@
 
 ## 2023 Queen Marked
 
+2024-06-01 Saw eggs and the queen, plenty of space.
+
 2024-05-19 Saw eggs but didn't see the queen.  There aren't too many bees and there is plenty of of space in the super.
 
 2024-05-11 Saw eggs but didn't see the queen.
