@@ -2,7 +2,9 @@
 
 ## 11F + 2S
 
-## No Queen
+## 2024 Unmarked Queen
+
+2024-06-14 Saw eggs, grubs and sealed brood.  Didn't see the queen.
 
 2024-06-03 Took of a super.  Moisture content 18%.
 
