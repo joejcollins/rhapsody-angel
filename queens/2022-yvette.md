@@ -1,8 +1,10 @@
 # Yvette
 
-## 11F + 1 S
+## 10 F
 
 ## 2022 Marked Queen
+
+2024-06-19 Saw eggs, grubs and sealed brood.  Found a charged queen cell and there is backfilling going on so I decided to do a preemptive split and created [Gwendolyn]({{ site.baseurl }}/queens/2024-gwendolyn.html).  Put a feeder on because she will loose the flying bees.
 
 2024-06-01 Saw eggs but didn't see the queen, plenty of space.
 
@@ -94,7 +96,7 @@
 
 2022-07-08 Expanded the brood box to 9 x 9 frames.  The top super is getting heavier, so could come off soon.
 
-2022-07-08 Lots of brood.  Found the new queen and marked her.  There is lots of brood and they are back filling so they need more space, another brood chamber I think. 
+2022-07-08 Lots of brood.  Found the new queen and marked her.  There is lots of brood and they are back filling so they need more space, another brood chamber I think.
 
 2022-06-17 Lots of bees on the front of the hive, appearing to be fanning.  Mating perhaps?  It was very warm.
 

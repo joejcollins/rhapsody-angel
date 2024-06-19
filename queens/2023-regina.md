@@ -1,8 +1,10 @@
 # Regina
 
-## 11F + 1 S
+## 9 x 9 F
 
 ## 2023 Queen Marked
+
+2024-06-19 Saw eggs, grubs and sealed brood, running out of space but the brood should come out soon.  No signs of swarming but there was a bit of backfilling going on.  I am going to take a chance and not split them.  Two or three of the frames in the top brood box are not drawn so I put on a feeder to help them out.
 
 2024-06-01 Saw eggs and the queen, plenty of space.
 
