@@ -4,6 +4,8 @@
 
 ## 2024 Unmarked Queen
 
+2024-06-28 Saw eggs, grubs and sealed brood.  Didn't see the queen.
+
 2024-06-19 Saw eggs, grubs and sealed brood.  Didn't see the queen.  The top super could be removed soon.
 
 2024-06-14 Saw eggs, grubs and sealed brood.  Didn't see the queen.
