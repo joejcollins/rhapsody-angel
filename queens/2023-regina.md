@@ -4,6 +4,8 @@
 
 ## 2023 Queen Marked
 
+2024-07-07 Saw eggs, grubs and sealed brood.  Didn't see the queen.  Some back filling going on. The super isn't full but is getting filled.  They probably need more space, both in the brood chamber and another super.
+
 2024-06-25 Saw eggs, grubs and sealed brood.  Didn't see the queen. Put on a super to give them more space.
 
 2024-06-19 Saw eggs, grubs and sealed brood, running out of space but the brood should come out soon.  No signs of swarming but there was a bit of backfilling going on.  I am going to take a chance and not split them.  Two or three of the frames in the top brood box are not drawn so I put on a feeder to help them out.

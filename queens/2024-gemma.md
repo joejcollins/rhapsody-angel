@@ -4,6 +4,8 @@
 
 ## 2024 Unmarked Queen
 
+2024-07-07 Saw eggs, grubs and sealed brood.  Didn't see the queen, but laying well.  No signs of swarming.  There is enough space, the top super isn't really getting used.  The drone culling frame was ready so I culled the drone comb.
+
 2024-06-30 Took off a super.  Moisture content 18.5 %.  Added another brood box to give them more space, bringing them up to 18 brood frames.
 
 2024-06-28 Saw eggs, grubs and sealed brood.  Didn't see the queen.
