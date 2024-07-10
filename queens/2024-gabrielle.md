@@ -1,0 +1,7 @@
+# Gabrielle
+
+## 9 F
+
+## 2024 Unmarked Queen
+
+2024-07-09 Swarm from [Gwendolyn]({{ site.baseurl }}/queens/2024-gwendolyn.html).
