@@ -1,8 +1,10 @@
 # Gemma
 
-## 9 x 9 F + 2 S
+## 9 x 9 F + 3 S
 
 ## 2024 Unmarked Queen
+
+2024-07-14 Saw eggs, grubs and sealed brood.  Didn't see the queen.  There was a single charged queen cell in teh bottom box which I took down.  There are lots of bees so I put on another super.
 
 2024-07-07 Saw eggs, grubs and sealed brood.  Didn't see the queen, but laying well.  No signs of swarming.  There is enough space, the top super isn't really getting used.  The drone culling frame was ready so I culled the drone comb.
 
