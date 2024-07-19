@@ -1,10 +1,12 @@
 # Regina
 
-## 9 x 9 F + 3 S
+## 10 x 10 F + 3 S
 
 ## 2023 Queen Marked
 
-2024-07-14 Saw eggs, grubs and sealed brood.  Didn't see the queen.  Lots of bees. Lots of filling going on.  The super is full so I added two more.  Also culled the drone comb.
+2024-07-19 Saw eggs, grubs and sealed brood.  Didn't see the queen.  Lots of bees so I added two cull frames.  Now there are two cull frames one in the top and one in the bottom.
+
+2024-07-14 Saw eggs, grubs and sealed brood.  Didn't see the queen.  Lots of bees. Lots of back filling going on.  The super is full so I added two more.  Also culled the drone comb.
 
 2024-07-07 Saw eggs, grubs and sealed brood.  Didn't see the queen.  Some back filling going on. The super isn't full but is getting filled.  They probably need more space, both in the brood chamber and another super.
 

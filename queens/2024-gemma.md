@@ -1,8 +1,10 @@
 # Gemma
 
-## 9 x 9 F + 3 S
+## 10 x 10 F + 3 S
 
 ## 2024 Unmarked Queen
+
+2024-07-19 Saw eggs, grubs and sealed brood.  Didn't see the queen.  There was a lot of back filling but no queen cells.  There are a lot of bees so I added two more frames and took out the entrance block.
 
 2024-07-14 Saw eggs, grubs and sealed brood.  Didn't see the queen.  There was a single charged queen cell in teh bottom box which I took down.  There are lots of bees so I put on another super.
 
