@@ -1,8 +1,10 @@
 # Gemma
 
-## 10 x 10 F + 3 S
+## 10 x 10 F + 2 S
 
 ## 2024 Unmarked Queen
+
+2024-07-27 Saw eggs, grubs and sealed brood.  Didn't see the queen. No signs of swarming.  Put on a clearer board.
 
 2024-07-19 Saw eggs, grubs and sealed brood.  Didn't see the queen.  There was a lot of back filling but no queen cells.  There are a lot of bees so I added two more frames and took out the entrance block.
 

@@ -1,9 +1,11 @@
 
 # Gwendolyn
 
-## 8 x 8 F
+## 11 F
 
-## 2024 No Queen
+## 2024 Marked Queen
+
+2024-07-27 Saw eggs, grubs and sealed brood.  Saw the queen and marked her. There aren't so many bees so reduced to 11 frames.
 
 2024-07-09 Went through the colony and took down three queen cells, all of which looked like they were viable.  It would have been better to wait 8 days rather than cull the queen cells after 6 days like we did.
 

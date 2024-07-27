@@ -4,6 +4,8 @@
 
 ## 2022 Marked Queen
 
+2024-07-27 Saw eggs, grubs and sealed brood.  Didn't see the queen.  There is space in the super and it is going to be hot next week so I left it on.
+
 2024-07-19 Saw eggs, grubs and sealed brood.  Didn't see the queen. The brood box is pretty full of bees and the super is being used.  Double brood or another super?
 
 2024-07-14 Saw eggs, grubs, sealed brood and the queen.  She is marked but it is wearing off.  They aren't really using the super so could be squeezed down for sale if need be.
