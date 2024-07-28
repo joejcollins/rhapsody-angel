@@ -1,10 +1,10 @@
 # Regina
 
-## 10 x 10 F + 2 S
+## 10 x 10 F + 3 S
 
 ## 2023 Queen Marked
 
-2024-07-28 Saw a small swarm crossing the yard so I figured they had swarmed.  Went in and check, didn't see the queen but I saw eggs and no queen cells so I guess is wasn't them.
+2024-07-28 Saw a small swarm crossing the yard so I figured they had swarmed.  Went in and checked, didn't see the queen but I saw eggs and no queen cells so I guess is wasn't them.  took off the cleared super and put an empty one on because they seem very busy and it is going to be a warm week.
 
 2024-07-27 Didn't see the queen or do any checks because it looked like rain.  Put on a clearer board to clear one super.
 
