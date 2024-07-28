@@ -4,7 +4,9 @@
 
 ## 2023 Queen Marked
 
-2024-07-27 Didn't see the queen do any checks because it looked like rain.  Put on a clearer board to clear one super.
+2024-07-28 Swarmed.  I should have checked yesterday.
+
+2024-07-27 Didn't see the queen or do any checks because it looked like rain.  Put on a clearer board to clear one super.
 
 2024-07-19 Saw eggs, grubs and sealed brood.  Didn't see the queen.  Lots of bees so I added two cull frames.  Now there are two cull frames one in the top and one in the bottom.
 
