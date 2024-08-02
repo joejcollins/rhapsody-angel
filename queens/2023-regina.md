@@ -6,7 +6,7 @@
 
 2024-08-02 There was a single queen cell at the bottom of the cull frame in the bottom box on the southern side.  Not other queen cells, there were a few eggs in some of the frames around the edges.  So I am not sure that they actually swarmed.  Superseding maybe?  Put on a clearer board to clear the most full super.  Also put in two extra brood frames so they had more space in the event that I clear down the supers.
 
-2024-07-28 Swarmed.  I should have checked yesterday.
+2024-07-28 Saw a small swarm crossing the yard so I figured they had swarmed.  Went in and checked, didn't see the queen but I saw eggs and no queen cells so I guess is wasn't them.  Took off the cleared super and put an empty one on because they seem very busy and it is going to be a warm week.
 
 2024-07-27 Didn't see the queen or do any checks because it looked like rain.  Put on a clearer board to clear one super.
 
