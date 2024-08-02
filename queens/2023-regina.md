@@ -1,8 +1,10 @@
 # Regina
 
-## 10 x 10 F + 2 S
+## 11 x 11 F + 3 S
 
 ## 2023 Queen Marked
+
+2024-08-02 There was a single queen cell at the bottom of the cull frame in the bottom box on the southern side.  Not other queen cells, there were a few eggs in some of the frames around the edges.  So I am not sure that they actually swarmed.  Superseding maybe?  Put on a clearer board to clear the most full super.  Also put in two extra brood frames so they had more space in the event that I clear down the supers.
 
 2024-07-28 Swarmed.  I should have checked yesterday.
 

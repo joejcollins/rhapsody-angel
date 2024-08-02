@@ -8,7 +8,7 @@
 6. -
 7. [Gabrielle]({{ site.baseurl }}/queens/2024-gabrielle.html) (11 F - 2024 Marked Queen)
 8. -
-9. [Regina]({{ site.baseurl }}/queens/2023-regina.html) (10 x 10 F - 2023 Marked Queen)
+9. [Regina]({{ site.baseurl }}/queens/2023-regina.html) (11 x 11 F - 2023 Marked Queen)
 10. -
 11. [Gail]({{ site.baseurl }}/queens/2024-gail.html) (10 F - 2024 Marked Queen)
 12. [Gwen]({{ site.baseurl }}/queens/2024-gwen.html) (11 F - No Queen)
