@@ -1,8 +1,12 @@
 # Yvette
 
-## 11 F + 1 S
+## 11 F
 
 ## 2022 Marked Queen
+
+2024-08-09 About 9 frames of bees, looking good.  Saleable.
+
+2024-08-02 Swopped position with [Gabrielle]({{ site.baseurl }}/queens/2024-gabrielle.html) so I can reduce the number of bees and remove the super.
 
 2024-07-27 Saw eggs, grubs and sealed brood.  Didn't see the queen.  There is space in the super and it is going to be hot next week so I left it on.
 
