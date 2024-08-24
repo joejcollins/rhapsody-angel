@@ -4,6 +4,10 @@
 
 ## 2024 Marked Queen
 
+2024-08-25 Sold on.
+
+2024-08-17 About 10 frames of bees, transferred into the buyers box.
+
 2024-08-09 About 9 frames of bees, looking good, suitable for sale.
 
 2024-08-02 Swopped position with [Yvette]({{ site.baseurl }}/queens/2022-yvette.html) so the surplus bees can build up the colony.

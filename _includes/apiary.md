@@ -3,7 +3,7 @@
 1. -
 2. [Gemma]({{ site.baseurl }}/queens/2024-gemma.html) (10 x 10 F - 2024 Unmarked Queen)
 3. -
-4. [Gabrielle]({{ site.baseurl }}/queens/2024-gabrielle.html) (11 F - 2024 Marked Queen)
+4. -
 5. -
 6. [Gwendolyn]({{ site.baseurl }}/queens/2024-gwendolyn.html) 11 F - 2024 Marked Queen)
 7. [Yvette]({{ site.baseurl }}/queens/2022-yvette.html) (11 F - 2022 Marked Queen)

@@ -4,6 +4,8 @@
 
 ## 2024 Unmarked Queen
 
+2024-08-24 Second tray of ApiGuard and bucket feeder refilled.
+
 2024-08-11 ApiGuard and bucket feeder on.
 
 2024-08-09 Added two more brood frames to bring them up to 22 in total.  Put the clearer board on to clear the supers.  There is not much in the supers.
