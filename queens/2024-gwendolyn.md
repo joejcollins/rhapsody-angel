@@ -5,6 +5,8 @@
 
 ## 2024 Marked Queen
 
+2024-09-22 Sold.
+
 2024-08-09 Covering all the frames.
 
 2024-07-27 Saw eggs, grubs and sealed brood.  Saw the queen and marked her. There aren't so many bees so reduced to 11 frames.

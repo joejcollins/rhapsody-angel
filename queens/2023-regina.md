@@ -2,7 +2,9 @@
 
 ## 11 x 11 F
 
-## 2023 Unmarked Queen or No Queen
+## 2023 Unmarked Queen
+
+2024-09-21 Removed the ApiGuard and bucket feeder.
 
 2024-08-24 Second tray of ApiGuard and bucket feeder refilled.
 

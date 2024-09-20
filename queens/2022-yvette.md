@@ -4,6 +4,8 @@
 
 ## 2022 Marked Queen
 
+2024-09-22 Sold.
+
 2024-08-09 About 9 frames of bees, looking good.  Saleable.
 
 2024-08-02 Swopped position with [Gabrielle]({{ site.baseurl }}/queens/2024-gabrielle.html) so I can reduce the number of bees and remove the super.

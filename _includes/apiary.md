@@ -5,8 +5,8 @@
 3. -
 4. -
 5. -
-6. [Gwendolyn]({{ site.baseurl }}/queens/2024-gwendolyn.html) 11 F - 2024 Marked Queen)
-7. [Yvette]({{ site.baseurl }}/queens/2022-yvette.html) (11 F - 2022 Marked Queen)
+6. -
+7. -
 8. -
 9. -
 10. [Regina]({{ site.baseurl }}/queens/2023-regina.html) (11 x 11 F - 2023 Marked Queen)
