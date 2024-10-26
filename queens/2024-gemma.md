@@ -4,6 +4,8 @@
 
 ## 2024 Unmarked Queen
 
+2024-10-26 Candy block.
+
 2024-09-21 Removed the ApiGuard and bucket feeder.
 
 2024-08-24 Second tray of ApiGuard and bucket feeder refilled.
