@@ -1,7 +1,7 @@
 * [Edit](https://github.com/joejcollins/rhapsody-angel/edit/master/_includes/apiary.md)
 
 1. -
-2. [Gemma]({{ site.baseurl }}/queens/2024-gemma.html) (10 x 10 F - 2024 Unmarked Queen)
+2. -
 3. -
 4. -
 5. -

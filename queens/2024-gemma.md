@@ -4,6 +4,8 @@
 
 ## 2024 Unmarked Queen
 
+2025-02-20 Died out, no bees.
+
 2024-10-26 Candy block.
 
 2024-09-21 Removed the ApiGuard and bucket feeder.
