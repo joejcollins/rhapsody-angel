@@ -1,8 +1,10 @@
 # Regina
 
-## 11 x 11 F
+## 10 x 10 x 11 F
 
 ## 2023 Unmarked Queen
+
+2024-04-04 First contact day.  Plenty of food, bees and brood  but not much space to lay in.  there is some back filling going on and I found one charged queen cell.  I want split this into 3 (at least) so I put on an extra brood box with dummy boards to make it easier to work.
 
 2024-10-26 Candy block.
 
