@@ -1,8 +1,10 @@
 # Regina
 
-## 1S + 10 x 10 x 10 F
+## 1S + 10 F
 
-## 2023 Unmarked Queen
+## 2023 Marked Queen
+
+2025-04-28 Found a couple of charged queen cells in the top box, so I did an artificial swarm and created [Bella]({{ site.baseurl }}/queens/2025-bella.html), [Belinda]({{ site.baseurl }}/queens/2025-belinda.html) and [Barbara]({{ site.baseurl }}/queens/2025-barbara.html).
 
 2025-04-24 Loads of food, bees and brood.  Saw the queen and a single charged queen cell in the top box on the cull frame.  I took it down because I want to see more queen cells so I can split the colony into multiple boxes.
 
