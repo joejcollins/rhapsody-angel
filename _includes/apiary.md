@@ -1,6 +1,6 @@
 * [Edit](https://github.com/joejcollins/rhapsody-angel/edit/master/_includes/apiary.md)
 
-1. [Brandy]({{ site.baseurl }}/queens/2025-brandy.html) (3 F - Cast of unknown origin)
+1. [Brandy]({{ site.baseurl }}/queens/2025-brandy.html) (10 F - 2025 Unmarked Queen)
 2. -
 3. -
 4. [Bella]({{ site.baseurl }}/queens/2025-bella.html) (10 F - Queenless)
