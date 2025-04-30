@@ -9,7 +9,7 @@
 7. [Belinda]({{ site.baseurl }}/queens/2025-belinda.html) (10 F - Queenless)
 8. -
 9. -
-10. [Regina]({{ site.baseurl }}/queens/2023-regina.html) (1S + 10 F - 2023 Marked Queen)
+10. [Regina]({{ site.baseurl }}/queens/2023-regina.html) (2S + 10 F - 2023 Marked Queen)
 11. -
 12. -
 13. [Barbara]({{ site.baseurl }}/queens/2025-barbara.html) (10 F - Queenless)
