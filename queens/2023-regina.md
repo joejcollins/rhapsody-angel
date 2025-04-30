@@ -1,8 +1,10 @@
 # Regina
 
-## 1S + 10 F
+## 2S + 10 F
 
 ## 2023 Marked Queen
+
+2025-04-30 Added an extra super. 
 
 2025-04-28 Found a couple of charged queen cells in the top box, so I did an artificial swarm and created [Bella]({{ site.baseurl }}/queens/2025-bella.html), [Belinda]({{ site.baseurl }}/queens/2025-belinda.html) and [Barbara]({{ site.baseurl }}/queens/2025-barbara.html).
 
