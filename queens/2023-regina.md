@@ -1,10 +1,12 @@
 # Regina
 
-## 2S + 10 F
+## 8 F
 
 ## 2023 Marked Queen
 
-2025-04-30 Added an extra super. 
+2025-05-02 Removed from the original location because there were queen cells.  Left the cells in place as [Bobbly]({{ site.baseurl }}/queens/2025-bobby.html).
+
+2025-04-30 Added an extra super.
 
 2025-04-28 Found a couple of charged queen cells in the top box, so I did an artificial swarm and created [Bella]({{ site.baseurl }}/queens/2025-bella.html), [Belinda]({{ site.baseurl }}/queens/2025-belinda.html) and [Barbara]({{ site.baseurl }}/queens/2025-barbara.html).
 
