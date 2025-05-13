@@ -1,10 +1,12 @@
 # Bobby
 
-## 10 F
+## 10 F + 3 S
 
 ## 2025 Queenless
 
 2025-06-15 Check for a laying queen.
+
+2025-05-13 Added another super because it is so warm and there are so many bees.
 
 2025-05-08 Culled down to one queen cell on the bottom of frame 6, marked with a red pin.
 
