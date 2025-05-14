@@ -4,6 +4,8 @@
 
 ## 2023 Marked Queen
 
+2025-05-14 Despite the swapped location there are still very few bees, so I put it on top of [Bella]({{ site.baseurl }}/queens/2025-bella.html) with a Snelgrove board.
+
 2025-05-13 Virtually no bees but I saw eggs and the queen.  Swapped places with [Bella]({{ site.baseurl }}/queens/2025-bella.html) so the flying bees would end up in here.  Possibly not a good idea because [Bella]({{ site.baseurl }}/queens/2025-bella.html) should be on her mating fly about now.
 
 2025-05-02 Removed from the original location because there were queen cells.  Left the cells in place as [Bobbly]({{ site.baseurl }}/queens/2025-bobby.html).
