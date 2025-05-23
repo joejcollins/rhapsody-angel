@@ -4,6 +4,8 @@
 
 ## 2023 Marked Queen
 
+2025-05-23 Still alive with a few workers supporting her.  I opened the door to brood box below so workers could easily move from [Bella]({{ site.baseurl }}/queens/2025-bella.html) so they can support her.
+
 2025-05-14 Despite the swapped location there are still very few bees, so I put it on top of [Bella]({{ site.baseurl }}/queens/2025-bella.html) with a Snelgrove board.
 
 2025-05-13 Virtually no bees but I saw eggs and the queen.  Swapped places with [Bella]({{ site.baseurl }}/queens/2025-bella.html) so the flying bees would end up in here.  Possibly not a good idea because [Bella]({{ site.baseurl }}/queens/2025-bella.html) should be on her mating fly about now.
