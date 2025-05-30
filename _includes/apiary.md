@@ -1,9 +1,9 @@
 * [Edit](https://github.com/joejcollins/rhapsody-angel/edit/master/_includes/apiary.md)
 
-1. [Brandy]({{ site.baseurl }}/queens/2025-brandy.html) (11 F - 2025 Unmarked Queen)
+1. [Brandy]({{ site.baseurl }}/queens/2025-brandy.html) (8 x 8 F - 2025 Marked Queen)
 2. -
 3. 
-4. [Bella]({{ site.baseurl }}/queens/2025-bella.html) (10 F - Queenless) / [Regina]({{ site.baseurl }}/queens/2023-regina.html) (8 F - 2023 Marked Queen)
+4. [Bella]({{ site.baseurl }}/queens/2025-bella.html) (10 F - Queenless) / Died out 8 F
 5. -
 6. -
 7. [Belinda]({{ site.baseurl }}/queens/2025-belinda.html) (10 F - Queenless)

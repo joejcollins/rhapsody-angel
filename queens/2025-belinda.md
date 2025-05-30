@@ -1,10 +1,12 @@
 # Belinda
 
-## 10 F
+## 10 F + 1 S
 
 ## 2025 Queenless
 
 2025-06-08 Check for a laying queen.
+
+2025-05-30 Not doing anything with the super, not time to check for laying yet.
 
 2025-05-06 Culled down to one queen cell on the south face of frame 5, marked with a blue pin.
 

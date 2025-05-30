@@ -6,6 +6,8 @@
 
 2025-06-15 Check for a laying queen.
 
+2025-05-30 Two supers are full so I put on a clearer board to clear one down and put on another empty super.
+
 2025-05-23 The top box just had wooden edges as starters, they haven't tried drawing comb off them yet.
 
 2025-05-13 Added another super because it is so warm and there are so many bees.
