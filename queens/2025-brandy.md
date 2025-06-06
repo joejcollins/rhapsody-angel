@@ -4,6 +4,8 @@
 
 ## 2025 Marked Queen
 
+2025-06-06 Didn't see the queen but there were eggs and plenty of brood.  Leave with the feeder on.
+
 2025-05-30 They are not drawing the brood frames so I removed the super and put on a feeder.
 
 2025-05-23 Still laying in the bottom box, they haven't draw the frames in th second brood box, but there are cells due to come out so soon there should be house bees to draw the frames.
