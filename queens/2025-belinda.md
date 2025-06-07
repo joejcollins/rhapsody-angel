@@ -2,9 +2,9 @@
 
 ## 10 F + 1 S
 
-## 2025 Queenless
+## 2025 Unmarked Queen
 
-2025-06-08 Check for a laying queen.
+2025-06-07 Laying queen with brood at all stages of development.
 
 2025-05-30 Not doing anything with the super, not time to check for laying yet.
 

@@ -4,6 +4,8 @@
 
 ## 2023 Marked Queen
 
+2025-06-07 Unbelievably she is still there, I need to be more careful because she is just wandering around in the box not on a frame where you would expect.
+
 2025-05-30 Died out, no one home.  If [Bella]({{ site.baseurl }}/queens/2025-bella.html) is laying next week, remove the Snelgrove board and feed.
 
 2025-05-23 Still alive with a few workers supporting her.  I opened the door to brood box below so workers could easily move from [Bella]({{ site.baseurl }}/queens/2025-bella.html) so they can support her.

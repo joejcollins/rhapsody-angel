@@ -2,9 +2,9 @@
 
 ## 10 F
 
-## 2025 Queenless
+## 2025 Unmarked Queen
 
-2025-06-08 Check for a laying queen.
+2025-06-07 Laying queen with brood at all stages of development.
 
 2025-05-13 It seems all the bees have ended up in here so I swapped position with [Regina]({{ site.baseurl }}/queens/2023-regina.html) to give the old queen some more bees.  It might be too late because she should be on her mating flight around now.
 

@@ -3,10 +3,10 @@
 1. [Brandy]({{ site.baseurl }}/queens/2025-brandy.html) (8 x 8 F - 2025 Marked Queen)
 2. -
 3. 
-4. [Bella]({{ site.baseurl }}/queens/2025-bella.html) (10 F - Queenless) / Died out 8 F
+4. [Bella]({{ site.baseurl }}/queens/2025-bella.html) (10 F - 2025 Unmarked Queen) / Old Queen 8 F
 5. -
 6. -
-7. [Belinda]({{ site.baseurl }}/queens/2025-belinda.html) (10 F - Queenless)
+7. [Belinda]({{ site.baseurl }}/queens/2025-belinda.html) (10 F - 2025 Unmarked Queen)
 8. -
 9. -
 10. [Bobby]({{ site.baseurl }}/queens/2025-bobby.html) (10 F - Queenless)
