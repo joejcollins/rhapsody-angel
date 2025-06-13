@@ -1,8 +1,10 @@
 # Belinda
 
-## 10 F + 1 S
+## 8 x 8 F
 
 ## 2025 Unmarked Queen
+
+2025-06-13 Laying well but needs more space.  Put on another brood box bringing them up to 8 x 8 F.
 
 2025-06-07 Laying queen with brood at all stages of development.
 

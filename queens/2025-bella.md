@@ -1,8 +1,10 @@
 # Bella
 
-## 10 F
+## 8 x 8 F
 
 ## 2025 Unmarked Queen
+
+2025-06-13 Saw eggs no signs of swarming.  Saw the queen, she is a nice dark colour.
 
 2025-06-07 Laying queen with brood at all stages of development.
 

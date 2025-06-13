@@ -4,6 +4,8 @@
 
 ## 2023 Marked Queen
 
+2025-06-07 Transferred the queen into [Barbara]({{ site.baseurl }}/queens/2025-barbara.html).  The brood frames were donated to [Bella]({{ site.baseurl }}/queens/2025-bella.html).
+
 2025-06-07 Unbelievably she is still there, I need to be more careful because she is just wandering around in the box not on a frame where you would expect.
 
 2025-05-30 Died out, no one home.  If [Bella]({{ site.baseurl }}/queens/2025-bella.html) is laying next week, remove the Snelgrove board and feed.

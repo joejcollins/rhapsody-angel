@@ -2,9 +2,9 @@
 
 ## 10 F + 3 S
 
-## 2025 Queenless
+## 2025 Unmarked Queen
 
-2025-06-15 Check for a laying queen.
+2025-06-13 Checked for a laying queen.  Saw a small patch of eggs but no grubs yet.
 
 2025-05-30 Two supers are full so I put on a clearer board to clear one down and put on another empty super.
 
