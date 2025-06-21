@@ -1,8 +1,12 @@
 # Regina
 
-## 8 F
+## 10 F + 1 S
 
 ## 2023 Marked Queen
+
+2025-06-21 Turns out that [Regina]({{ site.baseurl }}/queens/2023-regina.html) is still there and all the frames are laid up.  We remarked her for good measure.  There was brood and eggs in all stages of development.  They were pretty cramped so we put on a super.
+
+2025-06-13 All the paper is gone from the end of the Butler cage.  There were eggs but no grubs yet.  We saw a smallish light coloured queen.  But she was unmarked so I am guessing that [Regina]({{ site.baseurl }}/queens/2023-regina.html) didn't make it and this is a late queen from a cell that I missed.  Maybe.  It is a bit hard to tell.
 
 2025-06-07 Transferred the queen into [Barbara]({{ site.baseurl }}/queens/2025-barbara.html).  The brood frames were donated to [Bella]({{ site.baseurl }}/queens/2025-bella.html).
 

@@ -4,6 +4,8 @@
 
 ## 2025 Unmarked Queen
 
+2025-06-21 Turns out that [Regina]({{ site.baseurl }}/queens/2023-regina.html) is still there and all the frames are laid up.  So I guess the little brown queen didn't make it.  We remarked her for good measure.
+
 2025-06-13 All the paper is gone from the end of the Butler cage.  There were eggs but no grubs yet.  We saw a smallish light coloured queen.  But she was unmarked so I am guessing that [Regina]({{ site.baseurl }}/queens/2023-regina.html) didn't make it and this is a late queen from a cell that I missed.  Maybe.  It is a bit hard to tell.
 
 2025-06-07 Since there is no sign of a queen, I transferred [Regina]({{ site.baseurl }}/queens/2023-regina.html) back in using a Butler cage.

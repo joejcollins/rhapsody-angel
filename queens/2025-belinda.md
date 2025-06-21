@@ -2,7 +2,9 @@
 
 ## 8 x 8 F
 
-## 2025 Unmarked Queen
+## 2025 Marked Queen
+
+2025-06-21 Found the queen and marked her.  Eggs and larvae in all stages.  There is a naff frame on one end of the top box that needs replacing.
 
 2025-06-13 Laying well but needs more space.  Put on another brood box bringing them up to 8 x 8 F.
 

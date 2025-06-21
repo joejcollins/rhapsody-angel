@@ -2,7 +2,9 @@
 
 ## 8 x 8 F
 
-## 2025 Unmarked Queen
+## 2025 Marked Queen
+
+2025-06-21 Found the queen and marked her.  Eggs and larvae in all stages.
 
 2025-06-13 Saw eggs no signs of swarming.  Saw the queen, she is a nice dark colour.
 

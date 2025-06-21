@@ -1,8 +1,10 @@
 # Brandy
 
-## 8 x 8 F
+## 9 x 9 F
 
-## 2025 Marked Queen
+## 2025 Queenless
+
+2025-06-21 Can't find the queen, lots of back filling, 4 queen cells in the bottom box.  She might have flown yesterday or the day before.  Anyway there is not a lot of space so they need another 3 frames.  I can cull the cells down and put the frames in tomorrow.
 
 2025-06-13 Saw eggs no signs of swarming, there are eggs in the top brood box now.  Left the feeder on.
 
