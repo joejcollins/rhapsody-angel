@@ -1,6 +1,6 @@
 # Belinda
 
-## 8 x 8 F
+## 8 x 9 F
 
 ## 2025 Marked Queen
 

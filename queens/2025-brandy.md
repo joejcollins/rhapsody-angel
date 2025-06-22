@@ -1,8 +1,12 @@
 # Brandy
 
-## 9 x 9 F
+## 10 x 10 F
 
 ## 2025 Queenless
+
+2027-07-27 Check for laying queen.
+
+2025-06-22 Culled down to one queen cell on the South face on the third frame from the North, marked with a blue pin.
 
 2025-06-21 Can't find the queen, lots of back filling, 4 queen cells in the bottom box.  She might have flown yesterday or the day before.  Anyway there is not a lot of space so they need another 3 frames.  I can cull the cells down and put the frames in tomorrow.
 
