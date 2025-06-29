@@ -4,6 +4,8 @@
 
 ## 2025 Marked Queen
 
+2025-06-29 Saw the queen, saw eggs no signs of swarming.  But there is a bit of back filling.  They probably need a couple more brood frames.
+
 2025-06-21 Found the queen and marked her.  Eggs and larvae in all stages.
 
 2025-06-13 Saw eggs no signs of swarming.  Saw the queen, she is a nice dark colour.

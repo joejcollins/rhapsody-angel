@@ -4,6 +4,8 @@
 
 ## 2025 Marked Queen
 
+2025-06-29 Saw the queen, saw eggs no signs of swarming.  They really aren't using the supers so I will take off the top one.
+
 2025-06-21 Found the queen and marked her.  Eggs and larvae in all stages but not a lot of sealed brood.  The supers aren't really getting filled.
 
 2025-06-13 Checked for a laying queen.  Saw a small patch of eggs but no grubs yet.

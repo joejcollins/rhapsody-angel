@@ -1,8 +1,10 @@
 # Belinda
 
-## 8 x 9 F
+## 9 x 9 F
 
 ## 2025 Marked Queen
+
+2025-06-29 Didn't see the queen, but saw eggs and no signs of swarming.  They probably need a couple more brood frames and a super.
 
 2025-06-21 Found the queen and marked her.  Eggs and larvae in all stages.  There is a naff frame on one end of the top box that needs replacing.
 

@@ -4,6 +4,8 @@
 
 ## 2023 Marked Queen
 
+2025-06-29 Didn't see the queen, but saw eggs and no signs of swarming but they were back filling.  I think they should be made up to 8 x 8 F so they have enough space.
+
 2025-06-21 Turns out that [Regina]({{ site.baseurl }}/queens/2023-regina.html) is still there and all the frames are laid up.  We remarked her for good measure.  There was brood and eggs in all stages of development.  They were pretty cramped so we put on a super.
 
 2025-06-13 All the paper is gone from the end of the Butler cage.  There were eggs but no grubs yet.  We saw a smallish light coloured queen.  But she was unmarked so I am guessing that [Regina]({{ site.baseurl }}/queens/2023-regina.html) didn't make it and this is a late queen from a cell that I missed.  Maybe.  It is a bit hard to tell.
