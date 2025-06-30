@@ -1,8 +1,10 @@
 # Regina
 
-## 10 F + 1 S
+## 8 x 8  F + 1 S
 
 ## 2023 Marked Queen
+
+2025-06-30 Reconfigured as 8 x 8 F to give them more space.
 
 2025-06-29 Didn't see the queen, but saw eggs and no signs of swarming but they were back filling.  I think they should be made up to 8 x 8 F so they have enough space.
 

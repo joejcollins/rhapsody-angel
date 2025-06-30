@@ -1,8 +1,10 @@
 # Bella
 
-## 8 x 8 F
+## 9 x 9 F + 1 S
 
 ## 2025 Marked Queen
+
+2025-06-30 Upgraded to 9 x 9 frames.
 
 2025-06-29 Saw the queen, saw eggs no signs of swarming.  But there is a bit of back filling.  They probably need a couple more brood frames.
 

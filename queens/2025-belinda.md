@@ -1,8 +1,10 @@
 # Belinda
 
-## 9 x 9 F
+## 10 x 10 F + 1 S
 
 ## 2025 Marked Queen
+
+2025-06-30 Upgraded to 10 x 10 frames.
 
 2025-06-29 Didn't see the queen, but saw eggs and no signs of swarming.  They probably need a couple more brood frames and a super.
 
