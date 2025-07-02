@@ -9,7 +9,7 @@ RUN curl -LsSf https://astral.sh/uv/install.sh | sh \
 RUN apt-get --quiet update \
  && apt-get install --assume-yes texlive-latex-extra texlive-extra-utils latexmk \
  && apt-get clean \
- && rm -rf /var/lib/apt/lists/*
+ && rm -rf /var/lib/apt/lists/* \
  && wget -q https://www.tug.org/fonts/getnonfreefonts/install-getnonfreefonts \
  && sudo texlua ./install-getnonfreefonts \
  && getnonfreefonts --user --all
