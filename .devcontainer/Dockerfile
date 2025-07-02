@@ -7,7 +7,7 @@ RUN curl -LsSf https://astral.sh/uv/install.sh | sh \
 
 # Install LaTeX and free fonts.
 RUN apt-get --quiet update \
- && apt-get install --assume-yes texlive-latex-extra texlive-extra-utils latexmk \
+ && apt-get install --assume-yes texlive-latex-extra texlive-extra-utils texlive-fonts-extra latexmk \
  && apt-get clean \
  && rm -rf /var/lib/apt/lists/* \
  && wget -q https://www.tug.org/fonts/getnonfreefonts/install-getnonfreefonts \
