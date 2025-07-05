@@ -4,6 +4,8 @@
 
 ## 2025 Marked Queen
 
+2025-07-05 Saw eggs and brood, no signs of swarming.  Saw the queen.  Reduced the entrance because there are lots of wasps around.
+
 2025-06-30 Put on a clearer board for the top super.
 
 2025-06-29 Saw the queen, saw eggs no signs of swarming.  They really aren't using the supers so I will take off the top one.

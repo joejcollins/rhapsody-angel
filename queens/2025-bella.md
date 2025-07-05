@@ -4,6 +4,8 @@
 
 ## 2025 Marked Queen
 
+2025-07-05 Saw eggs and brood, no signs of swarming.  Reduced the entrance because there are lots of wasps around.
+
 2025-06-30 Upgraded to 9 x 9 frames.
 
 2025-06-29 Saw the queen, saw eggs no signs of swarming.  But there is a bit of back filling.  They probably need a couple more brood frames.
