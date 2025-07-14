@@ -1,8 +1,10 @@
 # Regina
 
-## 8 x 8  F + 1 S
+## 8 x 8  F
 
 ## 2023 Marked Queen
+
+2025-07-14 Saw the queen, eggs and brood.  They are not drawing out the comb.  Maybe because of the drought there is no nectar.  They could be squeezed down to one box.
 
 2025-07-05 Saw eggs and brood, no signs of swarming.  Reduced the entrance because there are lots of wasps around.
 

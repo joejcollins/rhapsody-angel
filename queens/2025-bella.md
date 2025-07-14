@@ -4,6 +4,8 @@
 
 ## 2025 Marked Queen
 
+2025-07-14 Saw eggs and brood but didn't see the queen.  There is stored syrup but nothing in the super.  
+
 2025-07-05 Saw eggs and brood, no signs of swarming.  Reduced the entrance because there are lots of wasps around.
 
 2025-06-30 Upgraded to 9 x 9 frames.

@@ -4,6 +4,8 @@
 
 ## 2025 Marked Queen
 
+2025-07-14 Saw the queen, eggs and brood.  Plenty of stores but none in the super that has all be eaten, I am guessing because of the drought there is no nectar.
+
 2025-07-05 Saw eggs and brood, no signs of swarming.  Reduced the entrance because there are lots of wasps around.
 
 2025-06-30 Upgraded to 10 x 10 frames.

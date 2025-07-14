@@ -1,8 +1,10 @@
 # Bobby
 
-## 10 F + 3 S
+## 10 F + 2 S
 
 ## 2025 Marked Queen
+
+2025-07-14 Saw the queen, eggs and brood.  They are not drawing out the comb.  Maybe because of the drought there is no nectar.
 
 2025-07-05 Saw eggs and brood, no signs of swarming.  Saw the queen.  Reduced the entrance because there are lots of wasps around.
 
