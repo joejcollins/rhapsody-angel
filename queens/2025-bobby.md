@@ -1,6 +1,6 @@
 # Bobby
 
-## 10 F + 2 S
+## 11 F + 1 S
 
 ## 2025 Marked Queen
 
