@@ -1,8 +1,10 @@
 # Bella
 
-## 9 x 9 F + 1 S
+## 10 x 10 F + 1 S
 
 ## 2025 Marked Queen
+
+2027-07-21 Added two more frames so now they are on cross 10s with dummy boards.
 
 2025-07-14 Saw eggs and brood but didn't see the queen.  There is stored syrup but nothing in the super.  
 

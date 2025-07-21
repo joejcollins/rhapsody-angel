@@ -1,10 +1,10 @@
 # Brandy
 
-## 10 x 10 F
+## 10 x 10 F + 1 S
 
 ## 2025 Queenless
 
-2027-07-27 Check for laying queen.
+2027-07-21 Checked for laying queen.  Loads of brood, grubs and eggs.
 
 2025-07-05 Reduced the entrance because there are lots of wasps around.
 

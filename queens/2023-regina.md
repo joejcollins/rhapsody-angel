@@ -1,8 +1,10 @@
 # Regina
 
-## 8 x 8  F
+## 11  F
 
 ## 2023 Marked Queen
+
+2027-07-21  Saw the eggs and brood.  Squeezed them down on to 11 frames ready for sale.
 
 2025-07-14 Saw the queen, eggs and brood.  They are not drawing out the comb.  Maybe because of the drought there is no nectar.  They could be squeezed down to one box.
 
