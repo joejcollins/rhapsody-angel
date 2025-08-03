@@ -4,7 +4,9 @@
 
 ## 2025 Marked Queen
 
-2027-07-21 Saw the queen, raised the number of frames to 11 ready for sale.
+2025-08-03 Saw the queen, eggs and brood they have stores but are not busting out.  The weather is still dry so maybe not much nectar.
+
+2025-07-21 Saw the queen, raised the number of frames to 11 ready for sale.
 
 2025-07-14 Saw the queen, eggs and brood.  They are not drawing out the comb.  Maybe because of the drought there is no nectar.
 
