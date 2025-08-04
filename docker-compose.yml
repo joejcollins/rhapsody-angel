@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  jekyll:
+    image: jekyll/jekyll:4.2.2
+    command: jekyll serve --watch --host 0.0.0.0 --verbose
+    ports:
+      - "8080:4000"
+    volumes:
+      - .:/srv/jekyll
+    environment:
+      - JEKYLL_ENV=development

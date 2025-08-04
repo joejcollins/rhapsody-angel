@@ -1,8 +1,49 @@
 # Beekeeping
 
-Beekeeping notes
+Beekeeping notes and queen tracking for the apiary.
 
-## To Run on WSL Ubuntu 18.04
+## Quick Start - Open in Browser
+
+### Option 1: Using the serve script (Recommended)
+If you have Ruby installed:
+```bash
+./serve.sh
+```
+Then visit <http://localhost:4000/>
+
+### Option 2: Using Docker
+```bash
+docker compose up
+```
+Then visit <http://localhost:8080/>
+
+### Option 3: Manual Jekyll setup
+```bash
+bundle install
+bundle exec jekyll serve --host 0.0.0.0 --port 4000
+```
+Then visit <http://localhost:4000/>
+
+## Detailed Installation Instructions
+
+### Prerequisites
+- Ruby 2.5 or higher
+- Bundler gem
+
+### Install Dependencies
+```bash
+bundle config set --local path 'vendor/bundle'
+bundle install
+```
+
+### Run the Site
+```bash
+bundle exec jekyll serve --host 0.0.0.0 --port 4000
+```
+
+The site will be available at <http://localhost:4000/>
+
+## Legacy Installation (WSL Ubuntu 18.04)
 
 ```bash
 sudo apt-get update
@@ -25,21 +66,3 @@ ruby -v
 gem install jekyll 
 gem install bundler
 ```
-
-To serve the Jekyll site install the bundle `bundle install` then run `bundle exec jekyll serve --host 0.0.0.0`
-
-## To Run on Docker
-
-```bash
-docker-compose up
-```
-
-Then visit <http://localhost:8080/>.
-
-## To Run on Vagrant
-
-```bash
-vagrant up
-```
-
-Bogus edit
