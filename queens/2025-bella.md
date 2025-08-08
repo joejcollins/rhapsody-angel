@@ -4,6 +4,8 @@
 
 ## 2025 Marked Queen
 
+2025-08-08 Saw the queen but no eggs or brood.  There is only a small patch of brood.
+
 2027-07-21 Added two more frames so now they are on cross 10s with dummy boards.
 
 2025-07-14 Saw eggs and brood but didn't see the queen.  There is stored syrup but nothing in the super.  

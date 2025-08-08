@@ -4,6 +4,8 @@
 
 ## 2025 Marked Queen
 
+2025-08-08 No eggs or brood, didn't see the queen.  There is only a small patch of brood.
+
 2025-07-21 Saw the queen, eggs and brood.  A suspicious amount of back filling going on it the top brood box, but no signs of swarming.
 
 2025-07-14 Saw the queen, eggs and brood.  Plenty of stores but none in the super that has all be eaten, I am guessing because of the drought there is no nectar.
