@@ -1,8 +1,12 @@
 # Bella
 
-## 10 x 10 F + 1 S
+## 10 x 10 F
 
 ## 2025 Marked Queen
+
+2025-08-16 Some eggs and brood in the top box.  Empty cells in the bottom box.  Didn't see the queen.  The have eaten/removed about a third of the patty.  There is plenty of yellow dust under the hive so it could be either or both.  This hive is a bit lighter than the others so could benefit from some syrup.
+
+2025-08-13 Put on a patty of MegaBee (which was made up from 125 g of MegaBee powder and thick syrup).
 
 2025-08-08 Saw the queen but no eggs or brood.  There is only a small patch of brood.
 

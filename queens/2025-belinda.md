@@ -1,8 +1,12 @@
 # Belinda
 
-## 10 x 10 F + 1 S
+## 10 x 10 F
 
 ## 2025 Marked Queen
+
+2025-08-16 Plenty of eggs in the bottom box.  Only honey in the top box.  Saw the queen.  The have eaten/removed about a third of the patty.  There is plenty of yellow dust under the hive so it could be either or both.  
+
+2025-08-13 Put on a patty of MegaBee (which was made up from 125 g of MegaBee powder and thick syrup).  Saw the queen while I was at it.
 
 2025-08-08 No eggs or brood, didn't see the queen.  There is only a small patch of brood.
 

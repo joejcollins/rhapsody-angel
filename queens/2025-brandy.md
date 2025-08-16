@@ -1,8 +1,14 @@
 # Brandy
 
-## 10 x 10 F + 1 S
+## 10 x 10 F
 
-## 2025 Queenless
+## 2025 Queen
+
+2025-08-16 Some eggs and brood in the top box.  Empty cells in the bottom box.  Didn't see the queen.  The have eaten/removed about a third of the patty.  There is plenty of yellow dust under the hive so it could be either or both.  
+
+2025-08-13 Put on a patty of MegaBee (which was made up from 125 g of MegaBee powder and thick syrup).
+
+2025-08-09 Some brood in all stages but not that much.
 
 2027-07-21 Checked for laying queen.  Loads of brood, grubs and eggs.
 
