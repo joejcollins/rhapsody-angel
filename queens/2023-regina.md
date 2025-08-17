@@ -4,6 +4,8 @@
 
 ## 2023 Marked Queen
 
+2025-08-16 Sold.
+
 2027-08-03 Saw the queen, eggs and brood they have stores but are not busting out.
 
 2025-07-21  Saw the eggs and brood.  Squeezed them down on to 11 frames ready for sale.

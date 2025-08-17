@@ -4,6 +4,8 @@
 
 ## 2025 Queen
 
+2025-08-17 Put in the varroa slide.
+
 2025-08-16 Some eggs and brood in the top box.  Empty cells in the bottom box.  Didn't see the queen.  The have eaten/removed about a third of the patty.  There is plenty of yellow dust under the hive so it could be either or both.  
 
 2025-08-13 Put on a patty of MegaBee (which was made up from 125 g of MegaBee powder and thick syrup).
