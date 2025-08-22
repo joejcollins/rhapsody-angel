@@ -4,6 +4,10 @@
 
 ## 2025 Marked Queen
 
+2025-08-22 Apiguard on, 10 days late.
+
+2025-08-22 Varroa slide out.  Count 27.  The slide was in for 5 days not 7, so the daily count is 5.5.  The National Bee unit say that May to August: Multiply by 30.  Giving 165.  Treatment must happen before you reach 1000.
+
 2025-08-17 Put in the varroa slide.
 
 2025-08-16 Plenty of eggs in the bottom box.  Only honey in the top box.  Saw the queen.  The have eaten/removed about a third of the patty.  There is plenty of yellow dust under the hive so it could be either or both.  
