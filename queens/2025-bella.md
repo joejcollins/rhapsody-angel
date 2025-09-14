@@ -4,6 +4,8 @@
 
 ## 2025 Marked Queen
 
+2025-09-06 Apiguard tray two on.  Also added half a block of Candipolline Gold.
+
 2025-08-28 Put on a blob of MegaBee (which was made up from 75 g of MegaBee powder and thick syrup).
 
 2025-08-25 Put on a patty of MegaBee (which was made up from 50 g of MegaBee powder and thick syrup).  Also put on a 330 g of Candipolline Gold to see if they would like that too.  Also added thick syrup in a bowl and straw feeder.
